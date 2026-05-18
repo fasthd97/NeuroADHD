@@ -1,4 +1,603 @@
 {
-  "generated": null,
-  "topics": []
+  "generated": "2026-05-18T19:13:45.003Z",
+  "topics": [
+    {
+      "id": "tech",
+      "label": "Tech & AI",
+      "articles": [
+        {
+          "headline": "These 11 Automatic Cat Feeders Were the Best We Tested in 2026",
+          "source": "Wired",
+          "summary": "We tested some of the most popular automatic dry- and wet-food pet feeders to see which ones are worth the money.",
+          "url": "https://www.wired.com/gallery/best-automatic-cat-feeders/",
+          "published": "2026-05-18T18:06:12.000Z"
+        },
+        {
+          "headline": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+          "source": "Wired",
+          "summary": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
+          "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+          "published": "2026-05-18T17:40:30.000Z"
+        },
+        {
+          "headline": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+          "source": "TechCrunch",
+          "summary": "Elon Musk's claim that he was mistreated by his OpenAI cofounders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+          "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+          "published": "2026-05-18T17:34:43.000Z"
+        },
+        {
+          "headline": "NYC Health and Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
+          "source": "TechCrunch",
+          "summary": "The New York public healthcare system said hackers stole personal and medical data, and scans of biometrics — including fingerprints — in one of the largest recorded breaches of 2026.",
+          "url": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
+          "published": "2026-05-18T16:32:33.000Z"
+        },
+        {
+          "headline": "Kin Health raises $9M to build an AI notetaker for patients",
+          "source": "TechCrunch",
+          "summary": "The app is similar to a meeting notetaker: you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family and friends if you want to.",
+          "url": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
+          "published": "2026-05-18T15:26:00.000Z"
+        },
+        {
+          "headline": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+          "source": "TechCrunch",
+          "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+          "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+          "published": "2026-05-18T14:56:47.000Z"
+        },
+        {
+          "headline": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom",
+          "source": "TechCrunch",
+          "summary": "The open source project said hackers stole its codebase and threatened to publish its source code if the company did not pay.",
+          "url": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/",
+          "published": "2026-05-18T13:42:19.000Z"
+        },
+        {
+          "headline": "The Catastrophic Swatch x Audemars Piguet Launch Was Entirely Predictable and Utterly Avoidable",
+          "source": "Wired",
+          "summary": "So why didn’t Swatch do anything to avoid it?",
+          "url": "https://www.wired.com/story/the-catastrophic-swatch-x-audemars-piguet-launch-was-entirely-predictable-and-utterly-avoidable/",
+          "published": "2026-05-18T13:38:01.000Z"
+        },
+        {
+          "headline": "South Korea’s LetinAR is building optics behind AI glasses",
+          "source": "TechCrunch",
+          "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
+          "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+          "published": "2026-05-18T11:00:00.000Z"
+        },
+        {
+          "headline": "How to Watch Google I/O 2026",
+          "source": "Wired",
+          "summary": "Google I/O is back with updates to Search, Android, Gemini, and a fresh peek at upcoming Android XR smart glasses. Here's how to watch the announcements live and what to expect.",
+          "url": "https://www.wired.com/story/how-to-watch-google-io/",
+          "published": "2026-05-18T11:00:00.000Z"
+        },
+        {
+          "headline": "The Backward Logic of Chickenpox Parties",
+          "source": "Wired",
+          "summary": "Before vaccines, some parents intentionally exposed their children to the virus. In the internet age, that thinking is resurfacing.",
+          "url": "https://www.wired.com/story/chickenpox-parties-and-the-pre-vaccine-internet/",
+          "published": "2026-05-18T11:00:00.000Z"
+        },
+        {
+          "headline": "Supercharging Immune Cells May Help Control HIV Long-Term",
+          "source": "Wired",
+          "summary": "CAR-T cell therapy is already a potent treatment for certain cancers. Now, a small study is showing early promise for managing HIV.",
+          "url": "https://www.wired.com/story/car-t-therapy-may-help-control-hiv-long-term/",
+          "published": "2026-05-18T10:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "label": "Science",
+      "articles": [
+        {
+          "headline": "What is love? Even a meeting on the subject can't find the answer",
+          "source": "New Scientist",
+          "summary": "Scientists recently gathered for a conference called Love, Actually and in Theory, but didn't settle on a definition of the topic at hand",
+          "url": "https://www.newscientist.com/article/2526751-what-is-love-even-a-meeting-on-the-subject-cant-find-the-answer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "published": "2026-05-18T16:00:19.000Z"
+        },
+        {
+          "headline": "How I used psychology to come back from the worst year of my life",
+          "source": "New Scientist",
+          "summary": "Work, illness, divorce: life is riddled with stressors out of your control. But research is revealing new ways to cope with these challenges and find hope instead of despair",
+          "url": "https://www.newscientist.com/article/2526019-how-i-used-psychology-to-come-back-from-the-worst-year-of-my-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "published": "2026-05-18T16:00:16.000Z"
+        },
+        {
+          "headline": "The 3 things you need to know about protein, according to an expert",
+          "source": "New Scientist",
+          "summary": "Why have so many people become fixated on protein? Donald Layman is one of the people behind the research showing the benefits of getting more protein in your diet, but he thinks things have gone too far and wants to set the record straight",
+          "url": "https://www.newscientist.com/article/2526684-the-3-things-you-need-to-know-about-protein-according-to-an-expert/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "published": "2026-05-18T14:00:57.000Z"
+        },
+        {
+          "headline": "The Ebola emergency shines a light on the urgent need for new vaccines",
+          "source": "New Scientist",
+          "summary": "A little-known strain of Ebola virus is behind an ongoing health emergency, prompting researchers to call for the acceleration of vaccine candidates against such infections",
+          "url": "https://www.newscientist.com/article/2527072-the-ebola-emergency-shines-a-light-on-the-urgent-need-for-new-vaccines/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "published": "2026-05-18T13:11:15.000Z"
+        },
+        {
+          "headline": "Your body clock has seasonal rhythms and it matters for vaccines",
+          "source": "New Scientist",
+          "summary": "We think of our body clock ticking over on a 24-hour cycle, but evidence is growing that it has seasonal rhythms, which could affect our response to vaccines",
+          "url": "https://www.newscientist.com/article/2526726-your-body-clock-has-seasonal-rhythms-and-it-matters-for-vaccines/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "published": "2026-05-18T12:00:51.000Z"
+        },
+        {
+          "headline": "Schrödinger’s clock: Time could tick faster and slower at the same time",
+          "source": "Science Daily",
+          "summary": "Time might be even stranger than Einstein imagined. Physicists are now exploring the possibility that a single clock could exist in a quantum superposition, ticking both faster and slower at the same time — almost like Schrödinger’s cat being both alive and dead simultaneously. U",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260517211440.htm",
+          "published": "2026-05-18T10:21:09.000Z"
+        },
+        {
+          "headline": "The ‘doomsday’ glacier’s giant ice shelf is about to break away",
+          "source": "New Scientist",
+          "summary": "The floating ice shelf of world’s widest glacier – Thwaites glacier in Antarctica – is detaching, with worrying implications for global sea-level rise",
+          "url": "https://www.newscientist.com/article/2526826-the-doomsday-glaciers-giant-ice-shelf-is-about-to-break-away/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "published": "2026-05-18T10:00:26.000Z"
+        },
+        {
+          "headline": "This popular fermented food may help flush microplastics from the body",
+          "source": "Science Daily",
+          "summary": "Scientists in South Korea have discovered that a probiotic bacterium found in kimchi may help the body flush out tiny plastic particles before they can build up in organs. In lab tests, the kimchi-derived microbe clung tightly to nanoplastics even under conditions designed to mim",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260517211451.htm",
+          "published": "2026-05-18T09:59:47.000Z"
+        },
+        {
+          "headline": "Plant believed extinct for 60 years suddenly reappears",
+          "source": "Science Daily",
+          "summary": "A random photo snapped in the Australian outback has led to the rediscovery of a plant thought extinct for nearly 60 years — proving that ordinary people with smartphones are quietly transforming science. After bird bander Aaron Bean uploaded pictures of a strange shrub to iNatur",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260517211447.htm",
+          "published": "2026-05-18T08:51:42.000Z"
+        },
+        {
+          "headline": "The “impossible” LED that could change everything",
+          "source": "Science Daily",
+          "summary": "Scientists at the University of Cambridge have achieved what was once considered impossible by electrically powering insulating nanoparticles to create a completely new kind of LED. Using tiny organic “molecular antennas,” the team found a way to funnel energy into materials that",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260518011222.htm",
+          "published": "2026-05-18T05:18:55.000Z"
+        },
+        {
+          "headline": "Scientists just unlocked a cheaper way to make clean hydrogen fuel",
+          "source": "Science Daily",
+          "summary": "Researchers have developed a durable new catalyst that produces clean hydrogen without relying on expensive platinum metals. The breakthrough could make renewable hydrogen fuel cheaper, more efficient, and easier to scale for real-world energy use.",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260517211437.htm",
+          "published": "2026-05-18T04:55:16.000Z"
+        },
+        {
+          "headline": "Scientists opened a sealed envelope after 10 years and gravity still didn’t make sense",
+          "source": "Science Daily",
+          "summary": "For more than 200 years, scientists have struggled to pin down the exact strength of gravity — and one physicist spent a decade chasing the answer while keeping his own results hidden from himself. Stephan Schlamminger and his team at NIST painstakingly recreated a landmark Frenc",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260517211443.htm",
+          "published": "2026-05-18T01:14:43.000Z"
+        }
+      ]
+    },
+    {
+      "id": "politics",
+      "label": "Politics",
+      "articles": [
+        {
+          "headline": "Trump Warns Iran the ‘Clock Is Ticking’ as Tensions Surge Again in Middle East",
+          "source": "NY Times World",
+          "summary": "The president has sought to force Iran to accept his terms on its nuclear program or else face renewed war. An emboldened Iran has rebuffed Trump’s demands.",
+          "url": "https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html",
+          "published": "2026-05-18T18:51:43.000Z"
+        },
+        {
+          "headline": "Ebola Was Identified in Congo Weeks Before W.H.O. Declared an Emergency",
+          "source": "NY Times World",
+          "summary": "Early surveillance and testing failed to identify Bundibugyo, a rare species of Ebola responsible for the current outbreak.",
+          "url": "https://www.nytimes.com/2026/05/18/world/africa/congo-ebola-testing.html",
+          "published": "2026-05-18T18:44:46.000Z"
+        },
+        {
+          "headline": "Four killed in protests during Kenyan strikes over high fuel prices",
+          "source": "BBC World",
+          "summary": "Thousands of commuters are stranded, with key roads in the capital Nairobi largely empty due to the protests over fuel costs.",
+          "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-18T16:49:45.000Z"
+        },
+        {
+          "headline": "At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed",
+          "source": "BBC World",
+          "summary": "One of the six Americans is experiencing symptoms, according to media reports. One province in Congo reports 390 cases.",
+          "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-18T16:20:30.000Z"
+        },
+        {
+          "headline": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
+          "source": "BBC World",
+          "summary": "It marks a grim milestone in the conflict between Israel and the Lebanese armed group Hezbollah since March, despite a nominal ceasefire.",
+          "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-18T16:16:38.000Z"
+        },
+        {
+          "headline": "What is Ebola and why is stopping this outbreak so difficult?",
+          "source": "BBC World",
+          "summary": "An outbreak of Ebola in DR Congo involves a rare strain and is in an area affected by conflict.",
+          "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-18T15:52:38.000Z"
+        },
+        {
+          "headline": "Shakira wins £50m tax refund from Spanish government",
+          "source": "BBC World",
+          "summary": "The Colombian singer says the court ruling means the \"narrative\" that she was guilty now \"crumbles\".",
+          "url": "https://www.bbc.com/news/articles/cd9pzd14vj5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-18T15:08:40.000Z"
+        },
+        {
+          "headline": "Two men arrested over stunt at enclosure of famous monkey Punch",
+          "source": "BBC World",
+          "summary": "Two US nationals have been arrested after one jumped the fence of the monkey, who went viral online, police say.",
+          "url": "https://www.bbc.com/news/articles/cr5pz4jvlp5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-18T14:51:53.000Z"
+        },
+        {
+          "headline": "Trump’s Taiwan Gambit is Already a Gift to China",
+          "source": "NY Times World",
+          "summary": "President Trump’s open willingness to hold up a $14 billion Taiwan arms package is a win for Beijing. Now China could be weighing how to keep the weapons on ice for as long as it can.",
+          "url": "https://www.nytimes.com/2026/05/18/world/asia/trump-taiwan-china-weapons.html",
+          "published": "2026-05-18T12:11:49.000Z"
+        },
+        {
+          "headline": "Blocked Strait of Hormuz Leads to New Opportunities for Syria",
+          "source": "NY Times World",
+          "summary": "The latest war in the Middle East has created new economic opportunities for Syria thanks to its geography.",
+          "url": "https://www.nytimes.com/2026/05/18/world/middleeast/strait-hormuz-blockade-iran-war-syria-oil.html",
+          "published": "2026-05-18T09:55:24.000Z"
+        },
+        {
+          "headline": "In Closed-Door Talks, U.S. Demands a Major Role in Greenland",
+          "source": "NY Times World",
+          "summary": "Greenlandic officials worry about the direction of the negotiations aimed at defusing President Trump’s threats to seize their island. But they have little leverage.",
+          "url": "https://www.nytimes.com/2026/05/18/world/europe/us-greenland-talks-trump.html",
+          "published": "2026-05-18T09:01:55.000Z"
+        },
+        {
+          "headline": "He Shut Liquor Stores and Banned Abortion, All for the Glory of Russia",
+          "source": "NY Times World",
+          "summary": "A firebrand governor aims to transform his region into a laboratory for the Kremlin’s reactionary ideals.",
+          "url": "https://www.nytimes.com/2026/05/18/world/europe/russia-governor-vologda.html",
+          "published": "2026-05-18T09:00:16.000Z"
+        }
+      ]
+    },
+    {
+      "id": "rpg",
+      "label": "RPGs",
+      "articles": [
+        {
+          "headline": "D&D becomes a true space opera with Neon Odyssey",
+          "source": "Polygon",
+          "summary": "Avantris Entertainment explains how Neon Odyssey evolved into a hopeful sci-fi space opera inspired by the likes of Star Wars and Cowboy Bebop.",
+          "url": "https://www.polygon.com/dnd-neon-odyssey-kickstarter-interview-spelljammer/",
+          "published": "2026-05-18T18:30:14.000Z"
+        },
+        {
+          "headline": "PlayStation Plus price increase rolling out for some players",
+          "source": "Polygon",
+          "summary": "PlayStation Plus Essential, the cheapest tier of PlayStation Plus, is about to get a little more expensive, Sony announced.",
+          "url": "https://www.polygon.com/playstation-plus-price-increase-may-2026/",
+          "published": "2026-05-18T17:48:12.000Z"
+        },
+        {
+          "headline": "Zero Parades: For Dead Spies has the potential to be better than Disco Elysium",
+          "source": "Polygon",
+          "summary": "Zero Parades: For Dead Spies is the spiritual successor to Disco Elysium, and its opening few hours show it's offering something very special.",
+          "url": "https://www.polygon.com/zero-parades-for-dead-spies-impressions/",
+          "published": "2026-05-18T17:31:20.000Z"
+        },
+        {
+          "headline": "Cyclops is finally cool thanks to X-Men '97, Cosmic Invasion, and Marvel Rivals",
+          "source": "Polygon",
+          "summary": "Awesome portrayals of Cyclops in movies and games have made the X-Men character cool again ahead of his reappearance in Avengers: Doomsday",
+          "url": "https://www.polygon.com/cyclops-cool-again-x-men-marvel/",
+          "published": "2026-05-18T17:26:24.000Z"
+        },
+        {
+          "headline": "GTA 6 trailer 3 rumors appear to be a giant fake-out, angering fans",
+          "source": "Polygon",
+          "summary": "Best Buy's pre-order email made a GTA 6 trailer 3 seem imminent, but as May 18 progresses, fans are starting to lose hope.",
+          "url": "https://www.polygon.com/gta-6-trailer-3-where-are-best-buy-preorders-memes/",
+          "published": "2026-05-18T16:33:24.000Z"
+        },
+        {
+          "headline": "Umezawa’s Jitte is finally legal in MTG's Modern format",
+          "source": "Polygon",
+          "summary": "The iconic card Umezawa's Jitte has been unbanned in Modern for the first time in the format's history, but will it make an impact?",
+          "url": "https://www.polygon.com/mtg-modern-unbans-umezawa-jitte-magic-the-gathering/",
+          "published": "2026-05-18T16:30:18.000Z"
+        },
+        {
+          "headline": "Cancelled Star Wars: Knights of the Old Republic remake's voiced protagonist and naked robo-person bums bared in this reportedly leaked cinematic",
+          "source": "Rock Paper Shotgun",
+          "summary": "I'm losing you, naked blue placeholder person with a tiny red blaster and tiny bare bottom standing on my arm! Wait, what was that? Oh no, I, purple-faced placeholder robo-person am being sucked out of an airlock, as is my partner, red-faced placeholder robo-person. Our bare bott",
+          "url": "https://www.rockpapershotgun.com/cancelled-star-wars-knights-of-the-old-republic-remakes-voiced-protagonist-and-naked-robo-person-bums-bared-in-this-reportedly-leaked-cinematic",
+          "published": "2026-05-18T15:35:43.000Z"
+        },
+        {
+          "headline": "\"That lore terrifies me\": Ex-Valve writer Chet Faliszek isn't interested in writing a Half-Life 3, as he wouldn't touch a sequel \"with with a 10-foot pole\"",
+          "source": "Rock Paper Shotgun",
+          "summary": "Stop it. Stop trying to make him do it. He won't. He will not do it. He's been very clear with you. Yes, you, seemingly random commenter who's suggested that making Half-Life 3 would be a piece of cake. Former Valve writer Chet Faliszek doesn't reckon it would be. The mythical se",
+          "url": "https://www.rockpapershotgun.com/that-lore-terrifies-me-ex-valve-writer-chet-faliszek-isnt-interested-in-writing-a-half-life-3-as-he-wouldnt-touch-a-sequel-with-with-a-10-foot-pole",
+          "published": "2026-05-18T14:20:00.000Z"
+        },
+        {
+          "headline": "Sure, a new GTA 6 trailer would be nice, but it doesn't have a hope of matching the cultural significance of GTA 4's second reveal",
+          "source": "Rock Paper Shotgun",
+          "summary": "There are whispers on the wind that a new trailer for Grand Theft Auto 6 will be out this week. There were whispers it would be last week, too. Whenever the next look at Rockstar’s open world crime-’em-up arrives, it's unlikely it will have the cultural impact of Grand Theft Auto",
+          "url": "https://www.rockpapershotgun.com/sure-a-new-gta-6-trailer-would-be-nice-but-it-doesnt-have-a-hope-of-matching-the-cultural-significance-of-gta-4s-second-reveal",
+          "published": "2026-05-18T13:49:25.000Z"
+        },
+        {
+          "headline": "Extraction shooter spinoff EVE Vanguard will let you salvage ships destroyed in EVE Online, then flog the parts back to their owners",
+          "source": "Rock Paper Shotgun",
+          "summary": "EVE Vanguard, the latest attempt by Fenris 'I Can’t Believe It’s Not CCP Games' Creations at crafting a first-person shooter counterpart to EVE Online, continues to gestate within Iceland’s best-funded spinoff vats. Nearly three years after being revealed as a Shoot, Loot 'n' Sco",
+          "url": "https://www.rockpapershotgun.com/extraction-shooter-spinoff-eve-vanguard-will-let-you-salvage-ships-destroyed-in-eve-online-then-flog-the-parts-back-to-their-owners",
+          "published": "2026-05-18T12:08:25.000Z"
+        },
+        {
+          "headline": "Subnautica 2 mod makes creatures killable, despite its devs' desire to convince players to \"use non-violent and more creative solutions\"",
+          "source": "Rock Paper Shotgun",
+          "summary": "Subnautica 2 is deliberately designed to nudge you away from seeking violent solutions to your 'oh lordy there's a giant leviathan chasing me' problems, with devs Unknown Worlds having been clear that strong feelings have propelled them down that path. Yet, as they've also acknow",
+          "url": "https://www.rockpapershotgun.com/subnautica-2-mod-makes-creatures-killable-despite-its-devs-desire-to-convince-players-to-use-non-violent-and-more-creative-solutions",
+          "published": "2026-05-18T11:30:00.000Z"
+        },
+        {
+          "headline": "This week in PC games: Tokyo-drifting in Forza Horizon 6, communist grifting in Disco Elysium follow-up Zero Parades, or dystopia tifting in puzzle game Phonopolis",
+          "source": "Rock Paper Shotgun",
+          "summary": "Have no fear, dear reader. Yes, I am once standing in for Edwin to battle The Maw and bring forth its tidings of upcoming PC games. But the beast has not eaten our news editor. Not this time. Instead, Edwin's been called away to Krakow where he will be using his creature-wrestlin",
+          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-tokyo-drifting-in-forza-horizon-6-communist-grifting-in-disco-elysium-follow-up-zero-parades-or-dystopia-tifting-in-puzzle-game-phonopolis",
+          "published": "2026-05-18T11:04:11.000Z"
+        }
+      ]
+    },
+    {
+      "id": "motos",
+      "label": "Motorcycles",
+      "articles": []
+    },
+    {
+      "id": "archaeology",
+      "label": "Archaeology",
+      "articles": []
+    },
+    {
+      "id": "space",
+      "label": "Space",
+      "articles": [
+        {
+          "headline": "Four NASA payloads to fly on Astrolab’s first lunar rover",
+          "source": "SpaceNews",
+          "summary": "Astrolab’s first lunar rover will carry four NASA payloads on a mission planned to launch later this year.",
+          "url": "https://spacenews.com/four-nasa-payloads-to-fly-on-astrolabs-first-lunar-rover/",
+          "published": "2026-05-18T18:00:00.000Z"
+        },
+        {
+          "headline": "Inside Golden Dome’s push to court commercial tech firms and investors",
+          "source": "SpaceNews",
+          "summary": "Behind the classified architecture is a struggle over affordability, industrial scale and whether commercial space economics can work for national defense",
+          "url": "https://spacenews.com/inside-golden-domes-push-to-court-commercial-tech-firms-and-investors/",
+          "published": "2026-05-18T14:00:00.000Z"
+        },
+        {
+          "headline": "Tomorrow.io adds $35 million to DeepSky funding round",
+          "source": "SpaceNews",
+          "summary": "Weather intelligence provider Tomorrow.io has added $35 million to its latest funding round, bringing the total to $210 million to accelerate development of a next-generation constellation for gathering atmospheric data.",
+          "url": "https://spacenews.com/tomorrow-io-adds-35-million-to-deepsky-funding-round/",
+          "published": "2026-05-18T12:08:15.000Z"
+        },
+        {
+          "headline": "House bill restores funding for TraCSS",
+          "source": "SpaceNews",
+          "summary": "A House appropriations bill would reverse plans by the administration to stop development of a civil space traffic management system.",
+          "url": "https://spacenews.com/house-bill-restores-funding-for-tracss/",
+          "published": "2026-05-18T12:03:26.000Z"
+        },
+        {
+          "headline": "New CSF Report Sees Up To 7,000+ Satellites Launched Annually By Mid 2030’s, Highlights The Challenges With US Launch Infrastructure",
+          "source": "SpaceNews",
+          "summary": "WASHINGTON, D.C., May 18, 2026 — The Commercial Space Federation (CSF), in partnership with Rational Futures (RF), announced the release of SCRUBBED: America’s Launch Capacity Challenge, a data-driven assessment of potential […]\nThe post New CSF Report Sees Up To 7,000+ Satellite",
+          "url": "https://spacenews.com/new-csf-report-sees-up-to-7000-satellites-launched-annually-by-mid-2030s-highlights-the-challenges-with-us-launch-infrastructure/",
+          "published": "2026-05-18T12:00:00.000Z"
+        },
+        {
+          "headline": "The next war will be won — or lost — in orbit",
+          "source": "SpaceNews",
+          "summary": "We in the West have learned many things from the conflict in Ukraine. Four years on from its full-scale invasion — the war in fact having started in 2014 — we find ourselves, or should find ourselves, with a far better grasp of the nature of war, and a far greater sense of the da",
+          "url": "https://spacenews.com/the-next-war-will-be-won-or-lost-in-orbit/",
+          "published": "2026-05-18T11:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "climate",
+      "label": "Climate",
+      "articles": [
+        {
+          "headline": "Trump cuts to weather data could make forecasts less reliable, warn experts",
+          "source": "Guardian Climate",
+          "summary": "Use of AI is a valuable tool for weather prediction but only when it’s trained with ample data, experts say\nAs the US prepares for hurricane season and a summer of record-breaking heat, experts fear the Trump administration’s cuts to climate and weather data programming could mak",
+          "url": "https://www.theguardian.com/us-news/2026/may/18/trump-cuts-ai-weather-prediction-forecasts",
+          "published": "2026-05-18T12:00:46.000Z"
+        },
+        {
+          "headline": "The Iran war reminds us: we’ll never be energy-independent with fossil fuels | Lloyd Doggett and Michael Shank",
+          "source": "Guardian Climate",
+          "summary": "Energy security comes from using local, renewable resources to power, heat and cool communities, as Ukraine is doing\nDonald Trump’s unjustified war on Iran and the resulting global fuel crisis is a continuing reminder that true energy security and independence will continue to el",
+          "url": "https://www.theguardian.com/commentisfree/2026/may/18/iran-war-energy-independence-fossil-fuels",
+          "published": "2026-05-18T10:00:54.000Z"
+        },
+        {
+          "headline": "Sea Level Rise and Sunny-Day Flooding Can’t Stop a Building Boom on the Jersey Shore",
+          "source": "Inside Climate News",
+          "summary": "ASBURY PARK, N.J.—Million-dollar condos are rising just off the legendary boardwalk here in what used to be a blue-collar shore town where Bruce Springsteen played as a young musician. Half an hour south, excavation is making way for luxury homes in Seaside Park at the edge of Is",
+          "url": "https://insideclimatenews.org/news/18052026/new-jersey-sea-level-rise-housing-developments/",
+          "published": "2026-05-18T09:00:00.000Z"
+        },
+        {
+          "headline": "More than 100 UK datacentres plan to burn gas to generate electricity",
+          "source": "Guardian Climate",
+          "summary": "Requests for gas connections by operators amount to more than 15 terawatt hours per year, endangering climate targets\nMore than 100 new datacentres in the UK plan to burn gas to generate electricity, some potentially doing so permanently.\nBritish officials say this is an inevitab",
+          "url": "https://www.theguardian.com/business/2026/may/18/uk-datacentres-plan-to-burn-gas-to-generate-electricity",
+          "published": "2026-05-18T04:00:59.000Z"
+        },
+        {
+          "headline": "Experts sound alarm as North America’s bees start swarm season unusually early",
+          "source": "Guardian Climate",
+          "summary": "After record losses last year, beekeepers report a warm winter has led to bees ‘waking up earlier’ this year\nAfter a series of record-breaking US heatwaves, the 2026 bee swarm season in North America has started 17 days earlier than last year, pushing beekeepers to adapt to a rap",
+          "url": "https://www.theguardian.com/environment/2026/may/17/north-america-bees-early-swarm-season",
+          "published": "2026-05-17T12:00:38.000Z"
+        },
+        {
+          "headline": "Platner’s Energy Plan Prioritizes Lowering Costs and Taking on Big Oil and the ‘Oligarchy’",
+          "source": "Inside Climate News",
+          "summary": "Graham Platner, the presumptive Democratic nominee for U.S. Senate from Maine, is known for a few things: his “more Bernie than Bernie” message of wresting back control from the rich and powerful; his biography as a Marine Corps veteran and oyster farmer with limited political ex",
+          "url": "https://insideclimatenews.org/news/17052026/maine-senate-candidate-energy-plan-to-reduce-consumer-costs/",
+          "published": "2026-05-17T09:00:00.000Z"
+        },
+        {
+          "headline": "On Sullivan Planning Board, Platner Voted to Pump the Brakes on Solar",
+          "source": "Inside Climate News",
+          "summary": "Graham Platner’s recently released energy plan navigates several tensions, including how to build clean energy projects and transmission lines quickly while also incorporating community input. Such projects are not only needed to fight climate change but to help bring down sky-hi",
+          "url": "https://insideclimatenews.org/news/17052026/graham-platner-rooftop-solar-moratorium-maine/",
+          "published": "2026-05-17T08:55:00.000Z"
+        },
+        {
+          "headline": "What to Expect as El Niño Approaches",
+          "source": "Inside Climate News",
+          "summary": "Scientists said this week that a developing El Niño is likely to amplify heatwaves, droughts and floods this year. But it’s not the biggest culprit of climate extremes.  The consequences of a moderate or strong El Niño today are more damaging than those of similar events just a f",
+          "url": "https://insideclimatenews.org/news/17052026/icn-sunday-morning-looming-el-nino/",
+          "published": "2026-05-17T08:50:00.000Z"
+        },
+        {
+          "headline": "Maldives diver dies in operation to recover bodies of Italians from cave",
+          "source": "Guardian Climate",
+          "summary": "Mohamed Mahudhee suffered decompression sickness after searching for scuba divers in Vaavu Atoll and died in hospital\nA Maldivian military diver has died during a high-risk operation to recover the bodies of four of the Italian scuba divers who drowned while exploring a deep unde",
+          "url": "https://www.theguardian.com/world/2026/may/16/maldives-scuba-divers-italy-drowned-cave",
+          "published": "2026-05-16T11:45:36.000Z"
+        },
+        {
+          "headline": "World Health Organization Must Prioritize Workers, Experts Say",
+          "source": "Inside Climate News",
+          "summary": "Every year, hundreds of millions of people around the world suffer from workplace injuries or illnesses, and nearly 3 million die from job-related accidents or exposures. Climate change is making many jobs even more dangerous, exposing millions of workers to excessive heat and to",
+          "url": "https://insideclimatenews.org/news/16052026/world-health-organization-worker-safety/",
+          "published": "2026-05-16T09:00:00.000Z"
+        },
+        {
+          "headline": "After Snowy Winter Delays Prevention, New Jersey Faces Rising Wildfire Risk",
+          "source": "Inside Climate News",
+          "summary": "The New Jersey Forest Fire Service this month announced an elevated risk for fire spread across Delaware and parts of New Jersey. Conditions aligned—humidity dropped, temperatures rose into the 80s and southwest winds were gusting up to 30 miles per hour, elevating fire risk acro",
+          "url": "https://insideclimatenews.org/news/16052026/new-jersey-wildfire-risk-after-snowy-winter-delays-prescribed-burns/",
+          "published": "2026-05-16T08:55:00.000Z"
+        },
+        {
+          "headline": "Declare climate crisis a global public health emergency, experts tell WHO",
+          "source": "Guardian Climate",
+          "summary": "Exclusive: Commission says alert would trigger coordinated international response that could help avoid millions dying\nThe climate crisis should be declared a global public health emergency by the World Health Organization, or millions more people will die unnecessarily, leading ",
+          "url": "https://www.theguardian.com/environment/2026/may/16/who-should-declare-climate-crisis-global-public-health-emergency-experts-say",
+          "published": "2026-05-16T04:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "hacking",
+      "label": "Hacking & Security",
+      "articles": [
+        {
+          "headline": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
+          "source": "The Hacker News",
+          "summary": "INTERPOL has coordinated a first-of-its-kind cybercrime crackdown across the Middle East and North Africa (MENA) that led to 201 arrests and the identification of an additional 382 suspects.\nThe initiative involved the efforts of 13 countries from the region between October 2025 ",
+          "url": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
+          "published": "2026-05-18T17:21:18.000Z"
+        },
+        {
+          "headline": "⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
+          "source": "The Hacker News",
+          "summary": "Monday opens with a trust problem. A mail server flaw is under active use. A network control system was targeted. Trusted packages were poisoned. A fake model page pushed a stealer. Then came the familiar ransom claim: the data was returned and deleted.\nThe pattern is clear. One ",
+          "url": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
+          "published": "2026-05-18T13:50:17.000Z"
+        },
+        {
+          "headline": "How to Reduce Phishing Exposure Before It Turns into Business Disruption",
+          "source": "The Hacker News",
+          "summary": "What happens when a phishing email looks clean enough to pass through security, but dangerous enough to expose the business after one click? That is the gap many SOCs still struggle with: the attacks that leave teams unsure what was exposed, who else was targeted, and how far the",
+          "url": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html",
+          "published": "2026-05-18T13:00:00.000Z"
+        },
+        {
+          "headline": "Developer Workstations Are Now Part of the Software Supply Chain",
+          "source": "The Hacker News",
+          "summary": "Supply chain attackers are not only trying to slip malicious code into trusted software. They are trying to steal the access that makes trusted software possible. Recently, three separate campaigns hit npm, PyPI, and Docker Hub in a 48-hour window, and all three targeted secrets ",
+          "url": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
+          "published": "2026-05-18T11:23:41.000Z"
+        },
+        {
+          "headline": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
+          "source": "The Hacker News",
+          "summary": "Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code.\nTopping the list is a critical flaw impacting Ivanti Xtraction (CVE-2026-8043, CVSS score: 9.",
+          "url": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
+          "published": "2026-05-18T10:54:05.000Z"
+        },
+        {
+          "headline": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
+          "source": "The Hacker News",
+          "summary": "Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges on fully patched Windows systems.\nCodena",
+          "url": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
+          "published": "2026-05-18T08:57:34.000Z"
+        },
+        {
+          "headline": "Patch Tuesday, May 2026 Edition",
+          "source": "Krebs on Security",
+          "summary": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used s",
+          "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
+          "published": "2026-05-12T21:46:45.000Z"
+        },
+        {
+          "headline": "Canvas Breach Disrupts Schools & Colleges Nationwide",
+          "source": "Krebs on Security",
+          "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service's login page with a ransom demand tha",
+          "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
+          "published": "2026-05-08T02:58:46.000Z"
+        },
+        {
+          "headline": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
+          "source": "Krebs on Security",
+          "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOnSecurity has learned. The firm",
+          "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
+          "published": "2026-04-30T14:04:26.000Z"
+        },
+        {
+          "headline": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
+          "source": "Krebs on Security",
+          "summary": "A 24-year-old British national and senior member of the cybercrime group \"Scattered Spider\" has pleaded guilty to wire fraud conspiracy and aggravated identity theft. Tyler Robert Buchanan admitted his role in a series of text-message phishing attacks in the summer of 2022 that a",
+          "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
+          "published": "2026-04-21T14:53:59.000Z"
+        },
+        {
+          "headline": "Patch Tuesday, April 2026 Edition",
+          "source": "Krebs on Security",
+          "summary": "Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly disclosed weakness in Windows Defender dubbed \"BlueHammer.\" Separately, Google Chr",
+          "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+          "published": "2026-04-14T21:47:59.000Z"
+        },
+        {
+          "headline": "Russia Hacked Routers to Steal Microsoft Office Tokens",
+          "source": "Krebs on Security",
+          "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon auth",
+          "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
+          "published": "2026-04-07T17:02:44.000Z"
+        }
+      ]
+    }
+  ]
 }
