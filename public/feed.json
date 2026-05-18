@@ -1,10 +1,17 @@
 {
-  "generated": "2026-05-18T19:13:45.003Z",
+  "generated": "2026-05-18T20:33:45.419Z",
   "topics": [
     {
       "id": "tech",
       "label": "Tech & AI",
       "articles": [
+        {
+          "headline": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+          "source": "TechCrunch",
+          "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+          "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+          "published": "2026-05-18T19:27:52.000Z"
+        },
         {
           "headline": "These 11 Automatic Cat Feeders Were the Best We Tested in 2026",
           "source": "Wired",
@@ -22,12 +29,12 @@
         {
           "headline": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
           "source": "TechCrunch",
-          "summary": "Elon Musk's claim that he was mistreated by his OpenAI cofounders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+          "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
           "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
           "published": "2026-05-18T17:34:43.000Z"
         },
         {
-          "headline": "NYC Health and Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
+          "headline": "NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
           "source": "TechCrunch",
           "summary": "The New York public healthcare system said hackers stole personal and medical data, and scans of biometrics — including fingerprints — in one of the largest recorded breaches of 2026.",
           "url": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
@@ -36,7 +43,7 @@
         {
           "headline": "Kin Health raises $9M to build an AI notetaker for patients",
           "source": "TechCrunch",
-          "summary": "The app is similar to a meeting notetaker: you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family and friends if you want to.",
+          "summary": "The app is similar to a meeting notetaker — you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family and friends if you want to.",
           "url": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
           "published": "2026-05-18T15:26:00.000Z"
         },
@@ -46,6 +53,13 @@
           "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
           "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
           "published": "2026-05-18T14:56:47.000Z"
+        },
+        {
+          "headline": "Leica Cine Play 1 Review: Pricey but Worth Every Penny",
+          "source": "Wired",
+          "summary": "Leica’s first home entertainment projector is pricey, but like the company’s cameras, the image quality is worth the splurge.",
+          "url": "https://www.wired.com/review/review-leica-cine-play-1/",
+          "published": "2026-05-18T14:33:00.000Z"
         },
         {
           "headline": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom",
@@ -62,13 +76,6 @@
           "published": "2026-05-18T13:38:01.000Z"
         },
         {
-          "headline": "South Korea’s LetinAR is building optics behind AI glasses",
-          "source": "TechCrunch",
-          "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
-          "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-          "published": "2026-05-18T11:00:00.000Z"
-        },
-        {
           "headline": "How to Watch Google I/O 2026",
           "source": "Wired",
           "summary": "Google I/O is back with updates to Search, Android, Gemini, and a fresh peek at upcoming Android XR smart glasses. Here's how to watch the announcements live and what to expect.",
@@ -81,13 +88,6 @@
           "summary": "Before vaccines, some parents intentionally exposed their children to the virus. In the internet age, that thinking is resurfacing.",
           "url": "https://www.wired.com/story/chickenpox-parties-and-the-pre-vaccine-internet/",
           "published": "2026-05-18T11:00:00.000Z"
-        },
-        {
-          "headline": "Supercharging Immune Cells May Help Control HIV Long-Term",
-          "source": "Wired",
-          "summary": "CAR-T cell therapy is already a potent treatment for certain cancers. Now, a small study is showing early promise for managing HIV.",
-          "url": "https://www.wired.com/story/car-t-therapy-may-help-control-hiv-long-term/",
-          "published": "2026-05-18T10:30:00.000Z"
         }
       ]
     },
@@ -186,6 +186,27 @@
       "label": "Politics",
       "articles": [
         {
+          "headline": "Trump says he called off new Iran attack at request of Gulf states",
+          "source": "BBC World",
+          "summary": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
+          "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-18T20:25:42.000Z"
+        },
+        {
+          "headline": "Ebola Was Identified in Congo Weeks Before W.H.O. Declared an Emergency",
+          "source": "NY Times World",
+          "summary": "Early surveillance and testing failed to identify the rare species of Ebola responsible for the current outbreak. An American doctor is among the confirmed cases.",
+          "url": "https://www.nytimes.com/2026/05/18/world/africa/congo-ebola-testing.html",
+          "published": "2026-05-18T20:05:11.000Z"
+        },
+        {
+          "headline": "At least 100 dead in Ebola outbreak in DR Congo, official says",
+          "source": "BBC World",
+          "summary": "The World Health Organization (WHO) has declared the outbreak an international emergency.",
+          "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-18T19:31:18.000Z"
+        },
+        {
           "headline": "Trump Warns Iran the ‘Clock Is Ticking’ as Tensions Surge Again in Middle East",
           "source": "NY Times World",
           "summary": "The president has sought to force Iran to accept his terms on its nuclear program or else face renewed war. An emboldened Iran has rebuffed Trump’s demands.",
@@ -193,25 +214,11 @@
           "published": "2026-05-18T18:51:43.000Z"
         },
         {
-          "headline": "Ebola Was Identified in Congo Weeks Before W.H.O. Declared an Emergency",
-          "source": "NY Times World",
-          "summary": "Early surveillance and testing failed to identify Bundibugyo, a rare species of Ebola responsible for the current outbreak.",
-          "url": "https://www.nytimes.com/2026/05/18/world/africa/congo-ebola-testing.html",
-          "published": "2026-05-18T18:44:46.000Z"
-        },
-        {
           "headline": "Four killed in protests during Kenyan strikes over high fuel prices",
           "source": "BBC World",
           "summary": "Thousands of commuters are stranded, with key roads in the capital Nairobi largely empty due to the protests over fuel costs.",
           "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
           "published": "2026-05-18T16:49:45.000Z"
-        },
-        {
-          "headline": "At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed",
-          "source": "BBC World",
-          "summary": "One of the six Americans is experiencing symptoms, according to media reports. One province in Congo reports 390 cases.",
-          "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-18T16:20:30.000Z"
         },
         {
           "headline": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
@@ -226,13 +233,6 @@
           "summary": "An outbreak of Ebola in DR Congo involves a rare strain and is in an area affected by conflict.",
           "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
           "published": "2026-05-18T15:52:38.000Z"
-        },
-        {
-          "headline": "Shakira wins £50m tax refund from Spanish government",
-          "source": "BBC World",
-          "summary": "The Colombian singer says the court ruling means the \"narrative\" that she was guilty now \"crumbles\".",
-          "url": "https://www.bbc.com/news/articles/cd9pzd14vj5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-18T15:08:40.000Z"
         },
         {
           "headline": "Two men arrested over stunt at enclosure of famous monkey Punch",
@@ -276,46 +276,46 @@
       "label": "RPGs",
       "articles": [
         {
-          "headline": "D&D becomes a true space opera with Neon Odyssey",
+          "headline": "How to make a metal farm in Subnautica 2",
           "source": "Polygon",
-          "summary": "Avantris Entertainment explains how Neon Odyssey evolved into a hopeful sci-fi space opera inspired by the likes of Star Wars and Cowboy Bebop.",
-          "url": "https://www.polygon.com/dnd-neon-odyssey-kickstarter-interview-spelljammer/",
-          "published": "2026-05-18T18:30:14.000Z"
+          "summary": "You can be soft locked if you're not careful with your materials in Subnautica 2. Here's how to make a metal farm to avoid that problem.",
+          "url": "https://www.polygon.com/subnautica-2-metal-farm-blueprints-how-to-get-craft/",
+          "published": "2026-05-18T20:22:49.000Z"
         },
         {
-          "headline": "PlayStation Plus price increase rolling out for some players",
+          "headline": "Fastest cars in Forza Horizon 6",
           "source": "Polygon",
-          "summary": "PlayStation Plus Essential, the cheapest tier of PlayStation Plus, is about to get a little more expensive, Sony announced.",
-          "url": "https://www.polygon.com/playstation-plus-price-increase-may-2026/",
-          "published": "2026-05-18T17:48:12.000Z"
+          "summary": "In this guide, you find a list of all the fastest cars in Forza Horizon 6 and their price if you buy them in the Autoshow.",
+          "url": "https://www.polygon.com/forza-horizon-6-fh6-fastest-cars/",
+          "published": "2026-05-18T20:20:09.000Z"
         },
         {
-          "headline": "Zero Parades: For Dead Spies has the potential to be better than Disco Elysium",
+          "headline": "Where to find troilite in Subnautica 2",
           "source": "Polygon",
-          "summary": "Zero Parades: For Dead Spies is the spiritual successor to Disco Elysium, and its opening few hours show it's offering something very special.",
-          "url": "https://www.polygon.com/zero-parades-for-dead-spies-impressions/",
-          "published": "2026-05-18T17:31:20.000Z"
+          "summary": "How to get troilite for mangalloy ingots and a metal farm in Subnautica 2",
+          "url": "https://www.polygon.com/subnautica-2-troilite-where-how-to-get-farming-location/",
+          "published": "2026-05-18T20:04:55.000Z"
         },
         {
-          "headline": "Cyclops is finally cool thanks to X-Men '97, Cosmic Invasion, and Marvel Rivals",
+          "headline": "Harry Potter season 2 to recast key actor following HBO series exit",
           "source": "Polygon",
-          "summary": "Awesome portrayals of Cyclops in movies and games have made the X-Men character cool again ahead of his reappearance in Avengers: Doomsday",
-          "url": "https://www.polygon.com/cyclops-cool-again-x-men-marvel/",
-          "published": "2026-05-18T17:26:24.000Z"
+          "summary": "One character slated for a major increased workload in season 2 will have to be recast",
+          "url": "https://www.polygon.com/harry-potter-hbo-season-2-recasting/",
+          "published": "2026-05-18T19:52:40.000Z"
         },
         {
-          "headline": "GTA 6 trailer 3 rumors appear to be a giant fake-out, angering fans",
+          "headline": "Where to find axum bacterial cultures in Subnautica 2",
           "source": "Polygon",
-          "summary": "Best Buy's pre-order email made a GTA 6 trailer 3 seem imminent, but as May 18 progresses, fans are starting to lose hope.",
-          "url": "https://www.polygon.com/gta-6-trailer-3-where-are-best-buy-preorders-memes/",
-          "published": "2026-05-18T16:33:24.000Z"
+          "summary": "How to get axum bacterial cultures and how best to spend it in Subnautica 2",
+          "url": "https://www.polygon.com/subnautica-2-axum-bacterial-culture-where-how-to-get-location/",
+          "published": "2026-05-18T19:49:43.000Z"
         },
         {
-          "headline": "Umezawa’s Jitte is finally legal in MTG's Modern format",
+          "headline": "Forza Horizon 6 early access release is a huge hit and could change how games are sold",
           "source": "Polygon",
-          "summary": "The iconic card Umezawa's Jitte has been unbanned in Modern for the first time in the format's history, but will it make an impact?",
-          "url": "https://www.polygon.com/mtg-modern-unbans-umezawa-jitte-magic-the-gathering/",
-          "published": "2026-05-18T16:30:18.000Z"
+          "summary": "Xbox is making big money from Premium Edition sales, even though the game is on Game Pass",
+          "url": "https://www.polygon.com/forza-horizon-6-early-access-launch-success-steam-players/",
+          "published": "2026-05-18T19:30:20.000Z"
         },
         {
           "headline": "Cancelled Star Wars: Knights of the Old Republic remake's voiced protagonist and naked robo-person bums bared in this reportedly leaked cinematic",
@@ -364,58 +364,186 @@
     {
       "id": "motos",
       "label": "Motorcycles",
-      "articles": []
+      "articles": [
+        {
+          "headline": "Segway's First EV Dirt Bike Is Cheap As Hell, And Your Kid Is Going to Want It",
+          "source": "RideApart",
+          "summary": "Segway's new Xaber 300 all-electric dirt bike just released to the public, and it comes with one of the best price points for the industry.",
+          "url": "https://www.rideapart.com/news/796221/segway-xaber-electric-ev-dirt-bike-price-specs-features/",
+          "published": "2026-05-18T20:01:09.000Z"
+        },
+        {
+          "headline": "BMW Just Built A Rocketship Bagger Motorcycle, And It's Called the Vision K18",
+          "source": "RideApart",
+          "summary": "This one-of-one brushed aluminum creation is making its worldwide debut at the Concorso d'Eleganza Villa d'Este, sharp lines and all.",
+          "url": "https://www.rideapart.com/news/796065/bmw-vision-k18-brushed-aluminum-design/",
+          "published": "2026-05-18T12:24:00.000Z"
+        },
+        {
+          "headline": "Toyota Built an Off-Road Electric 3-Wheeled Scooter That Fits In Your Car. You Might Be Able to Buy It",
+          "source": "RideApart",
+          "summary": "The Toyota Land Hopper Concept is what you get when you cross a Lime scooter with Toyota sensibility and add an extra wheel. And it's designed to fit in your Land Cruiser's trunk.",
+          "url": "https://www.rideapart.com/news/796032/toyota-land-hopper-concept-ev-three-wheel-trike-scooter/",
+          "published": "2026-05-18T12:23:00.000Z"
+        },
+        {
+          "headline": "Aprilia Racers Days Looks Like Track Day Summer Camp For Grown-Ups",
+          "source": "RideApart",
+          "summary": "The 2026 Aprilia Racers Days program brings premium coaching and RSV4 demo rides to iconic US tracks.",
+          "url": "https://www.rideapart.com/news/795936/2026-aprilia-racers-days-details/",
+          "published": "2026-05-18T11:42:00.000Z"
+        },
+        {
+          "headline": "This Chinese Middleweight Naked Bike Costs $7K And Has Main Character Syndrome",
+          "source": "RideApart",
+          "summary": "Letbe's Arthur 700 undercuts Japanese middleweights on price while accidentally becoming comedy gold online.",
+          "url": "https://www.rideapart.com/news/795931/letbe-arthur700-naked-motorcycle-7k-usd/",
+          "published": "2026-05-18T11:27:00.000Z"
+        },
+        {
+          "headline": "Alaska's Federal Public Lands Transfer Shows How Feds Will Sell Your Off-Road and Hunting Areas",
+          "source": "RideApart",
+          "summary": "A recent Public Lands Order transferred over a million acres of public lands in Alaska along the famed Dalton Highway shows how the federal government will begin to chip away and sell off our public lands.",
+          "url": "https://www.rideapart.com/news/795996/alaska-dalton-highway-public-land-order-state-transfer/",
+          "published": "2026-05-18T11:01:00.000Z"
+        },
+        {
+          "headline": "Le Mans MotoGP Sprint and Full Race Results (News) (Race Results)",
+          "source": "Motorcycle Daily",
+          "summary": "Jorge Martin and Aprilia dominated the MotoGP race weekend at Le Mans. This culminated in Aprilia taking every podium spot on Sunday.   Starting from the third row, Jorge Martin (Aprilia) had an amazing start to Saturday’s Sprint race, taking the first position after the second t",
+          "url": "https://www.motorcycledaily.com/2026/05/le-mans-motogp-sprint-and-full-race-results-2/",
+          "published": "2026-05-11T18:45:25.000Z"
+        },
+        {
+          "headline": "Aprilia and Marco Bezzecchi Beginning to Look Unstoppable (News)",
+          "source": "Motorcycle Daily",
+          "summary": "Aprilia’s Marco Bezzecchi is leading the MotoGP championship after the first four rounds of 2026. This is despite a disastrous record by Bezzecchi in Saturday’s Sprint races.  Bezzecchi has scored only 6 points on Saturdays out of an available 48.  He has zero points in 3 of the ",
+          "url": "https://www.motorcycledaily.com/2026/05/aprilia-and-marco-bezzecchi-beginning-to-look-unstoppable/",
+          "published": "2026-05-01T17:47:19.000Z"
+        },
+        {
+          "headline": "ZXMOTO’s Passionate Owner Drives Brand to Success in WSS (Bike Reports) (News)",
+          "source": "Motorcycle Daily",
+          "summary": "It isn’t likely you are old enough to remember the relatively sudden rise of Japanese motorcycle brands. In the United States, there was plenty of prejudice against Japanese products, much of it related to the memories of WW2. Despite this, the Japanese could not be stopped.  Peo",
+          "url": "https://www.motorcycledaily.com/2026/04/zxmotos-passionate-owner-drives-brand-to-success-in-wss/",
+          "published": "2026-04-29T00:19:28.000Z"
+        },
+        {
+          "headline": "Jerez MotoGP Sprint and Full Race Results (News)",
+          "source": "Motorcycle Daily",
+          "summary": "The MotoGP championship visited the iconic Jerez circuit this weekend, and the rabid Spanish fans had plenty to cheer about as each of the Marquez brothers took a win.  Saturday’s Sprint race was wild. Starting on a dry track, the riders were forced to switch to wet tires with ju",
+          "url": "https://www.motorcycledaily.com/2026/04/jerez-motogp-sprint-and-full-race-results-3/",
+          "published": "2026-04-27T21:36:44.000Z"
+        },
+        {
+          "headline": "KTM Super Beast:  Limited Edition 1390 Super Duke RR (Bike Reports) (News)",
+          "source": "Motorcycle Daily",
+          "summary": "If the KTM 1390 Super Duke R EVO introduced a couple of years ago to the U.S. market isn’t extreme enough for you, KTM has now announced an upgraded, limited edition (350 units worldwide) 1390 Super Duke RR.   Available in Europe soon as a 2026 model, we have no current informati",
+          "url": "https://www.motorcycledaily.com/2026/04/ktm-super-beast-limited-edition-1390-super-duke-rr/",
+          "published": "2026-04-14T23:49:17.000Z"
+        },
+        {
+          "headline": "Austin MotoGP Sprint and Full Race Results (News) (Race Results)",
+          "source": "Motorcycle Daily",
+          "summary": "The fact that Aprilia has surpassed Ducati as the most competitive bike in the MotoGP paddock was underscored in Texas last weekend.  At a track that is arguably the favorite of Ducati’s Marc Marquez, Aprilia was unstoppable. The only consolation for Ducati was the pole position ",
+          "url": "https://www.motorcycledaily.com/2026/03/austin-motogp-sprint-and-full-race-results-3/",
+          "published": "2026-03-31T23:52:23.000Z"
+        }
+      ]
     },
     {
       "id": "archaeology",
       "label": "Archaeology",
-      "articles": []
+      "articles": [
+        {
+          "headline": "The Ghost of Columbus and the Impossible Geometry of the Piri Reis Map",
+          "source": "Ancient Origins",
+          "summary": "The Ghost of Columbus and the Impossible Geometry of the Piri Reis Map\n\n            \n  \n\n\n\n      \n            \nIn 1929, while renovating the Topkapi Palace in Istanbul, a theologian discovered a fragment of gazelle skin that would rewrite the history of cartography. This was the ",
+          "url": "https://www.ancient-origins.net/news-history-archaeology/ghost-columbus-00102667",
+          "published": "2026-04-13T19:44:16.000Z"
+        },
+        {
+          "headline": "Roman Forum Found Beneath Barcelona Hotel Rewrites Barcino",
+          "source": "Ancient Origins",
+          "summary": "Roman Forum Found Beneath Barcelona Hotel Rewrites Barcino\n\n            \n  \n\n\n\n      \n            \nWhat started as a routine elevator shaft installation in a Barcelona hotel basement has turned into one of the most significant Roman archaeology discoveries in Spain in decades. Ex",
+          "url": "https://www.ancient-origins.net/news-history-archaeology/roman-forum-barcelona-00102582",
+          "published": "2026-03-10T12:00:00.000Z"
+        },
+        {
+          "headline": "Black Gold: Sumerian Bitumen Recipes Worked Like Asphalt, 4,000 Years Ago",
+          "source": "Ancient Origins",
+          "summary": "Black Gold: Sumerian Bitumen Recipes Worked Like Asphalt, 4,000 Years Ago\n\n            \n  \n\n\n\n      \n            \nSumerian craftspeople in Mesopotamia didn’t simply scoop up natural bitumen and slap it on boats or bricks. A new materials study suggests they followed repeatable “r",
+          "url": "https://www.ancient-origins.net/news-history-archaeology/sumerian-bitumen-00102535",
+          "published": "2026-02-19T23:47:26.000Z"
+        },
+        {
+          "headline": "Why Ghosts Haunt England at Christmas but Steer Clear of America",
+          "source": "Ancient Origins",
+          "summary": "Why Ghosts Haunt England at Christmas but Steer Clear of America\n\n            \n  \n\n\n\n      \n            \nA few years ago, the Downton Abbey Christmas special featured a ouija board which communicated a message from a dead character. American reviewers were extremely puzzled by th",
+          "url": "https://www.ancient-origins.net/history-ancient-traditions/why-ghosts-haunt-england-christmas-steer-clear-america-007219",
+          "published": "2025-12-25T10:00:28.000Z"
+        },
+        {
+          "headline": "Ancient Astronomical Alignments: Reading and Mapping the Stars at Early Advanced Civilization Sites",
+          "source": "Ancient Origins",
+          "summary": "Ancient Astronomical Alignments: Reading and Mapping the Stars at Early Advanced Civilization Sites \n\n            \n  \n\n\n\n      \n            \nMany of the cuneiform tablets of Mesopotamia and hieroglyphs of Egypt make reference to the sun, stars, or planetary positions. Also, a num",
+          "url": "https://www.ancient-origins.net/history-ancient-traditions/advanced-civilization-0011165",
+          "published": "2025-12-21T20:42:00.000Z"
+        },
+        {
+          "headline": "Renaissance Gallows Unearthed in France With 32 Executed Victims",
+          "source": "Ancient Origins",
+          "summary": "Renaissance Gallows Unearthed in France With 32 Executed Victims\n\n            \n  \n\n\n\n      \n            \n\nArchaeologists working in Grenoble, France, have made a chilling discovery that sheds light on the brutal religious persecution of the 16th century. The remains of a rare Ren",
+          "url": "https://www.ancient-origins.net/news-history-archaeology/renaissance-gallows-00102388",
+          "published": "2025-12-17T12:03:33.000Z"
+        }
+      ]
     },
     {
       "id": "space",
       "label": "Space",
       "articles": [
         {
-          "headline": "Four NASA payloads to fly on Astrolab’s first lunar rover",
-          "source": "SpaceNews",
-          "summary": "Astrolab’s first lunar rover will carry four NASA payloads on a mission planned to launch later this year.",
-          "url": "https://spacenews.com/four-nasa-payloads-to-fly-on-astrolabs-first-lunar-rover/",
-          "published": "2026-05-18T18:00:00.000Z"
+          "headline": "NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars",
+          "source": "NASA",
+          "summary": "In December 2023, scientists looking at Mars data stumbled across something completely unexpected — observations of an atmospheric effect never before seen in the Red Planet’s atmosphere. Using instruments aboard NASA’s MAVEN (Mars Atmosphere and Volatile Evolution) mission, scie",
+          "url": "https://science.nasa.gov/missions/maven/nasas-maven-makes-1st-discovery-of-atmospheric-effect-at-mars/",
+          "published": "2026-05-18T17:09:43.000Z"
         },
         {
-          "headline": "Inside Golden Dome’s push to court commercial tech firms and investors",
-          "source": "SpaceNews",
-          "summary": "Behind the classified architecture is a struggle over affordability, industrial scale and whether commercial space economics can work for national defense",
-          "url": "https://spacenews.com/inside-golden-domes-push-to-court-commercial-tech-firms-and-investors/",
-          "published": "2026-05-18T14:00:00.000Z"
+          "headline": "NASA Selects Next Class of Space Health Postdoctoral Fellows",
+          "source": "NASA",
+          "summary": "The NASA-funded Translational Research Institute for Space Health (TRISH) has selected two early‑career scientists for its next class of postdoctoral fellows. The new fellows will begin their projects in May, focusing on space food systems and astronaut eye health. The TRISH Post",
+          "url": "https://www.nasa.gov/news-release/nasa-selects-next-class-of-space-health-postdoctoral-fellows/",
+          "published": "2026-05-18T17:00:17.000Z"
         },
         {
-          "headline": "Tomorrow.io adds $35 million to DeepSky funding round",
-          "source": "SpaceNews",
-          "summary": "Weather intelligence provider Tomorrow.io has added $35 million to its latest funding round, bringing the total to $210 million to accelerate development of a next-generation constellation for gathering atmospheric data.",
-          "url": "https://spacenews.com/tomorrow-io-adds-35-million-to-deepsky-funding-round/",
-          "published": "2026-05-18T12:08:15.000Z"
+          "headline": "Beacon of Light",
+          "source": "NASA",
+          "summary": "The heart of galaxy M77 shines brightly in this May 7, 2026, image from NASA’s James Webb Space Telescope. The intense glow is due to gas being pulled by the strong gravity of the central black hole into a tight and rapid orbit around it. The motion of the gas causes it to heat u",
+          "url": "https://www.nasa.gov/image-article/beacon-of-light/",
+          "published": "2026-05-18T15:31:45.000Z"
         },
         {
-          "headline": "House bill restores funding for TraCSS",
-          "source": "SpaceNews",
-          "summary": "A House appropriations bill would reverse plans by the administration to stop development of a civil space traffic management system.",
-          "url": "https://spacenews.com/house-bill-restores-funding-for-tracss/",
-          "published": "2026-05-18T12:03:26.000Z"
+          "headline": "NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station",
+          "source": "NASA",
+          "summary": "The 34th SpaceX commercial resupply mission under contract with NASA is headed to the International Space Station with new scientific experiments after lifting off at 6:05 p.m. EDT Friday on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in F",
+          "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-34th-spacex-resupply-mission-to-station/",
+          "published": "2026-05-15T22:52:14.000Z"
         },
         {
-          "headline": "New CSF Report Sees Up To 7,000+ Satellites Launched Annually By Mid 2030’s, Highlights The Challenges With US Launch Infrastructure",
-          "source": "SpaceNews",
-          "summary": "WASHINGTON, D.C., May 18, 2026 — The Commercial Space Federation (CSF), in partnership with Rational Futures (RF), announced the release of SCRUBBED: America’s Launch Capacity Challenge, a data-driven assessment of potential […]\nThe post New CSF Report Sees Up To 7,000+ Satellite",
-          "url": "https://spacenews.com/new-csf-report-sees-up-to-7000-satellites-launched-annually-by-mid-2030s-highlights-the-challenges-with-us-launch-infrastructure/",
-          "published": "2026-05-18T12:00:00.000Z"
+          "headline": "Curiosity Shakes Loose a Pesky Rock",
+          "source": "NASA",
+          "summary": "After NASA’s Curiosity Mars rover drilled a sample from this rock on April 25, 2026, it withdrew its robotic arm and pulled the entire rock off the surface with it. Engineers spent several days repositioning the arm and vibrating the drill to try and get the rock loose. When it f",
+          "url": "https://www.nasa.gov/image-article/curiosity-shakes-loose-a-pesky-rock/",
+          "published": "2026-05-15T14:45:52.000Z"
         },
         {
-          "headline": "The next war will be won — or lost — in orbit",
-          "source": "SpaceNews",
-          "summary": "We in the West have learned many things from the conflict in Ukraine. Four years on from its full-scale invasion — the war in fact having started in 2014 — we find ourselves, or should find ourselves, with a far better grasp of the nature of war, and a far greater sense of the da",
-          "url": "https://spacenews.com/the-next-war-will-be-won-or-lost-in-orbit/",
-          "published": "2026-05-18T11:00:00.000Z"
+          "headline": "Hubble Sights Galaxy in Transition",
+          "source": "NASA",
+          "summary": "This NASA Hubble Space Telescope image reveals an enigmatic galaxy with a bright center and a face that hints at spiral structure, yet it holds no obvious spiral arms. Reddish-brown clumps and filaments of dust partially obscure the galaxy’s full face, while red, blue, and orange",
+          "url": "https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/",
+          "published": "2026-05-15T12:01:37.000Z"
         }
       ]
     },
@@ -423,6 +551,13 @@
       "id": "climate",
       "label": "Climate",
       "articles": [
+        {
+          "headline": "Latin America Faces ‘Hydrological Whiplash’ as Climate Risks Mount",
+          "source": "Inside Climate News",
+          "summary": "If the 2025 climate year in Latin America and the Caribbean showed anything, it was that floodwaters can’t erase long-term drought, that temperatures will continue to soar past livable limits and that once-unprecedented storms are part of the region’s new climate reality. A World",
+          "url": "https://insideclimatenews.org/news/18052026/latin-america-global-warming-climate-risks/",
+          "published": "2026-05-18T19:26:56.000Z"
+        },
         {
           "headline": "Trump cuts to weather data could make forecasts less reliable, warn experts",
           "source": "Guardian Climate",
@@ -494,13 +629,6 @@
           "published": "2026-05-16T09:00:00.000Z"
         },
         {
-          "headline": "After Snowy Winter Delays Prevention, New Jersey Faces Rising Wildfire Risk",
-          "source": "Inside Climate News",
-          "summary": "The New Jersey Forest Fire Service this month announced an elevated risk for fire spread across Delaware and parts of New Jersey. Conditions aligned—humidity dropped, temperatures rose into the 80s and southwest winds were gusting up to 30 miles per hour, elevating fire risk acro",
-          "url": "https://insideclimatenews.org/news/16052026/new-jersey-wildfire-risk-after-snowy-winter-delays-prescribed-burns/",
-          "published": "2026-05-16T08:55:00.000Z"
-        },
-        {
           "headline": "Declare climate crisis a global public health emergency, experts tell WHO",
           "source": "Guardian Climate",
           "summary": "Exclusive: Commission says alert would trigger coordinated international response that could help avoid millions dying\nThe climate crisis should be declared a global public health emergency by the World Health Organization, or millions more people will die unnecessarily, leading ",
@@ -556,6 +684,20 @@
           "published": "2026-05-18T08:57:34.000Z"
         },
         {
+          "headline": "NEW 'Off The Hook' ONLINE",
+          "source": "2600",
+          "summary": "NEW 'Off The Hook' ONLINE\nPosted 14 May, 2026 1:28:53 UTC\nThe new edition of Off The Hook from 05/13/2026 has been archived and is now available online.\n\n\n\nSmart glasses being used to covertly film people, datacenter guzzles 30M gallons of water without being billed, fallout from",
+          "url": "https://www.2600.com/hook/13-05-2026",
+          "published": "2026-05-14T01:28:53.000Z"
+        },
+        {
+          "headline": "NEW 'Off The Wall' ONLINE",
+          "source": "2600",
+          "summary": "NEW 'Off The Wall' ONLINE\nPosted 12 May, 2026 23:56:39 UTC\nThe new edition of Off The Wall from 05/12/2026 has been archived and is now available online.\n\n\n\"Off The Wall\" - 05/12/2026\n\n\nDownload the torrent here",
+          "url": "https://www.2600.com/wall/12-05-2026",
+          "published": "2026-05-12T23:56:39.000Z"
+        },
+        {
           "headline": "Patch Tuesday, May 2026 Edition",
           "source": "Krebs on Security",
           "summary": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used s",
@@ -582,20 +724,6 @@
           "summary": "A 24-year-old British national and senior member of the cybercrime group \"Scattered Spider\" has pleaded guilty to wire fraud conspiracy and aggravated identity theft. Tyler Robert Buchanan admitted his role in a series of text-message phishing attacks in the summer of 2022 that a",
           "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
           "published": "2026-04-21T14:53:59.000Z"
-        },
-        {
-          "headline": "Patch Tuesday, April 2026 Edition",
-          "source": "Krebs on Security",
-          "summary": "Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly disclosed weakness in Windows Defender dubbed \"BlueHammer.\" Separately, Google Chr",
-          "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-          "published": "2026-04-14T21:47:59.000Z"
-        },
-        {
-          "headline": "Russia Hacked Routers to Steal Microsoft Office Tokens",
-          "source": "Krebs on Security",
-          "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon auth",
-          "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
-          "published": "2026-04-07T17:02:44.000Z"
         }
       ]
     }
