@@ -1,0 +1,92 @@
+[
+  {
+    "id": "tech",
+    "label": "Tech & AI",
+    "feeds": [
+      { "type": "rss",        "url": "https://techcrunch.com/feed/",                        "name": "TechCrunch" },
+      { "type": "rss",        "url": "https://www.wired.com/feed/rss",                      "name": "Wired" },
+      { "type": "guardian",   "query": "artificial intelligence technology",                 "name": "Guardian" },
+      { "type": "newsapi",    "query": "artificial intelligence OR machine learning",        "name": "NewsAPI" },
+      { "type": "hackernews", "query": "AI machine learning LLM",                           "name": "Hacker News" }
+    ]
+  },
+  {
+    "id": "science",
+    "label": "Science",
+    "feeds": [
+      { "type": "rss",      "url": "https://www.sciencedaily.com/rss/all.xml",              "name": "Science Daily" },
+      { "type": "rss",      "url": "https://www.newscientist.com/feed/home/",               "name": "New Scientist" },
+      { "type": "guardian", "query": "science discovery research",                          "name": "Guardian" },
+      { "type": "newsapi",  "query": "science discovery research",                          "name": "NewsAPI" }
+    ]
+  },
+  {
+    "id": "politics",
+    "label": "Politics",
+    "feeds": [
+      { "type": "rss",      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",           "name": "BBC World" },
+      { "type": "rss",      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml","name": "NY Times World" },
+      { "type": "guardian", "query": "politics world news",                                 "name": "Guardian" },
+      { "type": "newsapi",  "query": "world politics international news",                   "name": "NewsAPI" }
+    ]
+  },
+  {
+    "id": "rpg",
+    "label": "RPGs",
+    "feeds": [
+      { "type": "rss",        "url": "https://www.polygon.com/rss/index.xml",               "name": "Polygon" },
+      { "type": "rss",        "url": "https://www.rockpapershotgun.com/feed",               "name": "Rock Paper Shotgun" },
+      { "type": "newsapi",    "query": "RPG tabletop roleplaying game",                     "name": "NewsAPI" },
+      { "type": "hackernews", "query": "RPG tabletop D&D roleplaying",                      "name": "Hacker News" }
+    ]
+  },
+  {
+    "id": "motos",
+    "label": "Motorcycles",
+    "feeds": [
+      { "type": "rss",     "url": "https://rideapart.com/rss/articles/all",                 "name": "RideApart" },
+      { "type": "rss",     "url": "https://www.motorcycledaily.com/feed",                   "name": "Motorcycle Daily" },
+      { "type": "newsapi", "query": "motorcycle new model review",                          "name": "NewsAPI" }
+    ]
+  },
+  {
+    "id": "archaeology",
+    "label": "Archaeology",
+    "feeds": [
+      { "type": "rss",      "url": "https://archaeology.org/news?feed=rss2",               "name": "Archaeology Magazine" },
+      { "type": "rss",      "url": "https://www.ancient-origins.net/rss.xml",              "name": "Ancient Origins" },
+      { "type": "guardian", "query": "archaeology discovery ancient",                       "name": "Guardian" },
+      { "type": "newsapi",  "query": "archaeology ancient discovery excavation",            "name": "NewsAPI" }
+    ]
+  },
+  {
+    "id": "space",
+    "label": "Space",
+    "feeds": [
+      { "type": "rss",        "url": "https://spacenews.com/feed/",                        "name": "SpaceNews" },
+      { "type": "rss",        "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",     "name": "NASA" },
+      { "type": "guardian",   "query": "space exploration astronomy",                      "name": "Guardian" },
+      { "type": "hackernews", "query": "space NASA astronomy telescope",                   "name": "Hacker News" }
+    ]
+  },
+  {
+    "id": "climate",
+    "label": "Climate",
+    "feeds": [
+      { "type": "rss",      "url": "https://insideclimatenews.org/feed/",                  "name": "Inside Climate News" },
+      { "type": "rss",      "url": "https://www.theguardian.com/environment/climate-crisis/rss", "name": "Guardian Climate" },
+      { "type": "newsapi",  "query": "climate change environment",                         "name": "NewsAPI" }
+    ]
+  },
+  {
+    "id": "hacking",
+    "label": "Hacking & Security",
+    "feeds": [
+      { "type": "rss",        "url": "https://www.2600.com/rss.xml",                       "name": "2600" },
+      { "type": "rss",        "url": "https://krebsonsecurity.com/feed/",                  "name": "Krebs on Security" },
+      { "type": "rss",        "url": "https://feeds.feedburner.com/TheHackersNews",        "name": "The Hacker News" },
+      { "type": "hackernews", "query": "security hacking infosec exploit",                 "name": "Hacker News" },
+      { "type": "guardian",   "query": "cybersecurity hacking",                            "name": "Guardian" }
+    ]
+  }
+]
