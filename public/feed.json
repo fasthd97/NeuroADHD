@@ -1,23 +1,79 @@
 {
-  "generated": "2026-05-19T13:07:51.561Z",
+  "generated": "2026-05-19T17:00:53.051Z",
   "topics": [
     {
       "id": "tech",
       "label": "Tech & AI",
       "articles": [
         {
+          "headline": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
+          "source": "TechCrunch",
+          "summary": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive phases of building a frontier model.",
+          "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+          "published": "2026-05-19T15:43:04.000Z"
+        },
+        {
+          "headline": "The minimalist Light Phone teams up with Andrew Yang’s Noble Mobile, which pays you to stop doomscrolling",
+          "source": "TechCrunch",
+          "summary": "\"The Light Phone is designed to be used as little as possible,\" founder Joe Hollier told TechCrunch.",
+          "url": "https://techcrunch.com/2026/05/19/the-minimalist-light-phone-teams-up-with-andrew-yangs-noble-mobile-which-pays-you-to-stop-doomscrolling/",
+          "published": "2026-05-19T15:37:17.000Z"
+        },
+        {
+          "headline": "Hackers have compromised dozens of popular open source packages in an ongoing supply chain attack",
+          "source": "TechCrunch",
+          "summary": "The attacks are part of a wider campaign known as Mini Shai-Hulud, which has already compromised several open source projects and, in turn, developers and companies that use them.",
+          "url": "https://techcrunch.com/2026/05/19/hackers-have-compromised-dozens-of-popular-open-source-packages-in-an-ongoing-supply-chain-attack/",
+          "published": "2026-05-19T15:32:46.000Z"
+        },
+        {
+          "headline": "US cyber agency CISA exposed reams of passwords and cloud keys to the open web",
+          "source": "TechCrunch",
+          "summary": "The federal cybersecurity agency left plaintext passwords in a spreadsheet uploaded to a public GitHub repository, per a report by independent journalist Brian Krebs.",
+          "url": "https://techcrunch.com/2026/05/19/us-cyber-agency-cisa-exposed-reams-of-passwords-and-cloud-keys-to-the-open-web/",
+          "published": "2026-05-19T15:06:42.000Z"
+        },
+        {
+          "headline": "Former OpenAI Staffers Warn That xAI’s Poor Safety Record Could Complicate SpaceX’s IPO",
+          "source": "Wired",
+          "summary": "The ex-employees, who cofounded a new AI watchdog group, say investors deserve more information about xAI’s safety practices before SpaceX goes public.",
+          "url": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
+          "published": "2026-05-19T15:00:28.000Z"
+        },
+        {
+          "headline": "Apple announces Apple Intelligence powered accessibility feature updates",
+          "source": "TechCrunch",
+          "summary": "Apple is introducing a feature to let Vision Pro control a compatible wheelchair with their eyes",
+          "url": "https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/",
+          "published": "2026-05-19T14:01:07.000Z"
+        },
+        {
+          "headline": "The Zuckerbergs Are Hiring a Lifeguard but Calling It a ‘Beach Water Person’",
+          "source": "Wired",
+          "summary": "The job, which is associated with the Zuckerberg family office, is located in Kauai, Hawaii, where the Meta CEO owns a massive compound.",
+          "url": "https://www.wired.com/story/mark-zuckerberg-priscilla-chan-lifeguard-beach-water-person/",
+          "published": "2026-05-19T14:00:47.000Z"
+        },
+        {
+          "headline": "‘Survivor’ stars Kyle Fraser and Kamilla Karthigesu introduce  a goal-tracking app, Paprclip",
+          "source": "TechCrunch",
+          "summary": "A new app from Survivor 48 winner Kyle Fraser and castmate Kamilla Karthigesu aims to turn goal tracking into a social experience, pairing users for accountability, daily challenges, and shared progress clips.",
+          "url": "https://techcrunch.com/2026/05/19/survivor-stars-kyle-fraser-and-kamilla-karthigesu-introduce-a-goal-tracking-app-paprclip/",
+          "published": "2026-05-19T14:00:00.000Z"
+        },
+        {
+          "headline": "Show HN: I built a linter for undocumented linter warnings. AI hates me now",
+          "source": "github.com",
+          "summary": "1 points · 1 comments on Hacker News",
+          "url": "https://github.com/BKDDFS/shamefile",
+          "published": "2026-05-19T13:11:04Z"
+        },
+        {
           "headline": "The Best Action Cameras for All Your Craziest Adventures (2026)",
           "source": "Wired",
           "summary": "Gearing up to shred the slopes or dive into the seas? These photography tools are made for danger.",
           "url": "https://www.wired.com/gallery/best-action-cameras/",
           "published": "2026-05-19T12:08:00.000Z"
-        },
-        {
-          "headline": "Stilta raises $10.5M from a16z and YC to help companies rediscover the patents they forgot they had",
-          "source": "TechCrunch",
-          "summary": "Stilta announced Tuesday a $10 million seed round led by Andreessen Horowitz. Other investors in the round include YC and operators from companies like OpenAI, Legora, and Lovable.",
-          "url": "https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/",
-          "published": "2026-05-19T12:00:00.000Z"
         },
         {
           "headline": "The Herman Miller Coyl Standing Desk Is Built Just for Gamers",
@@ -32,62 +88,6 @@
           "summary": "Recreation.gov was supposed to make access to public lands more equitable and streamlined. Instead, it’s rife with bots and inequality, while a government contractor benefits.",
           "url": "https://www.wired.com/story/the-us-built-a-site-to-ensure-fair-access-to-public-lands-then-everything-went-wrong/",
           "published": "2026-05-19T11:00:00.000Z"
-        },
-        {
-          "headline": "Tom Steyer Wants to Save California From Billionaires. But Also Doesn’t Want Them to Leave",
-          "source": "Wired",
-          "summary": "The hedge fund billionaire turned gubernatorial candidate wants to tax California’s ultrawealthy, regulate AI, and keep Silicon Valley happy at the same time. Good luck with that.",
-          "url": "https://www.wired.com/story/the-big-interview-podcast-tom-steyer/",
-          "published": "2026-05-19T10:30:00.000Z"
-        },
-        {
-          "headline": "Set Up Your Phone’s Always-On Display So You’re Unlocking It Less Often",
-          "source": "Wired",
-          "summary": "Break the pattern of unlocking your phone for one thing and then getting sucked into something else. Set up your lock screen to show all the information you need at a glance.",
-          "url": "https://www.wired.com/story/set-up-always-on-display-iphone-android/",
-          "published": "2026-05-19T10:30:00.000Z"
-        },
-        {
-          "headline": "Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business",
-          "source": "TechCrunch",
-          "summary": "Costs for solar panels are expected to drop another 30% in the coming decade, helping the tech cement its lead in energy markets.",
-          "url": "https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/",
-          "published": "2026-05-19T10:00:00.000Z"
-        },
-        {
-          "headline": "Google I/O 2026 Live Blog: All the Gemini and Smart Glasses Updates as They Happen",
-          "source": "Wired",
-          "summary": "Follow our live coverage of Google’s annual developer keynote, where the company will announce updates to its Gemini suite of AI tools and more details about Android XR smart glasses.",
-          "url": "https://www.wired.com/live/google-io-2026-live-blog-gemini-android-xr-search/",
-          "published": "2026-05-19T10:00:00.000Z"
-        },
-        {
-          "headline": "Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.",
-          "source": "TechCrunch",
-          "summary": "\"There's a common refrain among [young] people in this world that it's easier to raise money for a startup right now than to get an internship. Which is remarkable, right?\"",
-          "url": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/",
-          "published": "2026-05-19T05:50:49.000Z"
-        },
-        {
-          "headline": "OSHA probing worker death at SpaceX’s Starbase site",
-          "source": "TechCrunch",
-          "summary": "The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites.",
-          "url": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
-          "published": "2026-05-18T21:55:02.000Z"
-        },
-        {
-          "headline": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-          "source": "TechCrunch",
-          "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
-          "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-          "published": "2026-05-18T21:29:31.000Z"
-        },
-        {
-          "headline": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-          "source": "TechCrunch",
-          "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
-          "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-          "published": "2026-05-18T19:27:52.000Z"
         }
       ]
     },
@@ -96,11 +96,60 @@
       "label": "Science",
       "articles": [
         {
+          "headline": "Hidden earthquake faults beneath Seattle may be more dangerous than expected",
+          "source": "Science Daily",
+          "summary": "A hidden network of earthquake faults running beneath Seattle may be far more active than scientists realized. New research reveals that smaller “secondary” faults in the Seattle Fault Zone appear to rupture roughly every 350 years — much more often than the massive main fault th",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260518041442.htm",
+          "published": "2026-05-19T14:00:01.000Z"
+        },
+        {
+          "headline": "Scientists were wrong about this “rule-breaking” particle",
+          "source": "Science Daily",
+          "summary": "Scientists spent decades chasing signs of a mysterious new force hidden inside the muon, one of nature’s strangest particles. But after years of supercomputer calculations, researchers discovered the apparent anomaly was likely a calculation error — and the Standard Model still r",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260518041439.htm",
+          "published": "2026-05-19T13:27:07.000Z"
+        },
+        {
+          "headline": "Scientists boosted one protein and aging mice became stronger and healthier",
+          "source": "Science Daily",
+          "summary": "Scientists have identified a protein that appears to put the brakes on the chronic inflammation linked to aging. Older mice with boosted levels of the protein were stronger, more energetic, and had healthier bones than untreated mice. Researchers say the findings could eventually",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260518041436.htm",
+          "published": "2026-05-19T13:11:02.000Z"
+        },
+        {
+          "headline": "People who lost the most weight on Ozempic saw huge health benefits",
+          "source": "Science Daily",
+          "summary": "People who lost significant weight while taking Ozempic, Wegovy, Mounjaro, or Saxenda had sharply lower risks of major obesity-related health problems, including sleep apnea and kidney disease. Those who gained weight instead faced higher risks — especially for heart failure — ev",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260518041432.htm",
+          "published": "2026-05-19T13:05:57.000Z"
+        },
+        {
+          "headline": "Wind-assisted cargo ships could more than halve shipping emissions",
+          "source": "New Scientist",
+          "summary": "If wind-assisted cargo ships chose routes based entirely on where the winds are better, their fuel use could be cut in half or even completely eliminated",
+          "url": "https://www.newscientist.com/article/2526648-wind-assisted-cargo-ships-could-more-than-halve-shipping-emissions/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "published": "2026-05-19T13:00:13.000Z"
+        },
+        {
+          "headline": "Colossal claims an artificial eggshell will help it bring back the moa",
+          "source": "New Scientist",
+          "summary": "Colossal Biosciences, the company that says it resurrected the dire wolf, now says it has developed artificial eggshells so it can replicate the huge eggs of the moa. Independent experts say this isn't nearly enough to bring back these giant birds",
+          "url": "https://www.newscientist.com/article/2527152-colossal-claims-an-artificial-eggshell-will-help-it-bring-back-the-moa/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "published": "2026-05-19T12:09:59.000Z"
+        },
+        {
           "headline": "Odd “butterfly” molecule could lead to new parts of the quantum realm",
           "source": "New Scientist",
           "summary": "An exotic new molecule is shaped like a butterfly, complete with \"wings\" made from electrons. The discovery could provide a gateway to completely new parts of the quantum realm",
           "url": "https://www.newscientist.com/article/2526616-odd-butterfly-molecule-could-lead-to-new-parts-of-the-quantum-realm/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "published": "2026-05-19T10:00:39.000Z"
+        },
+        {
+          "headline": "Rare graves reveal a lost world of Bronze Age Europe hidden for 3,000 years",
+          "source": "Science Daily",
+          "summary": "Scientists have uncovered remarkable new details about Bronze Age life in Central Europe by studying rare burials untouched by cremation. The research reveals communities experimenting with new foods, burial rituals, and cultural connections while largely staying rooted in their ",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260518041445.htm",
+          "published": "2026-05-19T09:19:58.000Z"
         },
         {
           "headline": "The future of robot armies is here – and it’s not what you think",
@@ -117,41 +166,6 @@
           "published": "2026-05-19T07:02:22.000Z"
         },
         {
-          "headline": "Antarctic glacier collapses at record speed as Hektoria retreats 15 miles in just 15 months",
-          "source": "Science Daily",
-          "summary": "Antarctica’s Hektoria Glacier collapsed with shocking speed, retreating 15 miles in only 15 months and setting a modern record for grounded ice loss. Scientists say warming conditions and ocean-driven instability turned the glacier from seemingly stable to rapidly unraveling almo",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260518041417.htm",
-          "published": "2026-05-19T04:29:18.000Z"
-        },
-        {
-          "headline": "A strange ripple in spacetime could be the first fingerprint of dark matter",
-          "source": "Science Daily",
-          "summary": "Black holes crashing together may be revealing clues about dark matter hidden across the universe. Physicists created a new model predicting how dark matter could subtly distort gravitational waves produced during black hole mergers. When they tested the method on real LIGO data,",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260518041429.htm",
-          "published": "2026-05-19T04:12:59.000Z"
-        },
-        {
-          "headline": "String theory suddenly emerged from simple physics rules",
-          "source": "Science Daily",
-          "summary": "Physicists may have uncovered a surprising new clue that string theory—the idea that the universe is built from unimaginably tiny vibrating strings—could be more than just a mathematical fantasy. Instead of assuming strings existed from the start, researchers began with a few sim",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260518041424.htm",
-          "published": "2026-05-19T04:02:37.000Z"
-        },
-        {
-          "headline": "NASA’s powerful Roman Space Telescope is about to transform astronomy",
-          "source": "Science Daily",
-          "summary": "NASA’s Nancy Grace Roman Space Telescope is now aiming for an earlier launch in September 2026. Designed to explore dark matter, dark energy, and distant exoplanets, the telescope will capture massive, ultra-detailed surveys of the cosmos using infrared vision. Scientists expect ",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260518041345.htm",
-          "published": "2026-05-19T01:01:24.000Z"
-        },
-        {
-          "headline": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-          "source": "Science Daily",
-          "summary": "Researchers at Penn have created a hybrid light-matter particle that could dramatically speed up AI computing while using far less energy. The breakthrough may help replace some electronic computing processes with ultra-efficient light-based technology.",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
-          "published": "2026-05-19T00:23:26.000Z"
-        },
-        {
           "headline": "Mystery of the ancient giant stone jars of Laos may have been solved",
           "source": "New Scientist",
           "summary": "In central Laos, the landscape is littered with enormous stone jars, some 3 metres high, and we may be closer to understanding how and when they were used",
@@ -164,20 +178,6 @@
           "summary": "Maui in Hawaii experienced some of the worst wildfires in US history in 2023. Amid concerns of a PTSD epidemic, floatation tanks are being deployed to the island to help restore people's mental health",
           "url": "https://www.newscientist.com/article/2526918-floatation-tanks-deployed-to-combat-ptsd-after-devastating-wildfires/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "published": "2026-05-18T17:00:00.000Z"
-        },
-        {
-          "headline": "What is love? Even a meeting on the subject can't find the answer",
-          "source": "New Scientist",
-          "summary": "Scientists recently gathered for a conference called Love, Actually and in Theory, but didn't settle on a definition of the topic at hand",
-          "url": "https://www.newscientist.com/article/2526751-what-is-love-even-a-meeting-on-the-subject-cant-find-the-answer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "published": "2026-05-18T16:00:19.000Z"
-        },
-        {
-          "headline": "How I used psychology to come back from the worst year of my life",
-          "source": "New Scientist",
-          "summary": "Work, illness, divorce: life is riddled with stressors out of your control. But research is revealing new ways to cope with these challenges and find hope instead of despair",
-          "url": "https://www.newscientist.com/article/2526019-how-i-used-psychology-to-come-back-from-the-worst-year-of-my-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "published": "2026-05-18T16:00:16.000Z"
         }
       ]
     },
@@ -186,32 +186,46 @@
       "label": "Politics",
       "articles": [
         {
+          "headline": "Ebola Outbreak in Central Africa Could Last Months, W.H.O. Says",
+          "source": "NY Times World",
+          "summary": "Health officials reported more than 130 suspected deaths and 513 cases, a sharp rise since the outbreak was identified on May 15 in the Democratic Republic of Congo and Uganda.",
+          "url": "https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html",
+          "published": "2026-05-19T16:57:04.000Z"
+        },
+        {
+          "headline": "Trump Says He Postponed a ‘Very Major Attack’ on Iran, Leaving Mideast on Edge",
+          "source": "NY Times World",
+          "summary": "President Trump threatened “another big hit” on Iran, saying the country had days to return to the negotiating table, as Pakistan continued its mediation efforts to end the war.",
+          "url": "https://www.nytimes.com/2026/05/19/world/middleeast/iran-trump-tension.html",
+          "published": "2026-05-19T16:12:12.000Z"
+        },
+        {
+          "headline": "Two bodies of missing Italians recovered from inside Maldives cave",
+          "source": "BBC World",
+          "summary": "The two were among four divers located in the furthest chamber in the cave and their bodies were recovered by specialist divers.",
+          "url": "https://www.bbc.com/news/articles/cpdp6y37zn6o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-19T15:43:58.000Z"
+        },
+        {
           "headline": "Son of Mango boss arrested over father's fatal fall from cliff",
           "source": "BBC World",
           "summary": "Isak, 71, died in December 2024 after falling from a ravine while walking in the Montserrat mountains near Barcelona.",
           "url": "https://www.bbc.com/news/articles/c0m2pg1z4x8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-19T12:32:33.000Z"
-        },
-        {
-          "headline": "Father-of-8 security guard hailed as hero in San Diego mosque shooting",
-          "source": "BBC World",
-          "summary": "Amin Abdullah, one of three men killed in the attack, is said to have saved lives in the shooting.",
-          "url": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-19T12:30:48.000Z"
+          "published": "2026-05-19T15:30:57.000Z"
         },
         {
           "headline": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
           "source": "BBC World",
           "summary": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
           "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-19T12:24:07.000Z"
+          "published": "2026-05-19T14:20:15.000Z"
         },
         {
-          "headline": "W.H.O. Chief Is ‘Deeply Concerned’ by Speed and Scale of Ebola Outbreak",
-          "source": "NY Times World",
-          "summary": "Health officials reported more than 130 suspected deaths and 513 cases, a sharp rise since the outbreak was first identified in the Democratic Republic of Congo and Uganda.",
-          "url": "https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html",
-          "published": "2026-05-19T12:06:38.000Z"
+          "headline": "Father-of-eight killed in San Diego mosque shooting hailed as hero",
+          "source": "BBC World",
+          "summary": "Security guard Amin Abdullah, one of three killed in the attack, was described as \"a shining light\".",
+          "url": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-19T12:30:48.000Z"
         },
         {
           "headline": "Victim or enabler? Epstein girlfriend who could face questions despite plea deal",
@@ -235,13 +249,6 @@
           "published": "2026-05-19T09:02:00.000Z"
         },
         {
-          "headline": "Two dead in Spain shooting, with babies reportedly among injured",
-          "source": "BBC World",
-          "summary": "Police say a 25-year-old man is suspected of killing his parents and injuring four others in southern Spain.",
-          "url": "https://www.bbc.com/news/articles/cdrpnzv84gro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-19T07:17:15.000Z"
-        },
-        {
           "headline": "Trump’s Portrait Pops Up on Rickshaws in India to Mark America’s 250th",
           "source": "NY Times World",
           "summary": "The president is popping up on the back of the iconic three-wheeler to kick off America’s 250th anniversary celebrations in India.",
@@ -261,13 +268,6 @@
           "summary": "In any new round of fighting, Iranian officials could adopt new tactics, including intensified strikes on neighbors and trying to close off a second strait.",
           "url": "https://www.nytimes.com/2026/05/18/world/middleeast/iran-war-retaliation-options.html",
           "published": "2026-05-19T00:31:43.000Z"
-        },
-        {
-          "headline": "In Closed-Door Talks, U.S. Demands a Major Role in Greenland",
-          "source": "NY Times World",
-          "summary": "Greenlandic officials worry about the direction of the negotiations aimed at defusing President Trump’s threats to seize their island. But they have little leverage.",
-          "url": "https://www.nytimes.com/2026/05/18/world/europe/us-greenland-talks-trump.html",
-          "published": "2026-05-18T09:01:55.000Z"
         }
       ]
     },
@@ -276,39 +276,60 @@
       "label": "RPGs",
       "articles": [
         {
-          "headline": "The Mandalorian and Grogu review: This isn't a Star Wars movie but it's still a damn good time",
+          "headline": "Nintendo announces new WarioWare-like Pictonico!",
           "source": "Polygon",
-          "summary": "The Mandalorian and Grogu probably shouldn't exist, but I'm glad it does",
-          "url": "https://www.polygon.com/the-mandalorian-and-grogu-review/",
-          "published": "2026-05-19T13:01:19.000Z"
+          "summary": "Nintendo's upcoming Pictonico! is for people into offbeat games like WarioWare or Tomadachi Life",
+          "url": "https://www.polygon.com/new-nintendo-game-what-is-pictonico-warioware-3ds/",
+          "published": "2026-05-19T16:31:53.000Z"
         },
         {
-          "headline": "Yoshi and the Mysterious Book review: Nintendo's best Switch 2 kids game",
+          "headline": "Forza Horizon 6 custom garage recreates Fast & Furious: Tokyo Drift",
           "source": "Polygon",
-          "summary": "Yoshi and the Mysterious Book is full of adorable discoveries, but it never quite rises to the potential of its critter-researching gameplay.",
-          "url": "https://www.polygon.com/yoshi-mysterious-book-review/",
-          "published": "2026-05-19T13:01:19.000Z"
+          "summary": "The community garage layout brings to life Han's Underground Garage from 2006 movie The Fast and the Furious: Tokyo Drift",
+          "url": "https://www.polygon.com/forza-horizon-6-fast-and-furious-tokyo-drift-hans-garage/",
+          "published": "2026-05-19T16:30:13.000Z"
         },
         {
-          "headline": "Teeny Mutant Ninja Turtles trailer: TMNT is back like you've never seen it before",
+          "headline": "How to upgrade the sonic resonator to the feedback resonator in Subnautica 2",
           "source": "Polygon",
-          "summary": "An exclusive look at Teeny Mutant Ninja Turtles, the pre-school take on the TMNT from Nickelodeon Digital Studio",
-          "url": "https://www.polygon.com/exclusive-first-look-at-the-next-tmnt-show/",
-          "published": "2026-05-19T13:00:53.000Z"
+          "summary": "This guide shows you where to find the feedback resonator blueprint in Subnautica 2 so you can upgrade your sonic resonator",
+          "url": "https://www.polygon.com/subnautica-2-sonic-resonator-upgrade-feedback-resonator-blueprint-how-to-get/",
+          "published": "2026-05-19T16:14:30.000Z"
         },
         {
-          "headline": "Transformers movie that killed Optimus gets triumphant re-release",
+          "headline": "Arc Raiders players rejoice at game's latest update",
           "source": "Polygon",
-          "summary": "Transformers: The Movie, known for shocking fans with Optimus Prime's death, celebrates its 40th anniversary with a special re-release.",
-          "url": "https://www.polygon.com/transformers-the-movie-re-release-theaters-dates/",
-          "published": "2026-05-19T12:50:16.000Z"
+          "summary": "The Arc Raiders 1.29.0 update could be the best patch the game has received yet, as it combats cheaters and introduces a number of positive changes.",
+          "url": "https://www.polygon.com/arc-raiders-update-1-29-0-patch-notes/",
+          "published": "2026-05-19T16:06:25.000Z"
         },
         {
-          "headline": "Two Point Museum's Arty-Facts DLC reminded me why this is one of the best simulation games",
+          "headline": "Outward 2 lines up a July release date with the promise that even your dusty old potato of a PC can run it",
+          "source": "Rock Paper Shotgun",
+          "summary": "There is no denying that plenty of RPGs, purposefully designed so or not, are some kind of power fantasy. You're the destined hero, the chosen one, you've heard it all before. Outward 2, like its predecessor, doesn't position you as such a figure. You are simply just a regular ad",
+          "url": "https://www.rockpapershotgun.com/outward-2-lines-up-a-july-release-date-with-the-promise-that-even-your-dusty-old-potato-of-a-pc-can-run-it",
+          "published": "2026-05-19T16:05:12.000Z"
+        },
+        {
+          "headline": "Paralives gameplay trailer proves it's a real Sims 4 competitor",
           "source": "Polygon",
-          "summary": "Arty-Facts, Two Point Museum's latest DLC, reimagines how you use space and design to turn a profit",
-          "url": "https://www.polygon.com/two-point-museum-arty-facts-dlc-review/",
-          "published": "2026-05-19T12:00:19.000Z"
+          "summary": "The Paralives Team has evidently been listening to annoyed Sims players, as the new Paralives trailer includes a lot of oft-requested features",
+          "url": "https://www.polygon.com/paralives-gameplay-trailer/",
+          "published": "2026-05-19T16:00:20.000Z"
+        },
+        {
+          "headline": "Plex's best deal is tripling in price unless you act fast",
+          "source": "Polygon",
+          "summary": "The best streaming service is changing how it gives out lifetime passes.",
+          "url": "https://www.polygon.com/plex-lifetime-pass-price-hike-blu-ray-dvd-streaming-service/",
+          "published": "2026-05-19T15:36:45.000Z"
+        },
+        {
+          "headline": "Arc Raiders turns to Denuvo Anti-Cheat in hopes of curbing foul play, Embark say they're \"working to ensure minimal impact on performance\"",
+          "source": "Rock Paper Shotgun",
+          "summary": "Arc Raiders devs Embark have announced that they're going to be rolling out Denuvo anti-cheat software as part of efforts to limit the amount of dodgy behaviour going on the shooter. The studio said they'll be working to minimise any impact this has on performance, as they also d",
+          "url": "https://www.rockpapershotgun.com/arc-raiders-turns-to-denuvo-anti-cheat-in-hopes-of-curbing-foul-play-embark-say-theyre-working-to-ensure-minimal-impact-on-performance",
+          "published": "2026-05-19T13:16:22.000Z"
         },
         {
           "headline": "Steam's NSFW and Mature tags ditched by Valve in favour of \"more descriptive\" ones like Sexual Content and Gore, as part of wider revamp",
@@ -316,13 +337,6 @@
           "summary": "Valve have revealed a round of changes to the tags which can be applied to games on the Steam store. The ones designed to give you a brief idea of the genres or themes you're in for if you opt to give any specific game a go, as well as grouping together similar works. 17 new tags",
           "url": "https://www.rockpapershotgun.com/steams-nsfw-and-mature-tags-ditched-by-valve-in-favour-of-more-descriptive-ones-like-sexual-content-and-gore-as-part-of-wider-revamp",
           "published": "2026-05-19T11:03:50.000Z"
-        },
-        {
-          "headline": "The Da Vinci Code was ahead of its time in one brilliant way",
-          "source": "Polygon",
-          "summary": "Ron Howard's puzzle-box film is still enjoyable two decades after its release.",
-          "url": "https://www.polygon.com/the-da-vinci-code-puzzle-box-mystery-blockbuster-20th-anniversary/",
-          "published": "2026-05-19T11:01:10.000Z"
         },
         {
           "headline": "Shelve your hopes to play Ghost of Yōtei or Saros on PC, as PlayStation boss reportedly confirms plan to stop porting narrative-driven singleplayer games",
@@ -344,20 +358,6 @@
           "summary": "I'm losing you, naked blue placeholder person with a tiny red blaster and tiny bare bottom standing on my arm! Wait, what was that? Oh no, I, purple-faced placeholder robo-person am being sucked out of an airlock, as is my partner, red-faced placeholder robo-person. Our bare bott",
           "url": "https://www.rockpapershotgun.com/cancelled-star-wars-knights-of-the-old-republic-remakes-voiced-protagonist-and-naked-robo-person-bums-bared-in-this-reportedly-leaked-cinematic",
           "published": "2026-05-18T15:35:43.000Z"
-        },
-        {
-          "headline": "\"That lore terrifies me\": Ex-Valve writer Chet Faliszek isn't interested in writing a Half-Life 3, as he wouldn't touch a sequel \"with with a 10-foot pole\"",
-          "source": "Rock Paper Shotgun",
-          "summary": "Stop it. Stop trying to make him do it. He won't. He will not do it. He's been very clear with you. Yes, you, seemingly random commenter who's suggested that making Half-Life 3 would be a piece of cake. Former Valve writer Chet Faliszek doesn't reckon it would be. The mythical se",
-          "url": "https://www.rockpapershotgun.com/that-lore-terrifies-me-ex-valve-writer-chet-faliszek-isnt-interested-in-writing-a-half-life-3-as-he-wouldnt-touch-a-sequel-with-with-a-10-foot-pole",
-          "published": "2026-05-18T14:20:00.000Z"
-        },
-        {
-          "headline": "Sure, a new GTA 6 trailer would be nice, but it doesn't have a hope of matching the cultural significance of GTA 4's second reveal",
-          "source": "Rock Paper Shotgun",
-          "summary": "There are whispers on the wind that a new trailer for Grand Theft Auto 6 will be out this week. There were whispers it would be last week, too. Whenever the next look at Rockstar’s open world crime-’em-up arrives, it's unlikely it will have the cultural impact of Grand Theft Auto",
-          "url": "https://www.rockpapershotgun.com/sure-a-new-gta-6-trailer-would-be-nice-but-it-doesnt-have-a-hope-of-matching-the-cultural-significance-of-gta-4s-second-reveal",
-          "published": "2026-05-18T13:49:25.000Z"
         }
       ]
     },
@@ -454,55 +454,19 @@
     {
       "id": "archaeology",
       "label": "Archaeology",
-      "articles": [
-        {
-          "headline": "The Ghost of Columbus and the Impossible Geometry of the Piri Reis Map",
-          "source": "Ancient Origins",
-          "summary": "The Ghost of Columbus and the Impossible Geometry of the Piri Reis Map\n\n            \n  \n\n\n\n      \n            \nIn 1929, while renovating the Topkapi Palace in Istanbul, a theologian discovered a fragment of gazelle skin that would rewrite the history of cartography. This was the ",
-          "url": "https://www.ancient-origins.net/news-history-archaeology/ghost-columbus-00102667",
-          "published": "2026-04-13T19:44:16.000Z"
-        },
-        {
-          "headline": "Roman Forum Found Beneath Barcelona Hotel Rewrites Barcino",
-          "source": "Ancient Origins",
-          "summary": "Roman Forum Found Beneath Barcelona Hotel Rewrites Barcino\n\n            \n  \n\n\n\n      \n            \nWhat started as a routine elevator shaft installation in a Barcelona hotel basement has turned into one of the most significant Roman archaeology discoveries in Spain in decades. Ex",
-          "url": "https://www.ancient-origins.net/news-history-archaeology/roman-forum-barcelona-00102582",
-          "published": "2026-03-10T12:00:00.000Z"
-        },
-        {
-          "headline": "Black Gold: Sumerian Bitumen Recipes Worked Like Asphalt, 4,000 Years Ago",
-          "source": "Ancient Origins",
-          "summary": "Black Gold: Sumerian Bitumen Recipes Worked Like Asphalt, 4,000 Years Ago\n\n            \n  \n\n\n\n      \n            \nSumerian craftspeople in Mesopotamia didn’t simply scoop up natural bitumen and slap it on boats or bricks. A new materials study suggests they followed repeatable “r",
-          "url": "https://www.ancient-origins.net/news-history-archaeology/sumerian-bitumen-00102535",
-          "published": "2026-02-19T23:47:26.000Z"
-        },
-        {
-          "headline": "Why Ghosts Haunt England at Christmas but Steer Clear of America",
-          "source": "Ancient Origins",
-          "summary": "Why Ghosts Haunt England at Christmas but Steer Clear of America\n\n            \n  \n\n\n\n      \n            \nA few years ago, the Downton Abbey Christmas special featured a ouija board which communicated a message from a dead character. American reviewers were extremely puzzled by th",
-          "url": "https://www.ancient-origins.net/history-ancient-traditions/why-ghosts-haunt-england-christmas-steer-clear-america-007219",
-          "published": "2025-12-25T10:00:28.000Z"
-        },
-        {
-          "headline": "Ancient Astronomical Alignments: Reading and Mapping the Stars at Early Advanced Civilization Sites",
-          "source": "Ancient Origins",
-          "summary": "Ancient Astronomical Alignments: Reading and Mapping the Stars at Early Advanced Civilization Sites \n\n            \n  \n\n\n\n      \n            \nMany of the cuneiform tablets of Mesopotamia and hieroglyphs of Egypt make reference to the sun, stars, or planetary positions. Also, a num",
-          "url": "https://www.ancient-origins.net/history-ancient-traditions/advanced-civilization-0011165",
-          "published": "2025-12-21T20:42:00.000Z"
-        },
-        {
-          "headline": "Renaissance Gallows Unearthed in France With 32 Executed Victims",
-          "source": "Ancient Origins",
-          "summary": "Renaissance Gallows Unearthed in France With 32 Executed Victims\n\n            \n  \n\n\n\n      \n            \n\nArchaeologists working in Grenoble, France, have made a chilling discovery that sheds light on the brutal religious persecution of the 16th century. The remains of a rare Ren",
-          "url": "https://www.ancient-origins.net/news-history-archaeology/renaissance-gallows-00102388",
-          "published": "2025-12-17T12:03:33.000Z"
-        }
-      ]
+      "articles": []
     },
     {
       "id": "space",
       "label": "Space",
       "articles": [
+        {
+          "headline": "Johnson’s Cindy Evans Prepares Artemis Teams for Lunar Science",
+          "source": "NASA",
+          "summary": "NASA’s Artemis II crew had many technical and operational responsibilities during their historic mission to the Moon, but they also served an important role as scientific ambassadors to Earth’s nearest neighbor. On their 10-day journey, the crew flew by the far side of the Moon, ",
+          "url": "https://www.nasa.gov/centers-and-facilities/johnson/johnsons-cindy-evans-prepares-artemis-teams-for-lunar-science/",
+          "published": "2026-05-19T15:00:00.000Z"
+        },
         {
           "headline": "NASA’s New Shock Detectives Project Invites Volunteers to Help Study Solar Wind",
           "source": "NASA",
@@ -537,13 +501,6 @@
           "summary": "In December 2023, scientists looking at Mars data stumbled across something completely unexpected — observations of an atmospheric effect never before seen in the Red Planet’s atmosphere. Using instruments aboard NASA’s MAVEN (Mars Atmosphere and Volatile Evolution) mission, scie",
           "url": "https://science.nasa.gov/missions/maven/nasas-maven-makes-1st-discovery-of-atmospheric-effect-at-mars/",
           "published": "2026-05-18T17:09:43.000Z"
-        },
-        {
-          "headline": "NASA Selects Next Class of Space Health Postdoctoral Fellows",
-          "source": "NASA",
-          "summary": "The NASA-funded Translational Research Institute for Space Health (TRISH) has selected two early‑career scientists for its next class of postdoctoral fellows. The new fellows will begin their projects in May, focusing on space food systems and astronaut eye health. The TRISH Post",
-          "url": "https://www.nasa.gov/news-release/nasa-selects-next-class-of-space-health-postdoctoral-fellows/",
-          "published": "2026-05-18T17:00:17.000Z"
         }
       ]
     },
@@ -551,6 +508,13 @@
       "id": "climate",
       "label": "Climate",
       "articles": [
+        {
+          "headline": "‘Foolish’ CSIRO job cuts will mean Australia unable to provide climate projections to global reports, scientists warn",
+          "source": "Guardian Climate",
+          "summary": "Exclusive: Science agency is planning to sack a third of the team working on the national climate model, sources say\n\nGet our breaking news email, free app or daily news podcast\n\nJob cuts at the national science agency mean Australia will no longer be able to submit climate proje",
+          "url": "https://www.theguardian.com/australia-news/2026/may/20/csiro-job-cuts-climate-australia-projections-to-global-reports",
+          "published": "2026-05-19T15:00:08.000Z"
+        },
         {
           "headline": "Corpus Christi Leaders Believe Data Center Plans May Be Behind Delays to Emergency Water Supply",
           "source": "Inside Climate News",
@@ -627,13 +591,6 @@
           "summary": "Mohamed Mahudhee suffered decompression sickness after searching for scuba divers in Vaavu Atoll and died in hospital\nA Maldivian military diver has died during a high-risk operation to recover the bodies of four of the Italian scuba divers who drowned while exploring a deep unde",
           "url": "https://www.theguardian.com/world/2026/may/16/maldives-scuba-divers-italy-drowned-cave",
           "published": "2026-05-16T11:45:36.000Z"
-        },
-        {
-          "headline": "Declare climate crisis a global public health emergency, experts tell WHO",
-          "source": "Guardian Climate",
-          "summary": "Exclusive: Commission says alert would trigger coordinated international response that could help avoid millions dying\nThe climate crisis should be declared a global public health emergency by the World Health Organization, or millions more people will die unnecessarily, leading ",
-          "url": "https://www.theguardian.com/environment/2026/may/16/who-should-declare-climate-crisis-global-public-health-emergency-experts-say",
-          "published": "2026-05-16T04:00:00.000Z"
         }
       ]
     },
@@ -641,6 +598,13 @@
       "id": "hacking",
       "label": "Hacking & Security",
       "articles": [
+        {
+          "headline": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
+          "source": "The Hacker News",
+          "summary": "Proof-of-concept (PoC) exploit code has now been released for a recently patched security flaw in the Linux kernel that could allow for local privilege escalation (LPE).\nDubbed DirtyDecrypt (aka DirtyCBC), the vulnerability was discovered and reported by the Zellic and V12 securi",
+          "url": "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html",
+          "published": "2026-05-19T14:56:26.000Z"
+        },
         {
           "headline": "The New Phishing Click: How OAuth Consent Bypasses MFA",
           "source": "The Hacker News",
@@ -675,13 +639,6 @@
           "summary": "In yet another software supply chain attack, threat actors have compromised the popular GitHub Actions workflow, actions-cool/issues-helper, to run malicious code that harvests sensitive credentials and exfiltrates them to an attacker-controlled server.\n\n\"Every existing tag in th",
           "url": "https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html",
           "published": "2026-05-19T05:28:06.000Z"
-        },
-        {
-          "headline": "Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account",
-          "source": "The Hacker News",
-          "summary": "Cybersecurity researchers have discovered a fresh software supply chain attack campaign that has compromised various npm packages associated with the @antv ecosystem as part of the ongoing Mini Shai-Hulud attack wave.\n\n\"The attack affects packages tied to the npm maintainer accou",
-          "url": "https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html",
-          "published": "2026-05-19T04:54:17.000Z"
         },
         {
           "headline": "CISA Admin Leaked AWS GovCloud Keys on Github",
