@@ -1,10 +1,24 @@
 {
-  "generated": "2026-05-18T20:33:45.419Z",
+  "generated": "2026-05-19T00:44:04.559Z",
   "topics": [
     {
       "id": "tech",
       "label": "Tech & AI",
       "articles": [
+        {
+          "headline": "OSHA probing worker death at SpaceX’s Starbase site",
+          "source": "TechCrunch",
+          "summary": "The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites.",
+          "url": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
+          "published": "2026-05-18T21:55:02.000Z"
+        },
+        {
+          "headline": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+          "source": "TechCrunch",
+          "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+          "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+          "published": "2026-05-18T21:29:31.000Z"
+        },
         {
           "headline": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
           "source": "TechCrunch",
@@ -48,25 +62,11 @@
           "published": "2026-05-18T15:26:00.000Z"
         },
         {
-          "headline": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
-          "source": "TechCrunch",
-          "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
-          "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-          "published": "2026-05-18T14:56:47.000Z"
-        },
-        {
           "headline": "Leica Cine Play 1 Review: Pricey but Worth Every Penny",
           "source": "Wired",
           "summary": "Leica’s first home entertainment projector is pricey, but like the company’s cameras, the image quality is worth the splurge.",
           "url": "https://www.wired.com/review/review-leica-cine-play-1/",
           "published": "2026-05-18T14:33:00.000Z"
-        },
-        {
-          "headline": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom",
-          "source": "TechCrunch",
-          "summary": "The open source project said hackers stole its codebase and threatened to publish its source code if the company did not pay.",
-          "url": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/",
-          "published": "2026-05-18T13:42:19.000Z"
         },
         {
           "headline": "The Catastrophic Swatch x Audemars Piguet Launch Was Entirely Predictable and Utterly Avoidable",
@@ -96,6 +96,13 @@
       "label": "Science",
       "articles": [
         {
+          "headline": "Floatation tanks deployed to combat PTSD after devastating wildfires",
+          "source": "New Scientist",
+          "summary": "Maui in Hawaii experienced some of the worst wildfires in US history in 2023. Amid concerns of a PTSD epidemic, floatation tanks are being deployed to the island to help restore people's mental health",
+          "url": "https://www.newscientist.com/article/2526918-floatation-tanks-deployed-to-combat-ptsd-after-devastating-wildfires/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "published": "2026-05-18T17:00:00.000Z"
+        },
+        {
           "headline": "What is love? Even a meeting on the subject can't find the answer",
           "source": "New Scientist",
           "summary": "Scientists recently gathered for a conference called Love, Actually and in Theory, but didn't settle on a definition of the topic at hand",
@@ -122,13 +129,6 @@
           "summary": "A little-known strain of Ebola virus is behind an ongoing health emergency, prompting researchers to call for the acceleration of vaccine candidates against such infections",
           "url": "https://www.newscientist.com/article/2527072-the-ebola-emergency-shines-a-light-on-the-urgent-need-for-new-vaccines/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "published": "2026-05-18T13:11:15.000Z"
-        },
-        {
-          "headline": "Your body clock has seasonal rhythms and it matters for vaccines",
-          "source": "New Scientist",
-          "summary": "We think of our body clock ticking over on a 24-hour cycle, but evidence is growing that it has seasonal rhythms, which could affect our response to vaccines",
-          "url": "https://www.newscientist.com/article/2526726-your-body-clock-has-seasonal-rhythms-and-it-matters-for-vaccines/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "published": "2026-05-18T12:00:51.000Z"
         },
         {
           "headline": "Schrödinger’s clock: Time could tick faster and slower at the same time",
@@ -190,7 +190,21 @@
           "source": "BBC World",
           "summary": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
           "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-18T20:25:42.000Z"
+          "published": "2026-05-18T22:30:58.000Z"
+        },
+        {
+          "headline": "Trump v Massie: Could president's Republican nemesis survive $20m attack to oust him?",
+          "source": "BBC World",
+          "summary": "The Kentucky congressman, who has crossed the president on federal spending and the Epstein files, faces Republican voters on Tuesday.",
+          "url": "https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-18T21:39:45.000Z"
+        },
+        {
+          "headline": "Selling children to survive: Afghan fathers forced to make impossible choices",
+          "source": "BBC World",
+          "summary": "In Afghanistan today, a staggering three in four people cannot meet their basic needs.",
+          "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-18T21:09:07.000Z"
         },
         {
           "headline": "Ebola Was Identified in Congo Weeks Before W.H.O. Declared an Emergency",
@@ -198,6 +212,13 @@
           "summary": "Early surveillance and testing failed to identify the rare species of Ebola responsible for the current outbreak. An American doctor is among the confirmed cases.",
           "url": "https://www.nytimes.com/2026/05/18/world/africa/congo-ebola-testing.html",
           "published": "2026-05-18T20:05:11.000Z"
+        },
+        {
+          "headline": "Trump administration unveils $1.7bn fund to compensate his allies as he drops tax lawsuit",
+          "source": "BBC World",
+          "summary": "The settlement will go towards individuals who allege they were subjected to unfair investigations.",
+          "url": "https://www.bbc.com/news/articles/cvgzr7vr203o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-18T19:53:31.000Z"
         },
         {
           "headline": "At least 100 dead in Ebola outbreak in DR Congo, official says",
@@ -214,32 +235,11 @@
           "published": "2026-05-18T18:51:43.000Z"
         },
         {
-          "headline": "Four killed in protests during Kenyan strikes over high fuel prices",
-          "source": "BBC World",
-          "summary": "Thousands of commuters are stranded, with key roads in the capital Nairobi largely empty due to the protests over fuel costs.",
-          "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-18T16:49:45.000Z"
-        },
-        {
           "headline": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
           "source": "BBC World",
           "summary": "It marks a grim milestone in the conflict between Israel and the Lebanese armed group Hezbollah since March, despite a nominal ceasefire.",
           "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
           "published": "2026-05-18T16:16:38.000Z"
-        },
-        {
-          "headline": "What is Ebola and why is stopping this outbreak so difficult?",
-          "source": "BBC World",
-          "summary": "An outbreak of Ebola in DR Congo involves a rare strain and is in an area affected by conflict.",
-          "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-18T15:52:38.000Z"
-        },
-        {
-          "headline": "Two men arrested over stunt at enclosure of famous monkey Punch",
-          "source": "BBC World",
-          "summary": "Two US nationals have been arrested after one jumped the fence of the monkey, who went viral online, police say.",
-          "url": "https://www.bbc.com/news/articles/cr5pz4jvlp5o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-18T14:51:53.000Z"
         },
         {
           "headline": "Trump’s Taiwan Gambit is Already a Gift to China",
@@ -276,46 +276,46 @@
       "label": "RPGs",
       "articles": [
         {
-          "headline": "How to make a metal farm in Subnautica 2",
+          "headline": "Dropout CEO Sam Reich explains the 'paradox' of Game Changer's s8 premiere",
           "source": "Polygon",
-          "summary": "You can be soft locked if you're not careful with your materials in Subnautica 2. Here's how to make a metal farm to avoid that problem.",
-          "url": "https://www.polygon.com/subnautica-2-metal-farm-blueprints-how-to-get-craft/",
-          "published": "2026-05-18T20:22:49.000Z"
+          "summary": "The Dropout CEO and Game Changer host on violating Disney copyright, encouraging sexual harassment, and his upcoming \"favorite episode of all time.\"",
+          "url": "https://www.polygon.com/sam-reich-interview-game-changer-season-8/",
+          "published": "2026-05-18T23:00:20.000Z"
         },
         {
-          "headline": "Fastest cars in Forza Horizon 6",
+          "headline": "Forza Horizon 6 interactive map",
           "source": "Polygon",
-          "summary": "In this guide, you find a list of all the fastest cars in Forza Horizon 6 and their price if you buy them in the Autoshow.",
-          "url": "https://www.polygon.com/forza-horizon-6-fh6-fastest-cars/",
-          "published": "2026-05-18T20:20:09.000Z"
+          "summary": "Here's a map of Forza Horizon 6's Japan, pointing out different races, landmarks, jobs, and more.",
+          "url": "https://www.polygon.com/map/forza-horizon-6-fh6-japan-interactive/",
+          "published": "2026-05-18T22:50:20.000Z"
         },
         {
-          "headline": "Where to find troilite in Subnautica 2",
+          "headline": "X-Files: I Want to Believe's never-seen cut streaming on Hulu in June",
           "source": "Polygon",
-          "summary": "How to get troilite for mangalloy ingots and a metal farm in Subnautica 2",
-          "url": "https://www.polygon.com/subnautica-2-troilite-where-how-to-get-farming-location/",
-          "published": "2026-05-18T20:04:55.000Z"
+          "summary": "The X-Files: I Want to Beleive director's cut by Chris Carter will debut on Disney Plus in June",
+          "url": "https://www.polygon.com/x-files-i-want-to-beleive-directors-cut/",
+          "published": "2026-05-18T22:03:49.000Z"
         },
         {
-          "headline": "Harry Potter season 2 to recast key actor following HBO series exit",
+          "headline": "How to reach the Alien Ruins in Subnautica 2",
           "source": "Polygon",
-          "summary": "One character slated for a major increased workload in season 2 will have to be recast",
-          "url": "https://www.polygon.com/harry-potter-hbo-season-2-recasting/",
-          "published": "2026-05-18T19:52:40.000Z"
+          "summary": "Subnautica 2's Alien Ruins pose your first big traversal challenge. This guide explains how to safely reach the Alien Ruins in Subnautica 2",
+          "url": "https://www.polygon.com/subnautica-2-how-to-reach-alien-ruins-survive-collector-leviathan/",
+          "published": "2026-05-18T21:36:36.000Z"
         },
         {
-          "headline": "Where to find axum bacterial cultures in Subnautica 2",
+          "headline": "PlayStation confirms it will no longer bring narrative exclusives to PC",
           "source": "Polygon",
-          "summary": "How to get axum bacterial cultures and how best to spend it in Subnautica 2",
-          "url": "https://www.polygon.com/subnautica-2-axum-bacterial-culture-where-how-to-get-location/",
-          "published": "2026-05-18T19:49:43.000Z"
+          "summary": "PlayStation confirmed it is shifting away from its PC ports strategy, but don't expect all future PlayStation games to ditch PC.",
+          "url": "https://www.polygon.com/sony-playstation-exclusives-officially-ending-pc/",
+          "published": "2026-05-18T21:06:43.000Z"
         },
         {
-          "headline": "Forza Horizon 6 early access release is a huge hit and could change how games are sold",
+          "headline": "Xbox's new Player Voice program invites your biggest complaints",
           "source": "Polygon",
-          "summary": "Xbox is making big money from Premium Edition sales, even though the game is on Game Pass",
-          "url": "https://www.polygon.com/forza-horizon-6-early-access-launch-success-steam-players/",
-          "published": "2026-05-18T19:30:20.000Z"
+          "summary": "Ever since CEO Asha Sharma took over Xbox, the gaming company has been much louder about everything it does.",
+          "url": "https://www.polygon.com/xbox-player-voice-feedback-asha-sharma-ceo-marketing/",
+          "published": "2026-05-18T20:45:36.000Z"
         },
         {
           "headline": "Cancelled Star Wars: Knights of the Old Republic remake's voiced protagonist and naked robo-person bums bared in this reportedly leaked cinematic",
@@ -504,6 +504,27 @@
       "label": "Space",
       "articles": [
         {
+          "headline": "Johnson Photographers Honored for Award-Winning Portraits",
+          "source": "NASA",
+          "summary": "Three photographers at NASA’s Johnson Space Center who inspire the world through visual storytelling earned top honors in the portrait category at the 2025 NASA Imagery Experts Program Annual Awards.  “Congratulations to all three on this impressive achievement and for capturing ",
+          "url": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-photographers-honored-for-award-winning-portraits/",
+          "published": "2026-05-18T21:28:32.000Z"
+        },
+        {
+          "headline": "European imaging companies step in to fill warzone gap",
+          "source": "SpaceNews",
+          "summary": "MILAN – As U.S. satellite imagery companies have pulled back from sharing visuals of Iran and the broader area around the Gulf conflict, European Earth-observation firms are moving to fill the vacuum.",
+          "url": "https://spacenews.com/european-imaging-companies-step-in-to-fill-warzone-gap/",
+          "published": "2026-05-18T19:33:50.000Z"
+        },
+        {
+          "headline": "Four NASA payloads to fly on Astrolab’s first lunar rover",
+          "source": "SpaceNews",
+          "summary": "WASHINGTON — Astrolab’s first lunar rover will carry four NASA payloads on a mission planned to launch later this year.",
+          "url": "https://spacenews.com/four-nasa-payloads-to-fly-on-astrolabs-first-lunar-rover/",
+          "published": "2026-05-18T18:00:00.000Z"
+        },
+        {
           "headline": "NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars",
           "source": "NASA",
           "summary": "In December 2023, scientists looking at Mars data stumbled across something completely unexpected — observations of an atmospheric effect never before seen in the Red Planet’s atmosphere. Using instruments aboard NASA’s MAVEN (Mars Atmosphere and Volatile Evolution) mission, scie",
@@ -525,6 +546,34 @@
           "published": "2026-05-18T15:31:45.000Z"
         },
         {
+          "headline": "Inside Golden Dome’s push to court commercial tech firms and investors",
+          "source": "SpaceNews",
+          "summary": "WASHINGTON — Pentagon officials overseeing Golden Dome are trying to convince commercial space founders, venture investors and software companies that missile defense can be built more like a modern technology platform than a traditional weapons system.",
+          "url": "https://spacenews.com/inside-golden-domes-push-to-court-commercial-tech-firms-and-investors/",
+          "published": "2026-05-18T14:00:00.000Z"
+        },
+        {
+          "headline": "Tomorrow.io adds $35 million to DeepSky funding round",
+          "source": "SpaceNews",
+          "summary": "TAMPA, Fla. — Weather intelligence provider Tomorrow.io has added $35 million to its latest funding round, bringing the total to $210 million to accelerate development of a next-generation constellation for gathering atmospheric data.",
+          "url": "https://spacenews.com/tomorrow-io-adds-35-million-to-deepsky-funding-round/",
+          "published": "2026-05-18T12:08:15.000Z"
+        },
+        {
+          "headline": "House bill restores funding for TraCSS",
+          "source": "SpaceNews",
+          "summary": "WASHINGTON — A House appropriations bill would reverse plans by the administration to stop development of a civil space traffic management system.",
+          "url": "https://spacenews.com/house-bill-restores-funding-for-tracss/",
+          "published": "2026-05-18T12:03:26.000Z"
+        },
+        {
+          "headline": "New CSF Report Sees Up To 7,000+ Satellites Launched Annually By Mid 2030’s, Highlights The Challenges With US Launch Infrastructure",
+          "source": "SpaceNews",
+          "summary": "WASHINGTON, D.C., May 18, 2026 — The Commercial Space Federation (CSF), in partnership with Rational Futures (RF), announced the release of SCRUBBED: America’s Launch Capacity Challenge, a data-driven assessment of potential […]\nThe post New CSF Report Sees Up To 7,000+ Satellite",
+          "url": "https://spacenews.com/new-csf-report-sees-up-to-7000-satellites-launched-annually-by-mid-2030s-highlights-the-challenges-with-us-launch-infrastructure/",
+          "published": "2026-05-18T12:00:00.000Z"
+        },
+        {
           "headline": "NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station",
           "source": "NASA",
           "summary": "The 34th SpaceX commercial resupply mission under contract with NASA is headed to the International Space Station with new scientific experiments after lifting off at 6:05 p.m. EDT Friday on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in F",
@@ -537,13 +586,6 @@
           "summary": "After NASA’s Curiosity Mars rover drilled a sample from this rock on April 25, 2026, it withdrew its robotic arm and pulled the entire rock off the surface with it. Engineers spent several days repositioning the arm and vibrating the drill to try and get the rock loose. When it f",
           "url": "https://www.nasa.gov/image-article/curiosity-shakes-loose-a-pesky-rock/",
           "published": "2026-05-15T14:45:52.000Z"
-        },
-        {
-          "headline": "Hubble Sights Galaxy in Transition",
-          "source": "NASA",
-          "summary": "This NASA Hubble Space Telescope image reveals an enigmatic galaxy with a bright center and a face that hints at spiral structure, yet it holds no obvious spiral arms. Reddish-brown clumps and filaments of dust partially obscure the galaxy’s full face, while red, blue, and orange",
-          "url": "https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/",
-          "published": "2026-05-15T12:01:37.000Z"
         }
       ]
     },
@@ -551,6 +593,20 @@
       "id": "climate",
       "label": "Climate",
       "articles": [
+        {
+          "headline": "A Utility Mega-Merger Is All About Data Centers",
+          "source": "Inside Climate News",
+          "summary": "A proposed merger of the largest utility in the country by market value, NextEra Energy, with the sixth-largest, Dominion, would create a megacompany at a time when data centers and rapid increases in electricity demand are reshaping the industry. The proposal, announced Monday m",
+          "url": "https://insideclimatenews.org/news/18052026/nextera-dominion-utility-mega-merger/",
+          "published": "2026-05-18T23:07:40.000Z"
+        },
+        {
+          "headline": "EPA Claims ‘Overwhelming Rejection’ of EVs as It Moves to Loosen Air Pollution Rules",
+          "source": "Inside Climate News",
+          "summary": "After eliminating the electric vehicle tax credit, rolling back fuel economy standards and blocking California’s stringent vehicle emissions rules, the Trump administration is now citing slowed electric vehicle growth as its rationale for loosening automobile air pollution standa",
+          "url": "https://insideclimatenews.org/news/18052026/epa-loosens-automaker-air-pollution-rules/",
+          "published": "2026-05-18T22:52:34.000Z"
+        },
         {
           "headline": "Latin America Faces ‘Hydrological Whiplash’ as Climate Risks Mount",
           "source": "Inside Climate News",
@@ -608,25 +664,11 @@
           "published": "2026-05-17T08:55:00.000Z"
         },
         {
-          "headline": "What to Expect as El Niño Approaches",
-          "source": "Inside Climate News",
-          "summary": "Scientists said this week that a developing El Niño is likely to amplify heatwaves, droughts and floods this year. But it’s not the biggest culprit of climate extremes.  The consequences of a moderate or strong El Niño today are more damaging than those of similar events just a f",
-          "url": "https://insideclimatenews.org/news/17052026/icn-sunday-morning-looming-el-nino/",
-          "published": "2026-05-17T08:50:00.000Z"
-        },
-        {
           "headline": "Maldives diver dies in operation to recover bodies of Italians from cave",
           "source": "Guardian Climate",
           "summary": "Mohamed Mahudhee suffered decompression sickness after searching for scuba divers in Vaavu Atoll and died in hospital\nA Maldivian military diver has died during a high-risk operation to recover the bodies of four of the Italian scuba divers who drowned while exploring a deep unde",
           "url": "https://www.theguardian.com/world/2026/may/16/maldives-scuba-divers-italy-drowned-cave",
           "published": "2026-05-16T11:45:36.000Z"
-        },
-        {
-          "headline": "World Health Organization Must Prioritize Workers, Experts Say",
-          "source": "Inside Climate News",
-          "summary": "Every year, hundreds of millions of people around the world suffer from workplace injuries or illnesses, and nearly 3 million die from job-related accidents or exposures. Climate change is making many jobs even more dangerous, exposing millions of workers to excessive heat and to",
-          "url": "https://insideclimatenews.org/news/16052026/world-health-organization-worker-safety/",
-          "published": "2026-05-16T09:00:00.000Z"
         },
         {
           "headline": "Declare climate crisis a global public health emergency, experts tell WHO",
@@ -641,6 +683,13 @@
       "id": "hacking",
       "label": "Hacking & Security",
       "articles": [
+        {
+          "headline": "CISA Admin Leaked AWS GovCloud Keys on Github",
+          "source": "Krebs on Security",
+          "summary": "Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said",
+          "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+          "published": "2026-05-18T20:48:21.000Z"
+        },
         {
           "headline": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
           "source": "The Hacker News",
@@ -717,13 +766,6 @@
           "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOnSecurity has learned. The firm",
           "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
           "published": "2026-04-30T14:04:26.000Z"
-        },
-        {
-          "headline": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
-          "source": "Krebs on Security",
-          "summary": "A 24-year-old British national and senior member of the cybercrime group \"Scattered Spider\" has pleaded guilty to wire fraud conspiracy and aggravated identity theft. Tyler Robert Buchanan admitted his role in a series of text-message phishing attacks in the summer of 2022 that a",
-          "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
-          "published": "2026-04-21T14:53:59.000Z"
         }
       ]
     }
