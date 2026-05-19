@@ -1,58 +1,72 @@
 {
-  "generated": "2026-05-19T09:11:54.378Z",
+  "generated": "2026-05-19T13:07:51.561Z",
   "topics": [
     {
       "id": "tech",
       "label": "Tech & AI",
       "articles": [
         {
+          "headline": "The Best Action Cameras for All Your Craziest Adventures (2026)",
+          "source": "Wired",
+          "summary": "Gearing up to shred the slopes or dive into the seas? These photography tools are made for danger.",
+          "url": "https://www.wired.com/gallery/best-action-cameras/",
+          "published": "2026-05-19T12:08:00.000Z"
+        },
+        {
+          "headline": "Stilta raises $10.5M from a16z and YC to help companies rediscover the patents they forgot they had",
+          "source": "TechCrunch",
+          "summary": "Stilta announced Tuesday a $10 million seed round led by Andreessen Horowitz. Other investors in the round include YC and operators from companies like OpenAI, Legora, and Lovable.",
+          "url": "https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/",
+          "published": "2026-05-19T12:00:00.000Z"
+        },
+        {
+          "headline": "The Herman Miller Coyl Standing Desk Is Built Just for Gamers",
+          "source": "Wired",
+          "summary": "The Coyl uses a coil design for the power cable, keeping it neat and taut between the desk and the wall. And instead of relying on boring levers to adjust the height, it has a nifty rotary dial.",
+          "url": "https://www.wired.com/story/exclusive-herman-miller-coyl-standing-desk-for-gamers/",
+          "published": "2026-05-19T11:00:00.000Z"
+        },
+        {
+          "headline": "The US Built a Site to Ensure Fair Access to Public Lands. Then Everything Went Wrong",
+          "source": "Wired",
+          "summary": "Recreation.gov was supposed to make access to public lands more equitable and streamlined. Instead, it’s rife with bots and inequality, while a government contractor benefits.",
+          "url": "https://www.wired.com/story/the-us-built-a-site-to-ensure-fair-access-to-public-lands-then-everything-went-wrong/",
+          "published": "2026-05-19T11:00:00.000Z"
+        },
+        {
+          "headline": "Tom Steyer Wants to Save California From Billionaires. But Also Doesn’t Want Them to Leave",
+          "source": "Wired",
+          "summary": "The hedge fund billionaire turned gubernatorial candidate wants to tax California’s ultrawealthy, regulate AI, and keep Silicon Valley happy at the same time. Good luck with that.",
+          "url": "https://www.wired.com/story/the-big-interview-podcast-tom-steyer/",
+          "published": "2026-05-19T10:30:00.000Z"
+        },
+        {
+          "headline": "Set Up Your Phone’s Always-On Display So You’re Unlocking It Less Often",
+          "source": "Wired",
+          "summary": "Break the pattern of unlocking your phone for one thing and then getting sucked into something else. Set up your lock screen to show all the information you need at a glance.",
+          "url": "https://www.wired.com/story/set-up-always-on-display-iphone-android/",
+          "published": "2026-05-19T10:30:00.000Z"
+        },
+        {
+          "headline": "Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business",
+          "source": "TechCrunch",
+          "summary": "Costs for solar panels are expected to drop another 30% in the coming decade, helping the tech cement its lead in energy markets.",
+          "url": "https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/",
+          "published": "2026-05-19T10:00:00.000Z"
+        },
+        {
+          "headline": "Google I/O 2026 Live Blog: All the Gemini and Smart Glasses Updates as They Happen",
+          "source": "Wired",
+          "summary": "Follow our live coverage of Google’s annual developer keynote, where the company will announce updates to its Gemini suite of AI tools and more details about Android XR smart glasses.",
+          "url": "https://www.wired.com/live/google-io-2026-live-blog-gemini-android-xr-search/",
+          "published": "2026-05-19T10:00:00.000Z"
+        },
+        {
           "headline": "Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.",
           "source": "TechCrunch",
           "summary": "\"There's a common refrain among [young] people in this world that it's easier to raise money for a startup right now than to get an internship. Which is remarkable, right?\"",
           "url": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/",
           "published": "2026-05-19T05:50:49.000Z"
-        },
-        {
-          "headline": "Tempo Promo Code: 60% Off Ready-to-Heat Meals in 2026",
-          "source": "Wired",
-          "summary": "Upgrade your meal prep with these Tempo discount codes and offers. Save on high-protein, ready-to-heat meals delivered to your door.",
-          "url": "https://www.wired.com/story/tempo-meals-promo-code/",
-          "published": "2026-05-19T05:00:00.000Z"
-        },
-        {
-          "headline": "HBO Max Promo Code: 50% Off | May",
-          "source": "Wired",
-          "summary": "Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.",
-          "url": "https://www.wired.com/story/max-promo-code/",
-          "published": "2026-05-19T05:00:00.000Z"
-        },
-        {
-          "headline": "Norton Coupon Codes: Up to 58% Off",
-          "source": "Wired",
-          "summary": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to help you save at Norton.",
-          "url": "https://www.wired.com/story/norton-coupon-code/",
-          "published": "2026-05-19T05:00:00.000Z"
-        },
-        {
-          "headline": "Limited Time: TurboTax Full Service Coupons This May",
-          "source": "Wired",
-          "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-          "url": "https://www.wired.com/story/turbotax-coupon/",
-          "published": "2026-05-19T05:00:00.000Z"
-        },
-        {
-          "headline": "Booking.com Promo Codes: 20% Off | May 2026",
-          "source": "Wired",
-          "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
-          "url": "https://www.wired.com/story/booking-com-promo-code/",
-          "published": "2026-05-19T05:00:00.000Z"
-        },
-        {
-          "headline": "Lenovo Coupon Codes and Deals in May 2026",
-          "source": "Wired",
-          "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
-          "url": "https://www.wired.com/story/lenovo-coupon-code/",
-          "published": "2026-05-19T05:00:00.000Z"
         },
         {
           "headline": "OSHA probing worker death at SpaceX’s Starbase site",
@@ -74,20 +88,6 @@
           "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
           "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
           "published": "2026-05-18T19:27:52.000Z"
-        },
-        {
-          "headline": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-          "source": "TechCrunch",
-          "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
-          "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-          "published": "2026-05-18T17:34:43.000Z"
-        },
-        {
-          "headline": "NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
-          "source": "TechCrunch",
-          "summary": "The New York public healthcare system said hackers stole personal and medical data, and scans of biometrics — including fingerprints — in one of the largest recorded breaches of 2026.",
-          "url": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
-          "published": "2026-05-18T16:32:33.000Z"
         }
       ]
     },
@@ -95,6 +95,20 @@
       "id": "science",
       "label": "Science",
       "articles": [
+        {
+          "headline": "Odd “butterfly” molecule could lead to new parts of the quantum realm",
+          "source": "New Scientist",
+          "summary": "An exotic new molecule is shaped like a butterfly, complete with \"wings\" made from electrons. The discovery could provide a gateway to completely new parts of the quantum realm",
+          "url": "https://www.newscientist.com/article/2526616-odd-butterfly-molecule-could-lead-to-new-parts-of-the-quantum-realm/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "published": "2026-05-19T10:00:39.000Z"
+        },
+        {
+          "headline": "The future of robot armies is here – and it’s not what you think",
+          "source": "New Scientist",
+          "summary": "Robots are becoming more a part of our lives every year, and worries about a robot army rising up have long plagued the technology. But columnist Annalee Newitz talks to nanobot researchers and finds out the real robot army could be a welcome solution to medical or environmental ",
+          "url": "https://www.newscientist.com/article/2527125-the-future-of-robot-armies-is-here-and-its-not-what-you-think/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+          "published": "2026-05-19T09:00:42.000Z"
+        },
         {
           "headline": "Scientists found a smarter Mediterranean diet that slashes diabetes risk by 31%",
           "source": "Science Daily",
@@ -164,20 +178,6 @@
           "summary": "Work, illness, divorce: life is riddled with stressors out of your control. But research is revealing new ways to cope with these challenges and find hope instead of despair",
           "url": "https://www.newscientist.com/article/2526019-how-i-used-psychology-to-come-back-from-the-worst-year-of-my-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "published": "2026-05-18T16:00:16.000Z"
-        },
-        {
-          "headline": "The 3 things you need to know about protein, according to an expert",
-          "source": "New Scientist",
-          "summary": "Why have so many people become fixated on protein? Donald Layman is one of the people behind the research showing the benefits of getting more protein in your diet, but he thinks things have gone too far and wants to set the record straight",
-          "url": "https://www.newscientist.com/article/2526684-the-3-things-you-need-to-know-about-protein-according-to-an-expert/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "published": "2026-05-18T14:00:57.000Z"
-        },
-        {
-          "headline": "The ‘doomsday’ glacier’s giant ice shelf is about to break away",
-          "source": "New Scientist",
-          "summary": "The floating ice shelf of world’s widest glacier – Thwaites glacier in Antarctica – is detaching, with worrying implications for global sea-level rise",
-          "url": "https://www.newscientist.com/article/2526826-the-doomsday-glaciers-giant-ice-shelf-is-about-to-break-away/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-          "published": "2026-05-18T10:00:26.000Z"
         }
       ]
     },
@@ -186,25 +186,60 @@
       "label": "Politics",
       "articles": [
         {
+          "headline": "Son of Mango boss arrested over father's fatal fall from cliff",
+          "source": "BBC World",
+          "summary": "Isak, 71, died in December 2024 after falling from a ravine while walking in the Montserrat mountains near Barcelona.",
+          "url": "https://www.bbc.com/news/articles/c0m2pg1z4x8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-19T12:32:33.000Z"
+        },
+        {
+          "headline": "Father-of-8 security guard hailed as hero in San Diego mosque shooting",
+          "source": "BBC World",
+          "summary": "Amin Abdullah, one of three men killed in the attack, is said to have saved lives in the shooting.",
+          "url": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-19T12:30:48.000Z"
+        },
+        {
+          "headline": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
+          "source": "BBC World",
+          "summary": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
+          "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-19T12:24:07.000Z"
+        },
+        {
+          "headline": "W.H.O. Chief Is ‘Deeply Concerned’ by Speed and Scale of Ebola Outbreak",
+          "source": "NY Times World",
+          "summary": "Health officials reported more than 130 suspected deaths and 513 cases, a sharp rise since the outbreak was first identified in the Democratic Republic of Congo and Uganda.",
+          "url": "https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html",
+          "published": "2026-05-19T12:06:38.000Z"
+        },
+        {
+          "headline": "Victim or enabler? Epstein girlfriend who could face questions despite plea deal",
+          "source": "BBC World",
+          "summary": "Nadia Marcinko is relatively unknown but may soon be called before US legislators.",
+          "url": "https://www.bbc.com/news/articles/cz92j3n3jvvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-19T10:58:23.000Z"
+        },
+        {
+          "headline": "Selling children to survive: Afghan fathers forced to make impossible choices",
+          "source": "BBC World",
+          "summary": "In Afghanistan today, a staggering three in four people cannot meet their basic needs.",
+          "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-19T10:46:50.000Z"
+        },
+        {
+          "headline": "As Ukraine Strikes Russian Oil Sites, an Environmental Disaster Unfolds",
+          "source": "NY Times World",
+          "summary": "After invading more than four years ago, Moscow has usually been the one causing ecological disaster. But Kyiv’s strikes, intended to cut into the Kremlin’s oil revenue, have flipped the script.",
+          "url": "https://www.nytimes.com/2026/05/19/world/europe/russia-ukraine-oil-attacks-war-tuapse.html",
+          "published": "2026-05-19T09:02:00.000Z"
+        },
+        {
           "headline": "Two dead in Spain shooting, with babies reportedly among injured",
           "source": "BBC World",
           "summary": "Police say a 25-year-old man is suspected of killing his parents and injuring four others in southern Spain.",
           "url": "https://www.bbc.com/news/articles/cdrpnzv84gro?at_medium=RSS&at_campaign=rss",
           "published": "2026-05-19T07:17:15.000Z"
-        },
-        {
-          "headline": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
-          "source": "BBC World",
-          "summary": "The alleged attackers were aged 17 and 18 and one left a note containing \"generalised hate rhetoric\", investigators say.",
-          "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-19T07:07:55.000Z"
-        },
-        {
-          "headline": "At least 131 dead in Ebola outbreak in DR Congo, official says",
-          "source": "BBC World",
-          "summary": "The World Health Organization (WHO) has declared the outbreak an international emergency.",
-          "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-19T05:23:57.000Z"
         },
         {
           "headline": "Trump’s Portrait Pops Up on Rickshaws in India to Mark America’s 250th",
@@ -217,7 +252,7 @@
           "headline": "Oil Slick Reaches a Pristine Persian Gulf Island in Iran",
           "source": "NY Times World",
           "summary": "Videos show birds, turtles and crabs trapped inside mounds of tar around Shidvar island, a protected wildlife sanctuary with turquoise waters and white sand beaches.",
-          "url": "https://www.nytimes.com/2026/05/19/world/europe/oil-slick-reaches-a-pristine-persian-gulf-island-in-iran.html",
+          "url": "https://www.nytimes.com/2026/05/19/world/europe/oil-spill-iran-shidvar-island.html",
           "published": "2026-05-19T04:01:05.000Z"
         },
         {
@@ -226,41 +261,6 @@
           "summary": "In any new round of fighting, Iranian officials could adopt new tactics, including intensified strikes on neighbors and trying to close off a second strait.",
           "url": "https://www.nytimes.com/2026/05/18/world/middleeast/iran-war-retaliation-options.html",
           "published": "2026-05-19T00:31:43.000Z"
-        },
-        {
-          "headline": "Trump says he called off new Iran attack at request of Gulf states",
-          "source": "BBC World",
-          "summary": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
-          "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-18T22:30:58.000Z"
-        },
-        {
-          "headline": "The Republican who stood up to Trump is hoping for a big win against president",
-          "source": "BBC World",
-          "summary": "Kentucky Congressman Thomas Massie, who has crossed Trump on federal spending and the Epstein files, faces Republican voters.",
-          "url": "https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-18T21:39:45.000Z"
-        },
-        {
-          "headline": "Selling children to survive: Afghan fathers forced to make impossible choices",
-          "source": "BBC World",
-          "summary": "In Afghanistan today, a staggering three in four people cannot meet their basic needs.",
-          "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-18T21:09:07.000Z"
-        },
-        {
-          "headline": "Trump’s Taiwan Gambit is Already a Gift to China",
-          "source": "NY Times World",
-          "summary": "President Trump’s open willingness to hold up a $14 billion Taiwan arms package is a win for Beijing. Now China could be weighing how to keep the weapons on ice for as long as it can.",
-          "url": "https://www.nytimes.com/2026/05/18/world/asia/trump-taiwan-china-weapons.html",
-          "published": "2026-05-18T12:11:49.000Z"
-        },
-        {
-          "headline": "Blocked Strait of Hormuz Leads to New Opportunities for Syria",
-          "source": "NY Times World",
-          "summary": "The latest war in the Middle East has created new economic opportunities for Syria thanks to its geography.",
-          "url": "https://www.nytimes.com/2026/05/18/world/middleeast/strait-hormuz-blockade-iran-war-syria-oil.html",
-          "published": "2026-05-18T09:55:24.000Z"
         },
         {
           "headline": "In Closed-Door Talks, U.S. Demands a Major Role in Greenland",
@@ -276,46 +276,67 @@
       "label": "RPGs",
       "articles": [
         {
-          "headline": "How to unlock the Goliath race in Forza Horizon 6",
+          "headline": "The Mandalorian and Grogu review: This isn't a Star Wars movie but it's still a damn good time",
           "source": "Polygon",
-          "summary": "The Goliath race is the ultimate challenge in Forza Horizon 6. Here's everything you need to do to unlock it.",
-          "url": "https://www.polygon.com/forza-horizon-6-fh6-goliath-race-how-to-unlock/",
-          "published": "2026-05-19T04:01:22.000Z"
+          "summary": "The Mandalorian and Grogu probably shouldn't exist, but I'm glad it does",
+          "url": "https://www.polygon.com/the-mandalorian-and-grogu-review/",
+          "published": "2026-05-19T13:01:19.000Z"
         },
         {
-          "headline": "Dropout CEO Sam Reich explains the 'paradox' of Game Changer's s8 premiere",
+          "headline": "Yoshi and the Mysterious Book review: Nintendo's best Switch 2 kids game",
           "source": "Polygon",
-          "summary": "The Dropout CEO and Game Changer host on violating Disney copyright, encouraging sexual harassment, and his upcoming \"favorite episode of all time.\"",
-          "url": "https://www.polygon.com/sam-reich-interview-game-changer-season-8/",
-          "published": "2026-05-18T23:00:20.000Z"
+          "summary": "Yoshi and the Mysterious Book is full of adorable discoveries, but it never quite rises to the potential of its critter-researching gameplay.",
+          "url": "https://www.polygon.com/yoshi-mysterious-book-review/",
+          "published": "2026-05-19T13:01:19.000Z"
         },
         {
-          "headline": "Forza Horizon 6 interactive map",
+          "headline": "Teeny Mutant Ninja Turtles trailer: TMNT is back like you've never seen it before",
           "source": "Polygon",
-          "summary": "Here's a map of Forza Horizon 6's Japan, pointing out different races, landmarks, jobs, and more.",
-          "url": "https://www.polygon.com/map/forza-horizon-6-fh6-japan-interactive/",
-          "published": "2026-05-18T22:50:20.000Z"
+          "summary": "An exclusive look at Teeny Mutant Ninja Turtles, the pre-school take on the TMNT from Nickelodeon Digital Studio",
+          "url": "https://www.polygon.com/exclusive-first-look-at-the-next-tmnt-show/",
+          "published": "2026-05-19T13:00:53.000Z"
         },
         {
-          "headline": "X-Files: I Want to Believe's never-seen cut streaming on Hulu in June",
+          "headline": "Transformers movie that killed Optimus gets triumphant re-release",
           "source": "Polygon",
-          "summary": "The X-Files: I Want to Beleive director's cut by Chris Carter will debut on Disney Plus in June",
-          "url": "https://www.polygon.com/x-files-i-want-to-beleive-directors-cut/",
-          "published": "2026-05-18T22:03:49.000Z"
+          "summary": "Transformers: The Movie, known for shocking fans with Optimus Prime's death, celebrates its 40th anniversary with a special re-release.",
+          "url": "https://www.polygon.com/transformers-the-movie-re-release-theaters-dates/",
+          "published": "2026-05-19T12:50:16.000Z"
         },
         {
-          "headline": "How to reach the Alien Ruins in Subnautica 2",
+          "headline": "Two Point Museum's Arty-Facts DLC reminded me why this is one of the best simulation games",
           "source": "Polygon",
-          "summary": "Subnautica 2's Alien Ruins pose your first big traversal challenge. This guide explains how to safely reach the Alien Ruins in Subnautica 2",
-          "url": "https://www.polygon.com/subnautica-2-how-to-reach-alien-ruins-survive-collector-leviathan/",
-          "published": "2026-05-18T21:36:36.000Z"
+          "summary": "Arty-Facts, Two Point Museum's latest DLC, reimagines how you use space and design to turn a profit",
+          "url": "https://www.polygon.com/two-point-museum-arty-facts-dlc-review/",
+          "published": "2026-05-19T12:00:19.000Z"
         },
         {
-          "headline": "PlayStation confirms it will no longer bring narrative exclusives to PC",
+          "headline": "Steam's NSFW and Mature tags ditched by Valve in favour of \"more descriptive\" ones like Sexual Content and Gore, as part of wider revamp",
+          "source": "Rock Paper Shotgun",
+          "summary": "Valve have revealed a round of changes to the tags which can be applied to games on the Steam store. The ones designed to give you a brief idea of the genres or themes you're in for if you opt to give any specific game a go, as well as grouping together similar works. 17 new tags",
+          "url": "https://www.rockpapershotgun.com/steams-nsfw-and-mature-tags-ditched-by-valve-in-favour-of-more-descriptive-ones-like-sexual-content-and-gore-as-part-of-wider-revamp",
+          "published": "2026-05-19T11:03:50.000Z"
+        },
+        {
+          "headline": "The Da Vinci Code was ahead of its time in one brilliant way",
           "source": "Polygon",
-          "summary": "PlayStation confirmed it is shifting away from its PC ports strategy, but don't expect all future PlayStation games to ditch PC.",
-          "url": "https://www.polygon.com/sony-playstation-exclusives-officially-ending-pc/",
-          "published": "2026-05-18T21:06:43.000Z"
+          "summary": "Ron Howard's puzzle-box film is still enjoyable two decades after its release.",
+          "url": "https://www.polygon.com/the-da-vinci-code-puzzle-box-mystery-blockbuster-20th-anniversary/",
+          "published": "2026-05-19T11:01:10.000Z"
+        },
+        {
+          "headline": "Shelve your hopes to play Ghost of Yōtei or Saros on PC, as PlayStation boss reportedly confirms plan to stop porting narrative-driven singleplayer games",
+          "source": "Rock Paper Shotgun",
+          "summary": "They've come around to get their gigantic collection of Ratchet and Clank plushies. Their dad's in the car, so you don't want to cause a fuss. Still, as they hastily pack a cuddly Clank away in a carrier bag, you can't help but ask. Was it something I said? They turn to you, tear",
+          "url": "https://www.rockpapershotgun.com/shelve-your-hopes-to-play-ghost-of-yotei-or-saros-on-pc-as-playstation-boss-reportedly-confirms-plan-to-stop-porting-narrative-driven-singleplayer-games",
+          "published": "2026-05-19T10:00:00.000Z"
+        },
+        {
+          "headline": "\"It was chaos\": How The Witcher 4 and Cyberpunk 2 are learning from decades of CD Projekt's documentation mistakes",
+          "source": "Rock Paper Shotgun",
+          "summary": "The Witcher 4 and Cyberpunk 2 have gotten ample attention for their whizbang Unreal Engine features and potential major cast resurrections, but one of their key 'enhancements' may seem horribly dry: their creation will be much, much better documented than any Witcher or Cyberpunk",
+          "url": "https://www.rockpapershotgun.com/it-was-chaos-how-the-witcher-4-and-cyberpunk-2-are-learning-from-decades-of-cd-projekts-documentation-mistakes",
+          "published": "2026-05-19T09:10:21.000Z"
         },
         {
           "headline": "Cancelled Star Wars: Knights of the Old Republic remake's voiced protagonist and naked robo-person bums bared in this reportedly leaked cinematic",
@@ -337,27 +358,6 @@
           "summary": "There are whispers on the wind that a new trailer for Grand Theft Auto 6 will be out this week. There were whispers it would be last week, too. Whenever the next look at Rockstar’s open world crime-’em-up arrives, it's unlikely it will have the cultural impact of Grand Theft Auto",
           "url": "https://www.rockpapershotgun.com/sure-a-new-gta-6-trailer-would-be-nice-but-it-doesnt-have-a-hope-of-matching-the-cultural-significance-of-gta-4s-second-reveal",
           "published": "2026-05-18T13:49:25.000Z"
-        },
-        {
-          "headline": "Extraction shooter spinoff EVE Vanguard will let you salvage ships destroyed in EVE Online, then flog the parts back to their owners",
-          "source": "Rock Paper Shotgun",
-          "summary": "EVE Vanguard, the latest attempt by Fenris 'I Can’t Believe It’s Not CCP Games' Creations at crafting a first-person shooter counterpart to EVE Online, continues to gestate within Iceland’s best-funded spinoff vats. Nearly three years after being revealed as a Shoot, Loot 'n' Sco",
-          "url": "https://www.rockpapershotgun.com/extraction-shooter-spinoff-eve-vanguard-will-let-you-salvage-ships-destroyed-in-eve-online-then-flog-the-parts-back-to-their-owners",
-          "published": "2026-05-18T12:08:25.000Z"
-        },
-        {
-          "headline": "Subnautica 2 mod makes creatures killable, despite its devs' desire to convince players to \"use non-violent and more creative solutions\"",
-          "source": "Rock Paper Shotgun",
-          "summary": "Subnautica 2 is deliberately designed to nudge you away from seeking violent solutions to your 'oh lordy there's a giant leviathan chasing me' problems, with devs Unknown Worlds having been clear that strong feelings have propelled them down that path. Yet, as they've also acknow",
-          "url": "https://www.rockpapershotgun.com/subnautica-2-mod-makes-creatures-killable-despite-its-devs-desire-to-convince-players-to-use-non-violent-and-more-creative-solutions",
-          "published": "2026-05-18T11:30:00.000Z"
-        },
-        {
-          "headline": "This week in PC games: Tokyo-drifting in Forza Horizon 6, communist grifting in Disco Elysium follow-up Zero Parades, or dystopia tifting in puzzle game Phonopolis",
-          "source": "Rock Paper Shotgun",
-          "summary": "Have no fear, dear reader. Yes, I am once standing in for Edwin to battle The Maw and bring forth its tidings of upcoming PC games. But the beast has not eaten our news editor. Not this time. Instead, Edwin's been called away to Krakow where he will be using his creature-wrestlin",
-          "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-tokyo-drifting-in-forza-horizon-6-communist-grifting-in-disco-elysium-follow-up-zero-parades-or-dystopia-tifting-in-puzzle-game-phonopolis",
-          "published": "2026-05-18T11:04:11.000Z"
         }
       ]
     },
@@ -366,46 +366,46 @@
       "label": "Motorcycles",
       "articles": [
         {
-          "headline": "Segway's First EV Dirt Bike Is Cheap As Hell, And Your Kid Is Going to Want It",
+          "headline": "Ducati’s New Blacked Out Hypermotard Looks Like A Super(Moto) Villain",
           "source": "RideApart",
-          "summary": "Segway's new Xaber 300 all-electric dirt bike just released to the public, and it comes with one of the best price points for the industry.",
-          "url": "https://www.rideapart.com/news/796221/segway-xaber-electric-ev-dirt-bike-price-specs-features/",
-          "published": "2026-05-18T20:01:09.000Z"
+          "summary": "The 2027 Ducati 698 Mono Nera gets Ducati Quick Shift, Termignoni silencers, and wheelie assist to awaken your inner hooligan.",
+          "url": "https://www.rideapart.com/news/796161/ducati-hypermotard-698-nera-specs-features/",
+          "published": "2026-05-19T13:01:00.000Z"
         },
         {
-          "headline": "BMW Just Built A Rocketship Bagger Motorcycle, And It's Called the Vision K18",
+          "headline": "Honda MSX125 Grom Gets A Trio of New Colors, Is Still Not A Yamaha",
           "source": "RideApart",
-          "summary": "This one-of-one brushed aluminum creation is making its worldwide debut at the Concorso d'Eleganza Villa d'Este, sharp lines and all.",
-          "url": "https://www.rideapart.com/news/796065/bmw-vision-k18-brushed-aluminum-design/",
-          "published": "2026-05-18T12:24:00.000Z"
+          "summary": "While it's true that the Grom is easily one of Honda's more angular, Transformer-esque motorcycle designs, one color choice stands out.",
+          "url": "https://www.rideapart.com/news/796220/honda-grom-new-colors-europe/",
+          "published": "2026-05-19T12:46:00.000Z"
         },
         {
-          "headline": "Toyota Built an Off-Road Electric 3-Wheeled Scooter That Fits In Your Car. You Might Be Able to Buy It",
+          "headline": "The KTM XC Range Is What Happens When Winning Becomes Routine. For Better or Worse",
           "source": "RideApart",
-          "summary": "The Toyota Land Hopper Concept is what you get when you cross a Lime scooter with Toyota sensibility and add an extra wheel. And it's designed to fit in your Land Cruiser's trunk.",
-          "url": "https://www.rideapart.com/news/796032/toyota-land-hopper-concept-ev-three-wheel-trike-scooter/",
-          "published": "2026-05-18T12:23:00.000Z"
+          "summary": "KTM refines its XC and XC-F cross-country bikes with Factory Racing-inspired updates and familiar race-ready performance.",
+          "url": "https://www.rideapart.com/news/796101/2027-ktm-xc-range-revealed/",
+          "published": "2026-05-19T12:23:00.000Z"
         },
         {
-          "headline": "Aprilia Racers Days Looks Like Track Day Summer Camp For Grown-Ups",
+          "headline": "Despite Opposition, Feds Have Already Awarded Border Wall Contract Through Big Bend National Park",
           "source": "RideApart",
-          "summary": "The 2026 Aprilia Racers Days program brings premium coaching and RSV4 demo rides to iconic US tracks.",
-          "url": "https://www.rideapart.com/news/795936/2026-aprilia-racers-days-details/",
-          "published": "2026-05-18T11:42:00.000Z"
+          "summary": "The Trump Administration had proposed running a portion of the border wall straight through Big Bend National Park, much to the opposition of nearly every Texan. And despite Customs and Border Protection saying they weren't going to, the contract had already been awarded.",
+          "url": "https://www.rideapart.com/news/796203/big-bend-national-park-texas-border-wall-contract-award/",
+          "published": "2026-05-19T12:06:00.000Z"
         },
         {
-          "headline": "This Chinese Middleweight Naked Bike Costs $7K And Has Main Character Syndrome",
+          "headline": "This Superbike Was Modified By A Bunch of Audi Tuners, And We're Here For It",
           "source": "RideApart",
-          "summary": "Letbe's Arthur 700 undercuts Japanese middleweights on price while accidentally becoming comedy gold online.",
-          "url": "https://www.rideapart.com/news/795931/letbe-arthur700-naked-motorcycle-7k-usd/",
-          "published": "2026-05-18T11:27:00.000Z"
+          "summary": "ABT Sportsline and MV Agusta teamed up for a 208-horsepower naked bike dripping in tuner-car influence.",
+          "url": "https://www.rideapart.com/news/796100/mv-agusta-brutale-1000-abt-specs-features-price/",
+          "published": "2026-05-19T11:58:00.000Z"
         },
         {
-          "headline": "Alaska's Federal Public Lands Transfer Shows How Feds Will Sell Your Off-Road and Hunting Areas",
+          "headline": "Is GoPro For Sale? Possibly",
           "source": "RideApart",
-          "summary": "A recent Public Lands Order transferred over a million acres of public lands in Alaska along the famed Dalton Highway shows how the federal government will begin to chip away and sell off our public lands.",
-          "url": "https://www.rideapart.com/news/795996/alaska-dalton-highway-public-land-order-state-transfer/",
-          "published": "2026-05-18T11:01:00.000Z"
+          "summary": "GoPro hasn't been the market leader in action cameras since its heyday in the 2010s, and has suffered falling revenue, layoffs, and more in recent years. Now the company has said it's entertaining \"inquiries\" into whether it wants to sell the company.",
+          "url": "https://www.rideapart.com/news/796210/gopro-company-for-sale-action-camera/",
+          "published": "2026-05-19T11:49:00.000Z"
         },
         {
           "headline": "Le Mans MotoGP Sprint and Full Race Results (News) (Race Results)",
@@ -504,18 +504,11 @@
       "label": "Space",
       "articles": [
         {
-          "headline": "Anderson confirmed as NASA deputy administrator",
-          "source": "SpaceNews",
-          "summary": "WASHINGTON — The U.S. Senate confirmed Matt Anderson on May 18 as NASA’s deputy administrator, the second-in-command of the space agency.",
-          "url": "https://spacenews.com/anderson-confirmed-as-nasa-deputy-administrator/",
-          "published": "2026-05-19T09:09:53.000Z"
-        },
-        {
-          "headline": "ESA-China SMILE mission lifts off to deliver first global images of Earth’s magnetosphere",
-          "source": "SpaceNews",
-          "summary": "KOUROU, French Guiana — The SMILE mission developed jointly by the European Space Agency and China has reached orbit after more than a decade of preparations and cooperation.",
-          "url": "https://spacenews.com/esa-china-smile-mission-lifts-off-to-deliver-first-global-images-of-earths-magnetosphere/",
-          "published": "2026-05-19T05:13:28.000Z"
+          "headline": "NASA’s New Shock Detectives Project Invites Volunteers to Help Study Solar Wind",
+          "source": "NASA",
+          "summary": "NASA’s Magnetospheric Multiscale (MMS) mission has collected more than ten years of data from this zone – more than scientists can analyze alone. As Shock Detectives, you’ll help sort the chaotic from peaceful regions of the data, giving researchers a crucial set of clues.",
+          "url": "https://science.nasa.gov/get-involved/citizen-science/nasas-new-shock-detectives-project-invites-volunteers-to-help-study-solar-wind/",
+          "published": "2026-05-19T13:05:00.000Z"
         },
         {
           "headline": "Farming in Ancient Lake Agassiz",
@@ -539,20 +532,6 @@
           "published": "2026-05-18T21:28:32.000Z"
         },
         {
-          "headline": "European imaging companies step in to fill warzone gap",
-          "source": "SpaceNews",
-          "summary": "MILAN – As U.S. satellite imagery companies have pulled back from sharing visuals of Iran and the broader area around the Gulf conflict, European Earth-observation firms are moving to fill the vacuum.",
-          "url": "https://spacenews.com/european-imaging-companies-step-in-to-fill-warzone-gap/",
-          "published": "2026-05-18T19:33:50.000Z"
-        },
-        {
-          "headline": "Four NASA payloads to fly on Astrolab’s first lunar rover",
-          "source": "SpaceNews",
-          "summary": "WASHINGTON — Astrolab’s first lunar rover will carry four NASA payloads on a mission planned to launch later this year.",
-          "url": "https://spacenews.com/four-nasa-payloads-to-fly-on-astrolabs-first-lunar-rover/",
-          "published": "2026-05-18T18:00:00.000Z"
-        },
-        {
           "headline": "NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars",
           "source": "NASA",
           "summary": "In December 2023, scientists looking at Mars data stumbled across something completely unexpected — observations of an atmospheric effect never before seen in the Red Planet’s atmosphere. Using instruments aboard NASA’s MAVEN (Mars Atmosphere and Volatile Evolution) mission, scie",
@@ -565,27 +544,6 @@
           "summary": "The NASA-funded Translational Research Institute for Space Health (TRISH) has selected two early‑career scientists for its next class of postdoctoral fellows. The new fellows will begin their projects in May, focusing on space food systems and astronaut eye health. The TRISH Post",
           "url": "https://www.nasa.gov/news-release/nasa-selects-next-class-of-space-health-postdoctoral-fellows/",
           "published": "2026-05-18T17:00:17.000Z"
-        },
-        {
-          "headline": "Beacon of Light",
-          "source": "NASA",
-          "summary": "The heart of galaxy M77 shines brightly in this May 7, 2026, image from NASA’s James Webb Space Telescope. The intense glow is due to gas being pulled by the strong gravity of the central black hole into a tight and rapid orbit around it. The motion of the gas causes it to heat u",
-          "url": "https://www.nasa.gov/image-article/beacon-of-light/",
-          "published": "2026-05-18T15:31:45.000Z"
-        },
-        {
-          "headline": "Inside Golden Dome’s push to court commercial tech firms and investors",
-          "source": "SpaceNews",
-          "summary": "WASHINGTON — Pentagon officials overseeing Golden Dome are trying to convince commercial space founders, venture investors and software companies that missile defense can be built more like a modern technology platform than a traditional weapons system.",
-          "url": "https://spacenews.com/inside-golden-domes-push-to-court-commercial-tech-firms-and-investors/",
-          "published": "2026-05-18T14:00:00.000Z"
-        },
-        {
-          "headline": "Tomorrow.io adds $35 million to DeepSky funding round",
-          "source": "SpaceNews",
-          "summary": "TAMPA, Fla. — Weather intelligence provider Tomorrow.io has added $35 million to its latest funding round, bringing the total to $210 million to accelerate development of a next-generation constellation for gathering atmospheric data.",
-          "url": "https://spacenews.com/tomorrow-io-adds-35-million-to-deepsky-funding-round/",
-          "published": "2026-05-18T12:08:15.000Z"
         }
       ]
     },
@@ -684,6 +642,27 @@
       "label": "Hacking & Security",
       "articles": [
         {
+          "headline": "The New Phishing Click: How OAuth Consent Bypasses MFA",
+          "source": "The Hacker News",
+          "summary": "In February 2026, a phishing-as-a-service (PhaaS) platform called EvilTokens went live. Within five weeks, it had compromised more than 340 Microsoft 365 organizations across five countries. \n\nThe targets of the platform received a message asking them to enter a short code at mic",
+          "url": "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html",
+          "published": "2026-05-19T11:30:00.000Z"
+        },
+        {
+          "headline": "Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare",
+          "source": "The Hacker News",
+          "summary": "Drupal has issued an alert stating that it intends to release a \"core security release\" for all supported branches on May 20, 2026, from 5-9 p.m. UTC.\n\n\"The Drupal Security Team urges you to reserve time for core updates at that time because exploits might be developed within hou",
+          "url": "https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html",
+          "published": "2026-05-19T10:44:45.000Z"
+        },
+        {
+          "headline": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
+          "source": "The Hacker News",
+          "summary": "Critical security vulnerabilities have been disclosed in SEPPMail Secure E-Mail Gateway, an enterprise-grade email security solution, that could be exploited to achieve remote code execution and enable an attacker to read arbitrary mails from the virtual appliance.\n\"These vulnera",
+          "url": "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html",
+          "published": "2026-05-19T09:23:15.000Z"
+        },
+        {
           "headline": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer",
           "source": "The Hacker News",
           "summary": "Cybersecurity researchers have flagged a compromised version of the Nx Console extension that was published to the Microsoft Visual Studio Code (VS Code) Marketplace.\n\nThe extension in question is rwl.angular-console (version 18.95.0), a popular user interface and plugin for code",
@@ -710,27 +689,6 @@
           "summary": "Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said",
           "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
           "published": "2026-05-18T20:48:21.000Z"
-        },
-        {
-          "headline": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
-          "source": "The Hacker News",
-          "summary": "INTERPOL has coordinated a first-of-its-kind cybercrime crackdown across the Middle East and North Africa (MENA) that led to 201 arrests and the identification of an additional 382 suspects.\nThe initiative involved the efforts of 13 countries from the region between October 2025 ",
-          "url": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
-          "published": "2026-05-18T17:21:18.000Z"
-        },
-        {
-          "headline": "⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
-          "source": "The Hacker News",
-          "summary": "Monday opens with a trust problem. A mail server flaw is under active use. A network control system was targeted. Trusted packages were poisoned. A fake model page pushed a stealer. Then came the familiar ransom claim: the data was returned and deleted.\nThe pattern is clear. One ",
-          "url": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
-          "published": "2026-05-18T13:50:17.000Z"
-        },
-        {
-          "headline": "How to Reduce Phishing Exposure Before It Turns into Business Disruption",
-          "source": "The Hacker News",
-          "summary": "What happens when a phishing email looks clean enough to pass through security, but dangerous enough to expose the business after one click? That is the gap many SOCs still struggle with: the attacks that leave teams unsure what was exposed, who else was targeted, and how far the",
-          "url": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html",
-          "published": "2026-05-18T13:00:00.000Z"
         },
         {
           "headline": "NEW 'Off The Hook' ONLINE",
