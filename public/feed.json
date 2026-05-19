@@ -1,10 +1,17 @@
 {
-  "generated": "2026-05-19T05:22:39.842Z",
+  "generated": "2026-05-19T09:11:54.378Z",
   "topics": [
     {
       "id": "tech",
       "label": "Tech & AI",
       "articles": [
+        {
+          "headline": "Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.",
+          "source": "TechCrunch",
+          "summary": "\"There's a common refrain among [young] people in this world that it's easier to raise money for a startup right now than to get an internship. Which is remarkable, right?\"",
+          "url": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/",
+          "published": "2026-05-19T05:50:49.000Z"
+        },
         {
           "headline": "Tempo Promo Code: 60% Off Ready-to-Heat Meals in 2026",
           "source": "Wired",
@@ -17,6 +24,13 @@
           "source": "Wired",
           "summary": "Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.",
           "url": "https://www.wired.com/story/max-promo-code/",
+          "published": "2026-05-19T05:00:00.000Z"
+        },
+        {
+          "headline": "Norton Coupon Codes: Up to 58% Off",
+          "source": "Wired",
+          "summary": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to help you save at Norton.",
+          "url": "https://www.wired.com/story/norton-coupon-code/",
           "published": "2026-05-19T05:00:00.000Z"
         },
         {
@@ -38,13 +52,6 @@
           "source": "Wired",
           "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
           "url": "https://www.wired.com/story/lenovo-coupon-code/",
-          "published": "2026-05-19T05:00:00.000Z"
-        },
-        {
-          "headline": "50% Off Home Depot Promo Codes | May 2026",
-          "source": "Wired",
-          "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this May.",
-          "url": "https://www.wired.com/story/home-depot-promo-code/",
           "published": "2026-05-19T05:00:00.000Z"
         },
         {
@@ -81,13 +88,6 @@
           "summary": "The New York public healthcare system said hackers stole personal and medical data, and scans of biometrics — including fingerprints — in one of the largest recorded breaches of 2026.",
           "url": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
           "published": "2026-05-18T16:32:33.000Z"
-        },
-        {
-          "headline": "Kin Health raises $9M to build an AI notetaker for patients",
-          "source": "TechCrunch",
-          "summary": "The app is similar to a meeting notetaker — you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family and friends if you want to.",
-          "url": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
-          "published": "2026-05-18T15:26:00.000Z"
         }
       ]
     },
@@ -95,6 +95,48 @@
       "id": "science",
       "label": "Science",
       "articles": [
+        {
+          "headline": "Scientists found a smarter Mediterranean diet that slashes diabetes risk by 31%",
+          "source": "Science Daily",
+          "summary": "A large European study revealed that a lower-calorie Mediterranean diet paired with exercise and coaching dramatically reduced the risk of type 2 diabetes. Participants who made these lifestyle changes were 31% less likely to develop the disease over six years. They also lost mor",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260519003103.htm",
+          "published": "2026-05-19T07:02:22.000Z"
+        },
+        {
+          "headline": "Antarctic glacier collapses at record speed as Hektoria retreats 15 miles in just 15 months",
+          "source": "Science Daily",
+          "summary": "Antarctica’s Hektoria Glacier collapsed with shocking speed, retreating 15 miles in only 15 months and setting a modern record for grounded ice loss. Scientists say warming conditions and ocean-driven instability turned the glacier from seemingly stable to rapidly unraveling almo",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260518041417.htm",
+          "published": "2026-05-19T04:29:18.000Z"
+        },
+        {
+          "headline": "A strange ripple in spacetime could be the first fingerprint of dark matter",
+          "source": "Science Daily",
+          "summary": "Black holes crashing together may be revealing clues about dark matter hidden across the universe. Physicists created a new model predicting how dark matter could subtly distort gravitational waves produced during black hole mergers. When they tested the method on real LIGO data,",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260518041429.htm",
+          "published": "2026-05-19T04:12:59.000Z"
+        },
+        {
+          "headline": "String theory suddenly emerged from simple physics rules",
+          "source": "Science Daily",
+          "summary": "Physicists may have uncovered a surprising new clue that string theory—the idea that the universe is built from unimaginably tiny vibrating strings—could be more than just a mathematical fantasy. Instead of assuming strings existed from the start, researchers began with a few sim",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260518041424.htm",
+          "published": "2026-05-19T04:02:37.000Z"
+        },
+        {
+          "headline": "NASA’s powerful Roman Space Telescope is about to transform astronomy",
+          "source": "Science Daily",
+          "summary": "NASA’s Nancy Grace Roman Space Telescope is now aiming for an earlier launch in September 2026. Designed to explore dark matter, dark energy, and distant exoplanets, the telescope will capture massive, ultra-detailed surveys of the cosmos using infrared vision. Scientists expect ",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260518041345.htm",
+          "published": "2026-05-19T01:01:24.000Z"
+        },
+        {
+          "headline": "Forget electrons, this breakthrough uses light-matter particles to power AI",
+          "source": "Science Daily",
+          "summary": "Researchers at Penn have created a hybrid light-matter particle that could dramatically speed up AI computing while using far less energy. The breakthrough may help replace some electronic computing processes with ultra-efficient light-based technology.",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm",
+          "published": "2026-05-19T00:23:26.000Z"
+        },
         {
           "headline": "Mystery of the ancient giant stone jars of Laos may have been solved",
           "source": "New Scientist",
@@ -131,53 +173,11 @@
           "published": "2026-05-18T14:00:57.000Z"
         },
         {
-          "headline": "Schrödinger’s clock: Time could tick faster and slower at the same time",
-          "source": "Science Daily",
-          "summary": "Time might be even stranger than Einstein imagined. Physicists are now exploring the possibility that a single clock could exist in a quantum superposition, ticking both faster and slower at the same time — almost like Schrödinger’s cat being both alive and dead simultaneously. U",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260517211440.htm",
-          "published": "2026-05-18T10:21:09.000Z"
-        },
-        {
           "headline": "The ‘doomsday’ glacier’s giant ice shelf is about to break away",
           "source": "New Scientist",
           "summary": "The floating ice shelf of world’s widest glacier – Thwaites glacier in Antarctica – is detaching, with worrying implications for global sea-level rise",
           "url": "https://www.newscientist.com/article/2526826-the-doomsday-glaciers-giant-ice-shelf-is-about-to-break-away/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "published": "2026-05-18T10:00:26.000Z"
-        },
-        {
-          "headline": "This popular fermented food may help flush microplastics from the body",
-          "source": "Science Daily",
-          "summary": "Scientists in South Korea have discovered that a probiotic bacterium found in kimchi may help the body flush out tiny plastic particles before they can build up in organs. In lab tests, the kimchi-derived microbe clung tightly to nanoplastics even under conditions designed to mim",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260517211451.htm",
-          "published": "2026-05-18T09:59:47.000Z"
-        },
-        {
-          "headline": "Plant believed extinct for 60 years suddenly reappears",
-          "source": "Science Daily",
-          "summary": "A random photo snapped in the Australian outback has led to the rediscovery of a plant thought extinct for nearly 60 years — proving that ordinary people with smartphones are quietly transforming science. After bird bander Aaron Bean uploaded pictures of a strange shrub to iNatur",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260517211447.htm",
-          "published": "2026-05-18T08:51:42.000Z"
-        },
-        {
-          "headline": "The “impossible” LED that could change everything",
-          "source": "Science Daily",
-          "summary": "Scientists at the University of Cambridge have achieved what was once considered impossible by electrically powering insulating nanoparticles to create a completely new kind of LED. Using tiny organic “molecular antennas,” the team found a way to funnel energy into materials that",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260518011222.htm",
-          "published": "2026-05-18T05:18:55.000Z"
-        },
-        {
-          "headline": "Scientists just unlocked a cheaper way to make clean hydrogen fuel",
-          "source": "Science Daily",
-          "summary": "Researchers have developed a durable new catalyst that produces clean hydrogen without relying on expensive platinum metals. The breakthrough could make renewable hydrogen fuel cheaper, more efficient, and easier to scale for real-world energy use.",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260517211437.htm",
-          "published": "2026-05-18T04:55:16.000Z"
-        },
-        {
-          "headline": "Scientists opened a sealed envelope after 10 years and gravity still didn’t make sense",
-          "source": "Science Daily",
-          "summary": "For more than 200 years, scientists have struggled to pin down the exact strength of gravity — and one physicist spent a decade chasing the answer while keeping his own results hidden from himself. Stephan Schlamminger and his team at NIST painstakingly recreated a landmark Frenc",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260517211443.htm",
-          "published": "2026-05-18T01:14:43.000Z"
         }
       ]
     },
@@ -186,25 +186,46 @@
       "label": "Politics",
       "articles": [
         {
-          "headline": "Tasmanian government apologises over stolen body parts scandal",
+          "headline": "Two dead in Spain shooting, with babies reportedly among injured",
           "source": "BBC World",
-          "summary": "An investigation found that 177 human specimens from dozens of bodies were secretly kept by a museum.",
-          "url": "https://www.bbc.com/news/articles/c0q25lneg9vo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-19T04:19:37.000Z"
-        },
-        {
-          "headline": "At least 118 dead in Ebola outbreak in DR Congo, official says",
-          "source": "BBC World",
-          "summary": "The World Health Organization (WHO) has declared the outbreak an international emergency.",
-          "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-19T03:40:27.000Z"
+          "summary": "Police say a 25-year-old man is suspected of killing his parents and injuring four others in southern Spain.",
+          "url": "https://www.bbc.com/news/articles/cdrpnzv84gro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-19T07:17:15.000Z"
         },
         {
           "headline": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
           "source": "BBC World",
           "summary": "The alleged attackers were aged 17 and 18 and one left a note containing \"generalised hate rhetoric\", investigators say.",
           "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-19T01:35:30.000Z"
+          "published": "2026-05-19T07:07:55.000Z"
+        },
+        {
+          "headline": "At least 131 dead in Ebola outbreak in DR Congo, official says",
+          "source": "BBC World",
+          "summary": "The World Health Organization (WHO) has declared the outbreak an international emergency.",
+          "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-19T05:23:57.000Z"
+        },
+        {
+          "headline": "Trump’s Portrait Pops Up on Rickshaws in India to Mark America’s 250th",
+          "source": "NY Times World",
+          "summary": "The president is popping up on the back of the iconic three-wheeler to kick off America’s 250th anniversary celebrations in India.",
+          "url": "https://www.nytimes.com/2026/05/19/world/asia/india-trump-auto-rickshaws.html",
+          "published": "2026-05-19T04:01:06.000Z"
+        },
+        {
+          "headline": "Oil Slick Reaches a Pristine Persian Gulf Island in Iran",
+          "source": "NY Times World",
+          "summary": "Videos show birds, turtles and crabs trapped inside mounds of tar around Shidvar island, a protected wildlife sanctuary with turquoise waters and white sand beaches.",
+          "url": "https://www.nytimes.com/2026/05/19/world/europe/oil-slick-reaches-a-pristine-persian-gulf-island-in-iran.html",
+          "published": "2026-05-19T04:01:05.000Z"
+        },
+        {
+          "headline": "Here’s How Iran Could Respond to Renewed U.S.-Israeli Strikes",
+          "source": "NY Times World",
+          "summary": "In any new round of fighting, Iranian officials could adopt new tactics, including intensified strikes on neighbors and trying to close off a second strait.",
+          "url": "https://www.nytimes.com/2026/05/18/world/middleeast/iran-war-retaliation-options.html",
+          "published": "2026-05-19T00:31:43.000Z"
         },
         {
           "headline": "Trump says he called off new Iran attack at request of Gulf states",
@@ -214,9 +235,9 @@
           "published": "2026-05-18T22:30:58.000Z"
         },
         {
-          "headline": "Trump v Massie: Could president's Republican nemesis survive $20m attack to oust him?",
+          "headline": "The Republican who stood up to Trump is hoping for a big win against president",
           "source": "BBC World",
-          "summary": "The Kentucky congressman, who has crossed the president on federal spending and the Epstein files, faces Republican voters on Tuesday.",
+          "summary": "Kentucky Congressman Thomas Massie, who has crossed Trump on federal spending and the Epstein files, faces Republican voters.",
           "url": "https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss",
           "published": "2026-05-18T21:39:45.000Z"
         },
@@ -226,20 +247,6 @@
           "summary": "In Afghanistan today, a staggering three in four people cannot meet their basic needs.",
           "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
           "published": "2026-05-18T21:09:07.000Z"
-        },
-        {
-          "headline": "Ebola Was Identified in Congo Weeks Before W.H.O. Declared an Emergency",
-          "source": "NY Times World",
-          "summary": "Early surveillance and testing failed to identify the rare species of Ebola responsible for the current outbreak. An American doctor is among the confirmed cases.",
-          "url": "https://www.nytimes.com/2026/05/18/world/africa/congo-ebola-testing.html",
-          "published": "2026-05-18T20:05:11.000Z"
-        },
-        {
-          "headline": "Trump Warns Iran the ‘Clock Is Ticking’ as Tensions Surge Again in Middle East",
-          "source": "NY Times World",
-          "summary": "The president has sought to force Iran to accept his terms on its nuclear program or else face renewed war. An emboldened Iran has rebuffed Trump’s demands.",
-          "url": "https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html",
-          "published": "2026-05-18T18:51:43.000Z"
         },
         {
           "headline": "Trump’s Taiwan Gambit is Already a Gift to China",
@@ -261,13 +268,6 @@
           "summary": "Greenlandic officials worry about the direction of the negotiations aimed at defusing President Trump’s threats to seize their island. But they have little leverage.",
           "url": "https://www.nytimes.com/2026/05/18/world/europe/us-greenland-talks-trump.html",
           "published": "2026-05-18T09:01:55.000Z"
-        },
-        {
-          "headline": "He Shut Liquor Stores and Banned Abortion, All for the Glory of Russia",
-          "source": "NY Times World",
-          "summary": "A firebrand governor aims to transform his region into a laboratory for the Kremlin’s reactionary ideals.",
-          "url": "https://www.nytimes.com/2026/05/18/world/europe/russia-governor-vologda.html",
-          "published": "2026-05-18T09:00:16.000Z"
         }
       ]
     },
@@ -454,12 +454,62 @@
     {
       "id": "archaeology",
       "label": "Archaeology",
-      "articles": []
+      "articles": [
+        {
+          "headline": "The Ghost of Columbus and the Impossible Geometry of the Piri Reis Map",
+          "source": "Ancient Origins",
+          "summary": "The Ghost of Columbus and the Impossible Geometry of the Piri Reis Map\n\n            \n  \n\n\n\n      \n            \nIn 1929, while renovating the Topkapi Palace in Istanbul, a theologian discovered a fragment of gazelle skin that would rewrite the history of cartography. This was the ",
+          "url": "https://www.ancient-origins.net/news-history-archaeology/ghost-columbus-00102667",
+          "published": "2026-04-13T19:44:16.000Z"
+        },
+        {
+          "headline": "Roman Forum Found Beneath Barcelona Hotel Rewrites Barcino",
+          "source": "Ancient Origins",
+          "summary": "Roman Forum Found Beneath Barcelona Hotel Rewrites Barcino\n\n            \n  \n\n\n\n      \n            \nWhat started as a routine elevator shaft installation in a Barcelona hotel basement has turned into one of the most significant Roman archaeology discoveries in Spain in decades. Ex",
+          "url": "https://www.ancient-origins.net/news-history-archaeology/roman-forum-barcelona-00102582",
+          "published": "2026-03-10T12:00:00.000Z"
+        },
+        {
+          "headline": "Black Gold: Sumerian Bitumen Recipes Worked Like Asphalt, 4,000 Years Ago",
+          "source": "Ancient Origins",
+          "summary": "Black Gold: Sumerian Bitumen Recipes Worked Like Asphalt, 4,000 Years Ago\n\n            \n  \n\n\n\n      \n            \nSumerian craftspeople in Mesopotamia didn’t simply scoop up natural bitumen and slap it on boats or bricks. A new materials study suggests they followed repeatable “r",
+          "url": "https://www.ancient-origins.net/news-history-archaeology/sumerian-bitumen-00102535",
+          "published": "2026-02-19T23:47:26.000Z"
+        },
+        {
+          "headline": "Why Ghosts Haunt England at Christmas but Steer Clear of America",
+          "source": "Ancient Origins",
+          "summary": "Why Ghosts Haunt England at Christmas but Steer Clear of America\n\n            \n  \n\n\n\n      \n            \nA few years ago, the Downton Abbey Christmas special featured a ouija board which communicated a message from a dead character. American reviewers were extremely puzzled by th",
+          "url": "https://www.ancient-origins.net/history-ancient-traditions/why-ghosts-haunt-england-christmas-steer-clear-america-007219",
+          "published": "2025-12-25T10:00:28.000Z"
+        },
+        {
+          "headline": "Ancient Astronomical Alignments: Reading and Mapping the Stars at Early Advanced Civilization Sites",
+          "source": "Ancient Origins",
+          "summary": "Ancient Astronomical Alignments: Reading and Mapping the Stars at Early Advanced Civilization Sites \n\n            \n  \n\n\n\n      \n            \nMany of the cuneiform tablets of Mesopotamia and hieroglyphs of Egypt make reference to the sun, stars, or planetary positions. Also, a num",
+          "url": "https://www.ancient-origins.net/history-ancient-traditions/advanced-civilization-0011165",
+          "published": "2025-12-21T20:42:00.000Z"
+        },
+        {
+          "headline": "Renaissance Gallows Unearthed in France With 32 Executed Victims",
+          "source": "Ancient Origins",
+          "summary": "Renaissance Gallows Unearthed in France With 32 Executed Victims\n\n            \n  \n\n\n\n      \n            \n\nArchaeologists working in Grenoble, France, have made a chilling discovery that sheds light on the brutal religious persecution of the 16th century. The remains of a rare Ren",
+          "url": "https://www.ancient-origins.net/news-history-archaeology/renaissance-gallows-00102388",
+          "published": "2025-12-17T12:03:33.000Z"
+        }
+      ]
     },
     {
       "id": "space",
       "label": "Space",
       "articles": [
+        {
+          "headline": "Anderson confirmed as NASA deputy administrator",
+          "source": "SpaceNews",
+          "summary": "WASHINGTON — The U.S. Senate confirmed Matt Anderson on May 18 as NASA’s deputy administrator, the second-in-command of the space agency.",
+          "url": "https://spacenews.com/anderson-confirmed-as-nasa-deputy-administrator/",
+          "published": "2026-05-19T09:09:53.000Z"
+        },
         {
           "headline": "ESA-China SMILE mission lifts off to deliver first global images of Earth’s magnetosphere",
           "source": "SpaceNews",
@@ -536,13 +586,6 @@
           "summary": "TAMPA, Fla. — Weather intelligence provider Tomorrow.io has added $35 million to its latest funding round, bringing the total to $210 million to accelerate development of a next-generation constellation for gathering atmospheric data.",
           "url": "https://spacenews.com/tomorrow-io-adds-35-million-to-deepsky-funding-round/",
           "published": "2026-05-18T12:08:15.000Z"
-        },
-        {
-          "headline": "House bill restores funding for TraCSS",
-          "source": "SpaceNews",
-          "summary": "WASHINGTON — A House appropriations bill would reverse plans by the administration to stop development of a civil space traffic management system.",
-          "url": "https://spacenews.com/house-bill-restores-funding-for-tracss/",
-          "published": "2026-05-18T12:03:26.000Z"
         }
       ]
     },
@@ -550,6 +593,20 @@
       "id": "climate",
       "label": "Climate",
       "articles": [
+        {
+          "headline": "Corpus Christi Leaders Believe Data Center Plans May Be Behind Delays to Emergency Water Supply",
+          "source": "Inside Climate News",
+          "summary": "This story was produced in partnership by Inside Climate News and the Texas Newsroom, the state’s network of public radio stations.  Corpus Christi needs the groundwater beneath the small town of Sinton so urgently that it’s already laying pipeline, even before it has the permits",
+          "url": "https://insideclimatenews.org/news/19052026/corpus-christi-emergency-water-supply-delays/",
+          "published": "2026-05-19T09:00:00.000Z"
+        },
+        {
+          "headline": "New Zealand Moves to Ban Tort Liability for Greenhouse Gas Emissions and Climate Damage",
+          "source": "Inside Climate News",
+          "summary": "New Zealand’s government has announced that it plans to amend the country’s signature climate law to prohibit liability arising from climate change damages, a controversial move that critics say would shield polluters from climate lawsuits and undermine the rule of law. It comes ",
+          "url": "https://insideclimatenews.org/news/19052026/new-zealand-amends-climate-law-protects-polluters/",
+          "published": "2026-05-19T08:55:00.000Z"
+        },
         {
           "headline": "A Utility Mega-Merger Is All About Data Centers",
           "source": "Inside Climate News",
@@ -607,20 +664,6 @@
           "published": "2026-05-17T12:00:38.000Z"
         },
         {
-          "headline": "Platner’s Energy Plan Prioritizes Lowering Costs and Taking on Big Oil and the ‘Oligarchy’",
-          "source": "Inside Climate News",
-          "summary": "Graham Platner, the presumptive Democratic nominee for U.S. Senate from Maine, is known for a few things: his “more Bernie than Bernie” message of wresting back control from the rich and powerful; his biography as a Marine Corps veteran and oyster farmer with limited political ex",
-          "url": "https://insideclimatenews.org/news/17052026/maine-senate-candidate-energy-plan-to-reduce-consumer-costs/",
-          "published": "2026-05-17T09:00:00.000Z"
-        },
-        {
-          "headline": "On Sullivan Planning Board, Platner Voted to Pump the Brakes on Solar",
-          "source": "Inside Climate News",
-          "summary": "Graham Platner’s recently released energy plan navigates several tensions, including how to build clean energy projects and transmission lines quickly while also incorporating community input. Such projects are not only needed to fight climate change but to help bring down sky-hi",
-          "url": "https://insideclimatenews.org/news/17052026/graham-platner-rooftop-solar-moratorium-maine/",
-          "published": "2026-05-17T08:55:00.000Z"
-        },
-        {
           "headline": "Maldives diver dies in operation to recover bodies of Italians from cave",
           "source": "Guardian Climate",
           "summary": "Mohamed Mahudhee suffered decompression sickness after searching for scuba divers in Vaavu Atoll and died in hospital\nA Maldivian military diver has died during a high-risk operation to recover the bodies of four of the Italian scuba divers who drowned while exploring a deep unde",
@@ -640,6 +683,27 @@
       "id": "hacking",
       "label": "Hacking & Security",
       "articles": [
+        {
+          "headline": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer",
+          "source": "The Hacker News",
+          "summary": "Cybersecurity researchers have flagged a compromised version of the Nx Console extension that was published to the Microsoft Visual Studio Code (VS Code) Marketplace.\n\nThe extension in question is rwl.angular-console (version 18.95.0), a popular user interface and plugin for code",
+          "url": "https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html",
+          "published": "2026-05-19T07:49:23.000Z"
+        },
+        {
+          "headline": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials",
+          "source": "The Hacker News",
+          "summary": "In yet another software supply chain attack, threat actors have compromised the popular GitHub Actions workflow, actions-cool/issues-helper, to run malicious code that harvests sensitive credentials and exfiltrates them to an attacker-controlled server.\n\n\"Every existing tag in th",
+          "url": "https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html",
+          "published": "2026-05-19T05:28:06.000Z"
+        },
+        {
+          "headline": "Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account",
+          "source": "The Hacker News",
+          "summary": "Cybersecurity researchers have discovered a fresh software supply chain attack campaign that has compromised various npm packages associated with the @antv ecosystem as part of the ongoing Mini Shai-Hulud attack wave.\n\n\"The attack affects packages tied to the npm maintainer accou",
+          "url": "https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html",
+          "published": "2026-05-19T04:54:17.000Z"
+        },
         {
           "headline": "CISA Admin Leaked AWS GovCloud Keys on Github",
           "source": "Krebs on Security",
@@ -667,27 +731,6 @@
           "summary": "What happens when a phishing email looks clean enough to pass through security, but dangerous enough to expose the business after one click? That is the gap many SOCs still struggle with: the attacks that leave teams unsure what was exposed, who else was targeted, and how far the",
           "url": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html",
           "published": "2026-05-18T13:00:00.000Z"
-        },
-        {
-          "headline": "Developer Workstations Are Now Part of the Software Supply Chain",
-          "source": "The Hacker News",
-          "summary": "Supply chain attackers are not only trying to slip malicious code into trusted software. They are trying to steal the access that makes trusted software possible. Recently, three separate campaigns hit npm, PyPI, and Docker Hub in a 48-hour window, and all three targeted secrets ",
-          "url": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
-          "published": "2026-05-18T11:23:41.000Z"
-        },
-        {
-          "headline": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
-          "source": "The Hacker News",
-          "summary": "Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code.\nTopping the list is a critical flaw impacting Ivanti Xtraction (CVE-2026-8043, CVSS score: 9.",
-          "url": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
-          "published": "2026-05-18T10:54:05.000Z"
-        },
-        {
-          "headline": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
-          "source": "The Hacker News",
-          "summary": "Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges on fully patched Windows systems.\nCodena",
-          "url": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
-          "published": "2026-05-18T08:57:34.000Z"
         },
         {
           "headline": "NEW 'Off The Hook' ONLINE",
