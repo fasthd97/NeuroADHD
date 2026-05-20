@@ -1,16 +1,72 @@
 {
-  "generated": "2026-05-19T20:36:17.657Z",
+  "generated": "2026-05-20T00:45:52.669Z",
   "topics": [
     {
       "id": "tech",
       "label": "Tech & AI",
       "articles": [
         {
-          "headline": "Elon Musk said Sam Altman “stole” a non-profit — but the trial showed he had similar aims",
+          "headline": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
+          "source": "Wired",
+          "summary": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They’re certainly not alone.",
+          "url": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
+          "published": "2026-05-19T22:53:04.000Z"
+        },
+        {
+          "headline": "California’s Wildfire Season Is Already Overactive",
+          "source": "Wired",
+          "summary": "Major fires are threatening homes and ecologically sensitive areas following a hot, dry winter.",
+          "url": "https://www.wired.com/story/californias-wildfire-season-already-overactive/",
+          "published": "2026-05-19T22:20:37.000Z"
+        },
+        {
+          "headline": "Google just declared itself a contender in AI design at IO 2026",
           "source": "TechCrunch",
-          "summary": "“By the end of this week, you and Sam will be the most hated men in America.”",
-          "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
-          "published": "2026-05-19T20:11:00.000Z"
+          "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+          "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+          "published": "2026-05-19T21:33:30.000Z"
+        },
+        {
+          "headline": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+          "source": "TechCrunch",
+          "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+          "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+          "published": "2026-05-19T21:25:31.000Z"
+        },
+        {
+          "headline": "How to use Google’s new AI agents to go beyond your standard searches",
+          "source": "TechCrunch",
+          "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+          "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+          "published": "2026-05-19T21:16:25.000Z"
+        },
+        {
+          "headline": "Discord enables end-to-end encrypted voice and video calling for every user",
+          "source": "TechCrunch",
+          "summary": "Good news! Discord's hundreds of millions of users now have their communications scrambled, so not even Discord can see them.",
+          "url": "https://techcrunch.com/2026/05/19/discord-enables-end-to-end-encrypted-voice-and-video-calling-for-every-user/",
+          "published": "2026-05-19T21:14:08.000Z"
+        },
+        {
+          "headline": "VeilGate- Deception Reverse Proxy",
+          "source": "Hacker News",
+          "summary": "1 points · 0 comments on Hacker News",
+          "url": "https://news.ycombinator.com/item?id=48199725",
+          "published": "2026-05-19T21:13:03Z"
+        },
+        {
+          "headline": "Mach Industries just spent $50M to solve a major defense tech problem",
+          "source": "TechCrunch",
+          "summary": "Mach says the acquisition meaningfully improves unit economics across its five vehicle programs at exactly the moment the company is starting to scale.",
+          "url": "https://techcrunch.com/2026/05/19/mach-industries-just-spent-50m-to-solve-a-major-defense-tech-problem/",
+          "published": "2026-05-19T21:09:56.000Z"
+        },
+        {
+          "headline": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+          "source": "TechCrunch",
+          "summary": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.",
+          "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
+          "published": "2026-05-19T21:08:51.000Z"
         },
         {
           "headline": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
@@ -20,13 +76,6 @@
           "published": "2026-05-19T20:00:48.000Z"
         },
         {
-          "headline": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses",
-          "source": "TechCrunch",
-          "summary": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.",
-          "url": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/",
-          "published": "2026-05-19T19:15:31.000Z"
-        },
-        {
           "headline": "Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs",
           "source": "Wired",
           "summary": "On the eve of about 8,000 jobs being cut, employees are cashing in on headphone stipends and other perks while they still can.",
@@ -34,59 +83,10 @@
           "published": "2026-05-19T19:00:46.000Z"
         },
         {
-          "headline": "Google’s Genie world model can now simulate real streets with Street View",
-          "source": "TechCrunch",
-          "summary": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather changes, and rare scenarios.",
-          "url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
-          "published": "2026-05-19T17:51:39.000Z"
-        },
-        {
-          "headline": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
-          "source": "TechCrunch",
-          "summary": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
-          "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
-          "published": "2026-05-19T17:51:30.000Z"
-        },
-        {
-          "headline": "How to use Google’s new information agents",
-          "source": "TechCrunch",
-          "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
-          "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/",
-          "published": "2026-05-19T17:50:00.000Z"
-        },
-        {
-          "headline": "Google Search as you know it is over",
-          "source": "TechCrunch",
-          "summary": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce traffic to publishers across the web.",
-          "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
-          "published": "2026-05-19T17:46:00.000Z"
-        },
-        {
-          "headline": "Google Makes It Easy to Deepfake Yourself",
-          "source": "Wired",
-          "summary": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
-          "url": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/",
-          "published": "2026-05-19T17:45:00.000Z"
-        },
-        {
-          "headline": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
-          "source": "Wired",
-          "summary": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
-          "url": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
-          "published": "2026-05-19T17:45:00.000Z"
-        },
-        {
           "headline": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
           "source": "Wired",
           "summary": "Vibe-coded results! Super widgets! Bots that never sleep! Google’s vision for the future of Search is hyper-personalized, automated, and extremely AI.",
           "url": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
-          "published": "2026-05-19T17:45:00.000Z"
-        },
-        {
-          "headline": "Hands-On With All of Google’s New Upcoming Android XR Smart Glasses",
-          "source": "Wired",
-          "summary": "Here’s your first look at smart glasses coming from Warby Parker and Gentle Monster, powered by Google and Samsung’s XR platform.",
-          "url": "https://www.wired.com/story/hands-on-with-all-of-google-new-upcoming-android-xr-smart-glasses/",
           "published": "2026-05-19T17:45:00.000Z"
         }
       ]
@@ -190,7 +190,14 @@
           "source": "BBC World",
           "summary": "Security guard Amin Abdullah, one of three killed in the attack, was described as \"a shining light\".",
           "url": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-19T20:32:36.000Z"
+          "published": "2026-05-19T23:26:13.000Z"
+        },
+        {
+          "headline": "Ebola Outbreak in Central Africa Could Last Months, W.H.O. Says",
+          "source": "NY Times World",
+          "summary": "Health officials reported more than 130 suspected deaths and 540 cases in the Democratic Republic of Congo and Uganda, but experts say the figures could be much higher.",
+          "url": "https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html",
+          "published": "2026-05-19T21:19:34.000Z"
         },
         {
           "headline": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
@@ -235,13 +242,6 @@
           "published": "2026-05-19T17:05:41.000Z"
         },
         {
-          "headline": "Ebola Outbreak in Central Africa Could Last Months, W.H.O. Says",
-          "source": "NY Times World",
-          "summary": "Health officials reported more than 130 suspected deaths and 513 cases, a sharp rise since the outbreak was identified on May 15 in the Democratic Republic of Congo and Uganda.",
-          "url": "https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html",
-          "published": "2026-05-19T16:57:05.000Z"
-        },
-        {
           "headline": "Trump Says He Postponed a ‘Very Major Attack’ on Iran, Leaving Mideast on Edge",
           "source": "NY Times World",
           "summary": "President Trump threatened “another big hit” on Iran, saying the country had days to return to the negotiating table, as Pakistan continued its mediation efforts to end the war.",
@@ -275,6 +275,27 @@
       "id": "rpg",
       "label": "RPGs",
       "articles": [
+        {
+          "headline": "15 years later, Midnight in Paris remains as relevant as ever",
+          "source": "Polygon",
+          "summary": "The 2011 time-travel movie starring Owen Wilson explores the trap of nostalgia while showcasing an array of literary figures in 1920s Paris.",
+          "url": "https://www.polygon.com/midnight-in-paris-15th-anniversary-review/",
+          "published": "2026-05-19T23:00:21.000Z"
+        },
+        {
+          "headline": "The long awaited Civilization 7 Test of Time update is here, bringing a huge suite of changes with it",
+          "source": "Rock Paper Shotgun",
+          "summary": "The day that all of you Civvers have been hoping for is here. Firaxis have been promising Civilization 7's Test of Time update for a while now, and as I write these words into existence, that very update is available for you to download, complete with the most requested feature, ",
+          "url": "https://www.rockpapershotgun.com/the-long-awaited-civilization-7-test-of-time-update-is-here-bringing-a-huge-suite-of-changes-with-it",
+          "published": "2026-05-19T21:54:02.000Z"
+        },
+        {
+          "headline": "The Super Mario Bros. movie directors head to Netflix",
+          "source": "Polygon",
+          "summary": "Netflix signs big deal with Michael Jelenic and Aaron Horvath (The Super Mario Galaxy Movie) for new animated movies and TV.",
+          "url": "https://www.polygon.com/netflix-super-mario-movie-directors-deal/",
+          "published": "2026-05-19T21:29:16.000Z"
+        },
         {
           "headline": "Where to find redjade ginseng in Arknights: Endfield",
           "source": "Polygon",
@@ -318,20 +339,6 @@
           "published": "2026-05-19T18:02:19.000Z"
         },
         {
-          "headline": "PlayStation and Xbox have learned painful lessons about exclusives",
-          "source": "Polygon",
-          "summary": "Sony is going back to PS5 exclusives for its single-player games, and Microsoft is considering it. But there are complications",
-          "url": "https://www.polygon.com/sony-exclusives-playstation-xbox/",
-          "published": "2026-05-19T17:46:20.000Z"
-        },
-        {
-          "headline": "How to clear the Alien Ruins Angel Comb in Subnautica 2",
-          "source": "Polygon",
-          "summary": "Subnautica 2's Alien Ruins Angel Comb requires different handling. Here's how to clear the second Angel Comb",
-          "url": "https://www.polygon.com/subnautica-2-alien-ruins-angel-combs-2-power-plant/",
-          "published": "2026-05-19T17:23:47.000Z"
-        },
-        {
           "headline": "Subnautica 2's EULA is causing a bit of a ruckus, but Unknown Worlds say they're \"looking into\" the current terms",
           "source": "Rock Paper Shotgun",
           "summary": "It wouldn't be Subnautica 2 if there wasn't a little bit more controversy to be found, would it? This time it comes in the form of the game's EULA which, as roughly collated by a post over on the Stop Killing Games subreddit, includes some stipulations that certainly sound a bit ",
@@ -351,13 +358,6 @@
           "summary": "Arc Raiders devs Embark have announced that they're going to be rolling out Denuvo anti-cheat software as part of efforts to limit the amount of dodgy behaviour going on the shooter. The studio said they'll be working to minimise any impact this has on performance, as they also d",
           "url": "https://www.rockpapershotgun.com/arc-raiders-turns-to-denuvo-anti-cheat-in-hopes-of-curbing-foul-play-embark-say-theyre-working-to-ensure-minimal-impact-on-performance",
           "published": "2026-05-19T13:16:22.000Z"
-        },
-        {
-          "headline": "Steam's NSFW and Mature tags ditched by Valve in favour of \"more descriptive\" ones like Sexual Content and Gore, as part of wider revamp",
-          "source": "Rock Paper Shotgun",
-          "summary": "Valve have revealed a round of changes to the tags which can be applied to games on the Steam store. The ones designed to give you a brief idea of the genres or themes you're in for if you opt to give any specific game a go, as well as grouping together similar works. 17 new tags",
-          "url": "https://www.rockpapershotgun.com/steams-nsfw-and-mature-tags-ditched-by-valve-in-favour-of-more-descriptive-ones-like-sexual-content-and-gore-as-part-of-wider-revamp",
-          "published": "2026-05-19T11:03:50.000Z"
         }
       ]
     },
@@ -504,18 +504,53 @@
       "label": "Space",
       "articles": [
         {
+          "headline": "NASA’s Psyche Mission Images Mars’ Huygens Crater",
+          "source": "NASA",
+          "summary": "Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color view of the large double-ring crater Huygens (upper right; about 290 miles, or 470 kilometers, in diameter) and the surrounding heavily cratered southern highlands near",
+          "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-mars-huygens-crater/",
+          "published": "2026-05-19T20:47:13.000Z"
+        },
+        {
+          "headline": "NASA’s Psyche Mission Spies Mars’ Wind-Blown Craters During Close Approach",
+          "source": "NASA",
+          "summary": "Description This view of the Martian surface, captured by NASA’s Psyche spacecraft on May 15, 2026, shows streaks that have formed due to wind blowing over impact craters in the Syrtis Major region. The image scale is nearly 1,200 feet (360 meters) per pixel. The wind streaks ext",
+          "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-spies-mars-wind-blown-craters-during-close-approach/",
+          "published": "2026-05-19T20:43:20.000Z"
+        },
+        {
+          "headline": "Psyche’s High-Resolution View of Mars’ South Pole",
+          "source": "NASA",
+          "summary": "Description This is the highest-resolution view of the water ice-rich south polar cap of Mars captured by NASA’s Psyche mission after it made its close approach with the planet for a gravity assist. The image scale is around 0.7 miles per pixel (1.14 kilometers per pixel). The ca",
+          "url": "https://science.nasa.gov/photojournal/psyches-high-resolution-view-of-mars-south-pole/",
+          "published": "2026-05-19T20:38:49.000Z"
+        },
+        {
+          "headline": "SDA director Sandhoo takes on broader Space Force missile warning portfolio",
+          "source": "SpaceNews",
+          "summary": "The Pentagon is realigning the Space Development Agency’s satellite programs under new acquisition structure\nThe post SDA director Sandhoo takes on broader Space Force missile warning portfolio appeared first on SpaceNews.",
+          "url": "https://spacenews.com/sda-director-sandhoo-takes-on-broader-space-force-missile-warning-portfolio/",
+          "published": "2026-05-19T20:37:40.000Z"
+        },
+        {
+          "headline": "NASA’s Psyche Mission Sees Mars’ South Pole After Flyby",
+          "source": "NASA",
+          "summary": "Description This is Psyche’s first view of a nearly “full Mars” seen shortly after the spacecraft’s closest approach to the planet on May 15, 2026. The view extends from the south polar cap northwards to the Valles Marineris canyon system and beyond. With Mars in the rearview mir",
+          "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-sees-mars-south-pole-after-flyby/",
+          "published": "2026-05-19T20:34:02.000Z"
+        },
+        {
+          "headline": "NASA’s Psyche Mission Images the Crescent of Mars",
+          "source": "NASA",
+          "summary": "Description This view of a crescent Mars was captured on May 15, 2026, at about 5:03 a.m. PDT by NASA’s Psyche mission as it approached the planet for a gravity assist. Captured by the spacecraft’s multispectral imager instrument, this was the last view of the whole planet before",
+          "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-the-crescent-of-mars/",
+          "published": "2026-05-19T20:28:51.000Z"
+        },
+        {
           "headline": "NASA’s Psyche Mission Aces Mars Flyby, Targets Metal-Rich Asteroid",
           "source": "NASA",
           "summary": "NASA’s Psyche spacecraft completed its close approach of Mars on May 15, coming within 2,864 miles (4,609 kilometers) of the planet’s surface. This flyby used a gravity assist from Mars to provide a critical boost in speed and to adjust the spacecraft’s orbital plane without usin",
           "url": "https://www.nasa.gov/missions/psyche-mission/nasas-psyche-mission-aces-mars-flyby-targets-metal-rich-asteroid/",
           "published": "2026-05-19T19:49:33.000Z"
-        },
-        {
-          "headline": "Moon-Venus Conjunction",
-          "source": "NASA",
-          "summary": "The Moon and Venus, center, are seen in conjunction above the Washington Monument, Monday, May 18, 2026, as viewed from the Mary W. Jackson NASA Headquarters Building in Washington. The Moon and Venus look close together because they line up from our point of view on Earth. In re",
-          "url": "https://www.nasa.gov/image-article/moon-venus-conjunction/",
-          "published": "2026-05-19T17:07:23.000Z"
         },
         {
           "headline": "Startup challenging satellite industry’s multi-orbit playbook",
@@ -525,25 +560,11 @@
           "published": "2026-05-19T15:00:00.000Z"
         },
         {
-          "headline": "Johnson’s Cindy Evans Prepares Artemis Teams for Lunar Science",
-          "source": "NASA",
-          "summary": "NASA’s Artemis II crew had many technical and operational responsibilities during their historic mission to the Moon, but they also served an important role as scientific ambassadors to Earth’s nearest neighbor. On their 10-day journey, the crew flew by the far side of the Moon, ",
-          "url": "https://www.nasa.gov/centers-and-facilities/johnson/johnsons-cindy-evans-prepares-artemis-teams-for-lunar-science/",
-          "published": "2026-05-19T15:00:00.000Z"
-        },
-        {
           "headline": "Portal Space taps Quindar for ground mission support of its maneuvering spacecraft",
           "source": "SpaceNews",
           "summary": "Portal is preparing to launch maneuverable spacecraft aimed at the military market\nThe post Portal Space taps Quindar for ground mission support of its maneuvering spacecraft appeared first on SpaceNews.",
           "url": "https://spacenews.com/portal-space-taps-quindar-for-ground-mission-support-of-its-maneuvering-spacecraft/",
           "published": "2026-05-19T14:00:00.000Z"
-        },
-        {
-          "headline": "NASA’s New Shock Detectives Project Invites Volunteers to Help Study Solar Wind",
-          "source": "NASA",
-          "summary": "NASA’s Magnetospheric Multiscale (MMS) mission has collected more than ten years of data from this zone – more than scientists can analyze alone. As Shock Detectives, you’ll help sort the chaotic from peaceful regions of the data, giving researchers a crucial set of clues.",
-          "url": "https://science.nasa.gov/get-involved/citizen-science/nasas-new-shock-detectives-project-invites-volunteers-to-help-study-solar-wind/",
-          "published": "2026-05-19T13:05:00.000Z"
         },
         {
           "headline": "Vast announces line of high-power satellite buses",
@@ -565,27 +586,6 @@
           "summary": "The U.S. Senate confirmed Matt Anderson on May 18 as NASA’s deputy administrator, the second-in-command of the space agency.\nThe post Anderson confirmed as NASA deputy administrator appeared first on SpaceNews.",
           "url": "https://spacenews.com/anderson-confirmed-as-nasa-deputy-administrator/",
           "published": "2026-05-19T09:09:53.000Z"
-        },
-        {
-          "headline": "ESA-China SMILE mission lifts off to deliver first global images of Earth’s magnetosphere",
-          "source": "SpaceNews",
-          "summary": "The SMILE mission developed jointly by the European Space Agency and China has reached orbit after more than a decade of preparations and cooperation.\nThe post ESA-China SMILE mission lifts off to deliver first global images of Earth’s magnetosphere appeared first on SpaceNews.",
-          "url": "https://spacenews.com/esa-china-smile-mission-lifts-off-to-deliver-first-global-images-of-earths-magnetosphere/",
-          "published": "2026-05-19T05:13:28.000Z"
-        },
-        {
-          "headline": "Farming in Ancient Lake Agassiz",
-          "source": "NASA",
-          "summary": "The glacial lake left a layer of silt and clay in southeastern Manitoba, creating fertile farmland that was divided during 19th-century land surveys and is still farmed today.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/farming-in-ancient-lake-agassiz/",
-          "published": "2026-05-19T04:01:00.000Z"
-        },
-        {
-          "headline": "Curiosity Blog, Sols 4893-4899: Drilling at Campo Marte and a Visit From the Psyche Spacecraft",
-          "source": "NASA",
-          "summary": "Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center Earth planning date: Friday, May 15, 2026 After freeing the rover’s arm from the “Atacama” block, we are ready to drill again! The new drill target will represent the same geologic stratum as Atacama, wh",
-          "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4893-4899-drilling-at-campo-marte-and-a-visit-from-the-psyche-spacecraft/",
-          "published": "2026-05-19T00:33:45.000Z"
         }
       ]
     },
@@ -593,6 +593,27 @@
       "id": "climate",
       "label": "Climate",
       "articles": [
+        {
+          "headline": "Fire in the ‘Galapagos of North America’ Risks Species Found Nowhere Else",
+          "source": "Inside Climate News",
+          "summary": "An unrelenting wildfire has swallowed nearly a third of Santa Rosa Island, a small strip of land off the coast of California that is largely uninhabited by people but abundant with wildlife and plants, including several found nowhere else on Earth.  The blaze, which started last ",
+          "url": "https://insideclimatenews.org/news/19052026/todays-climate-wildfire-california-santa-rosa-island-species-risk/",
+          "published": "2026-05-19T23:58:12.000Z"
+        },
+        {
+          "headline": "UK ‘built for climate that no longer exists’ and needs urgent changes to survive global heating, report warns",
+          "source": "Guardian Climate",
+          "summary": "Landmark report calls for widespread air conditioning and says UK temperatures forecast to exceed 40C by 2050\nBritish homes will need air conditioning to survive predicted levels of global heating, the government’s climate advisers have warned in a report, as measures such as dra",
+          "url": "https://www.theguardian.com/environment/2026/may/20/uk-built-for-climate-that-no-longer-exists-and-needs-urgent-changes-to-survive-global-heating-report-warns",
+          "published": "2026-05-19T23:01:17.000Z"
+        },
+        {
+          "headline": "Britain must think like a hot country – otherwise inequalities will only grow",
+          "source": "Guardian Climate",
+          "summary": "The government must act to redress the unequal impact of climate change, or risk rising temperatures making disparities worse\n\nUK ‘built for climate that no longer exists’ and needs urgent changes to survive global heating, report warns\n\nIt may not always feel like it, but Briton",
+          "url": "https://www.theguardian.com/science/2026/may/20/britain-must-think-like-a-hot-country-otherwise-inequalities-will-only-grow",
+          "published": "2026-05-19T23:01:16.000Z"
+        },
         {
           "headline": "Alabama Coal Ash Lawsuit Can Continue, Appeals Court Rules",
           "source": "Inside Climate News",
@@ -603,7 +624,7 @@
         {
           "headline": "‘Foolish’ CSIRO job cuts will mean Australia unable to provide climate projections to global reports, scientists warn",
           "source": "Guardian Climate",
-          "summary": "Exclusive: Science agency is planning to sack a third of the team working on the national climate model, sources say\n\nGet our breaking news email, free app or daily news podcast\n\nJob cuts at the national science agency mean Australia will no longer be able to submit climate proje",
+          "summary": "Exclusive: Science agency is planning to sack a third of the team working on the national climate model, sources say\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nJob cuts at the national science agency mean ",
           "url": "https://www.theguardian.com/australia-news/2026/may/20/csiro-job-cuts-climate-australia-projections-to-global-reports",
           "published": "2026-05-19T15:00:08.000Z"
         },
@@ -636,13 +657,6 @@
           "published": "2026-05-18T22:52:34.000Z"
         },
         {
-          "headline": "Latin America Faces ‘Hydrological Whiplash’ as Climate Risks Mount",
-          "source": "Inside Climate News",
-          "summary": "If the 2025 climate year in Latin America and the Caribbean showed anything, it was that floodwaters can’t erase long-term drought, that temperatures will continue to soar past livable limits and that once-unprecedented storms are part of the region’s new climate reality. A World",
-          "url": "https://insideclimatenews.org/news/18052026/latin-america-global-warming-climate-risks/",
-          "published": "2026-05-18T19:26:56.000Z"
-        },
-        {
           "headline": "Trump cuts to weather data could make forecasts less reliable, warn experts",
           "source": "Guardian Climate",
           "summary": "Use of AI is a valuable tool for weather prediction but only when it’s trained with ample data, experts say\nAs the US prepares for hurricane season and a summer of record-breaking heat, experts fear the Trump administration’s cuts to climate and weather data programming could mak",
@@ -662,20 +676,6 @@
           "summary": "Requests for gas connections by operators amount to more than 15 terawatt hours per year, endangering climate targets\nMore than 100 new datacentres in the UK plan to burn gas to generate electricity, some potentially doing so permanently.\nBritish officials say this is an inevitab",
           "url": "https://www.theguardian.com/business/2026/may/18/uk-datacentres-plan-to-burn-gas-to-generate-electricity",
           "published": "2026-05-18T04:00:59.000Z"
-        },
-        {
-          "headline": "Experts sound alarm as North America’s bees start swarm season unusually early",
-          "source": "Guardian Climate",
-          "summary": "After record losses last year, beekeepers report a warm winter has led to bees ‘waking up earlier’ this year\nAfter a series of record-breaking US heatwaves, the 2026 bee swarm season in North America has started 17 days earlier than last year, pushing beekeepers to adapt to a rap",
-          "url": "https://www.theguardian.com/environment/2026/may/17/north-america-bees-early-swarm-season",
-          "published": "2026-05-17T12:00:38.000Z"
-        },
-        {
-          "headline": "Maldives diver dies in operation to recover bodies of Italians from cave",
-          "source": "Guardian Climate",
-          "summary": "Mohamed Mahudhee suffered decompression sickness after searching for scuba divers in Vaavu Atoll and died in hospital\nA Maldivian military diver has died during a high-risk operation to recover the bodies of four of the Italian scuba divers who drowned while exploring a deep unde",
-          "url": "https://www.theguardian.com/world/2026/may/16/maldives-scuba-divers-italy-drowned-cave",
-          "published": "2026-05-16T11:45:36.000Z"
         }
       ]
     },
