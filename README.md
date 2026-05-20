@@ -1,24 +1,54 @@
-# NeuroADHD — Daily Digest
+# NeuroADHD
 
-A personal news digest that pulls from RSS feeds, NewsAPI, The Guardian, and Hacker News — all fetched automatically by a GitHub Action. No API calls to browse. Zero cost to read.
+> A personal daily news digest built for brains that need the good stuff without the noise.
 
-Live demo: [fasthd97.github.io/NeuroADHD](https://fasthd97.github.io/NeuroADHD)
+**[Live demo →](https://fasthd97.github.io/NeuroADHD)**
+
+---
+
+Doom-scrolling is a terrible way to stay informed. NeuroADHD is a focused, tab-based news reader that pulls from sources you actually care about — RSS feeds, The Guardian, NewsAPI, and Hacker News — fetched automatically on a schedule and served as a fast static page. No algorithm. No engagement bait. No API calls to browse.
+
+Fork it, swap in your own topics, and have your own version live in under 15 minutes.
+
+![Topics: Tech & AI, Science, Politics, RPGs, Motorcycles, Archaeology, Space, Climate, Hacking]
 
 ---
 
 ## How it works
 
 ```
-src/feeds.json          ← your topics + sources (RSS, NewsAPI, Guardian, HN)
-       ↓ (GitHub Action, runs on schedule)
-public/feed.json        ← fetched articles (auto-generated)
+src/feeds.json          ← your topics + sources (you edit this)
        ↓
-GitHub Pages frontend   ← reads feed.json, zero API calls to browse
+  GitHub Action         ← runs on a schedule, fetches everything
+       ↓
+public/feed.json        ← static file of fetched articles
+       ↓
+  GitHub Pages          ← serves the frontend, reads feed.json
 ```
+
+**No backend. No database. No server costs.** The only thing that runs is a scheduled GitHub Action.
 
 ---
 
-## Setup (under 15 minutes)
+## Default topics
+
+| Tab | Sources |
+|---|---|
+| Tech & AI | TechCrunch, Wired, Guardian, NewsAPI, Hacker News |
+| Science | Science Daily, New Scientist, Guardian, NewsAPI |
+| Politics | BBC World, NY Times, Guardian, NewsAPI |
+| RPGs | Polygon, Rock Paper Shotgun, NewsAPI, HN |
+| Motorcycles | RideApart, Motorcycle Daily, NewsAPI |
+| Archaeology | Archaeology Magazine, World Archaeology, Ancient Origins, Guardian |
+| Space | SpaceNews, NASA, Guardian, HN |
+| Climate | Inside Climate News, Guardian Climate, NewsAPI |
+| Hacking & Security | 2600, Krebs on Security, The Hacker News, HN |
+
+All topics and sources are fully customizable from the in-app settings panel — no code editing needed.
+
+---
+
+## Get your own in 15 minutes
 
 ### 1. Fork this repo
 
@@ -26,55 +56,42 @@ GitHub Pages frontend   ← reads feed.json, zero API calls to browse
 
 **Settings → Pages → Source → GitHub Actions**
 
-### 3. Get API keys (optional but recommended)
+### 3. Add API keys (optional — more sources, better results)
 
-| Key | What it unlocks | Where to get it |
+Both are free tiers, no credit card needed.
+
+| Secret name | What it unlocks | Sign up |
 |---|---|---|
-| `NEWSAPI_KEY` | Search 150k+ sources by keyword | [newsapi.org](https://newsapi.org) — free |
-| `GUARDIAN_KEY` | Full-text Guardian article search | [open-platform.theguardian.com](https://open-platform.theguardian.com) — free |
+| `NEWSAPI_KEY` | Keyword search across 150,000+ sources | [newsapi.org](https://newsapi.org) |
+| `GUARDIAN_KEY` | Full-text Guardian article search | [open-platform.theguardian.com](https://open-platform.theguardian.com) |
 
-HackerNews requires no key. RSS feeds require no key.
+Add them at **Settings → Secrets and variables → Actions → New repository secret**
 
-### 4. Add secrets to your repo
+HackerNews and RSS feeds need no key and work out of the box.
 
-**Settings → Secrets and variables → Actions → New repository secret**
-
-Add `NEWSAPI_KEY` and/or `GUARDIAN_KEY` with your keys.
-
-### 5. Trigger the first fetch
+### 4. Run the first fetch
 
 **Actions → Fetch RSS Feeds → Run workflow**
 
-After this it runs automatically on schedule.
-
-### 6. Visit your site
+### 5. Visit your site
 
 `https://YOUR_USERNAME.github.io/NeuroADHD`
 
 ---
 
-## Customizing topics and sources
+## Customizing your topics
 
-Click **⚙ Settings** in the app. Each source has a type:
+Click **⚙ Settings** in the app. You can:
 
-| Type | What it does | Requires |
-|---|---|---|
-| `rss` | Fetches a standard RSS/Atom feed | A URL |
-| `newsapi` | Searches 150k+ sources by keyword | `NEWSAPI_KEY` secret |
-| `guardian` | Searches Guardian by keyword, returns full text | `GUARDIAN_KEY` secret |
-| `hackernews` | Searches HN via Algolia, surfaces any domain | Nothing |
+- Add or remove topics (tabs)
+- Add sources per topic — supports **RSS**, **NewsAPI**, **Guardian**, and **Hacker News** search
+- Use **✦ Find feeds** to have Claude suggest RSS URLs for a topic (~$0.01, needs your Anthropic API key)
 
-When you save, the app downloads a new `feeds.json` — commit it to `src/feeds.json` in your repo and push. The next Action run picks it up.
+When you save, the app downloads a new `feeds.json`. Commit it to `src/feeds.json` and push — the next Action run picks it up automatically.
 
-### Finding RSS feed URLs
+### Change the fetch schedule
 
-Click **✦ Find feeds** next to any topic. Uses Claude (~$0.01 per topic) to suggest RSS URLs. Optional — you can also add feeds manually.
-
----
-
-## Changing the fetch schedule
-
-**Settings → Schedule** — pick a preset (every 2/4/6/12hrs or daily) and download the updated `fetch.yml`. Commit it to `.github/workflows/fetch.yml`.
+**Settings → Schedule** — choose every 2, 4, 6, 12 hours, or daily. Downloads an updated workflow file to commit.
 
 Manual trigger anytime: **GitHub → Actions → Fetch RSS Feeds → Run workflow**
 
@@ -85,11 +102,11 @@ Manual trigger anytime: **GitHub → Actions → Fetch RSS Feeds → Run workflo
 ```bash
 npm install
 npm run dev          # frontend at localhost:5173
-npm run fetch        # run the RSS fetcher (writes public/feed.json)
-```
 
-For local fetch with API keys:
-```bash
+# Run the fetcher locally (writes public/feed.json)
+npm run fetch
+
+# With API keys
 NEWSAPI_KEY=your_key GUARDIAN_KEY=your_key npm run fetch
 ```
 
@@ -97,29 +114,26 @@ NEWSAPI_KEY=your_key GUARDIAN_KEY=your_key npm run fetch
 
 ## Roadmap
 
-### Phase 2 — Source trust ratings
-AllSides / Media Bias/Fact Check ratings shown alongside articles so you can see the political lean or reliability of what you're reading.
-
-### Phase 2 — RSS source browser
-Search and preview feeds before adding them, rather than pasting URLs manually.
-
-### TODO — Subscriber RSS feeds (needs investigation)
-Medium and Wired offer paid subscriptions. Some publications expose a private subscriber RSS URL that unlocks full text (tied to your account in settings). If either Medium or Wired offer this, they would work with the existing RSS fetcher at no extra cost.
-
-**To check:** Log into Medium → Settings → RSS. Log into Wired → Account settings. Look for a "private RSS feed" or "subscriber feed" link. If found, add it as a `type: rss` source — it should just work.
+- [ ] **Source trust ratings** — AllSides / Media Bias/Fact Check ratings alongside articles
+- [ ] **RSS source browser** — search and preview feeds before adding
+- [ ] **Subscriber feeds** — Medium and Wired offer paid subscriptions; investigating whether subscriber RSS URLs unlock full text (if so, drop the URL in as a standard RSS feed — it should just work)
 
 ---
 
 ## Stack
 
-- React + Vite
-- `rss-parser` for RSS/Atom feeds
-- NewsAPI, Guardian API, HN Algolia — fetched in GitHub Actions
-- GitHub Actions for scheduled fetch + deploy
-- GitHub Pages for static hosting
+- **React + Vite** — frontend
+- **rss-parser** — RSS/Atom feed fetching
+- **NewsAPI, Guardian API, HN Algolia** — fetched server-side in GitHub Actions
+- **GitHub Actions** — scheduled fetch + deploy pipeline
+- **GitHub Pages** — free static hosting
 
-No backend. No database. No ongoing costs beyond optional API keys.
+---
 
-## License
+## Why "NeuroADHD"?
 
-MIT
+Built as a vibe-coding project to practice shipping real software with AI as a reasoning partner. The name reflects the intended use: a focused, low-friction way to stay informed without getting sucked into infinite scroll. Good for anyone who wants signal without noise, but especially for brains that need a little help filtering.
+
+---
+
+MIT License
