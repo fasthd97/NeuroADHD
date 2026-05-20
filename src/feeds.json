@@ -140,18 +140,23 @@
     "feeds": [
       {
         "type": "rss",
-        "url": "https://archaeology.org/feed",
-        "name": "Archaeology Magazine"
-      },
-      {
-        "type": "rss",
         "url": "https://world-archaeology.com/feed",
         "name": "World Archaeology"
       },
       {
         "type": "rss",
-        "url": "https://www.ancient-origins.net/rss.xml",
+        "url": "https://feeds.feedburner.com/AncientOrigins",
         "name": "Ancient Origins"
+      },
+      {
+        "type": "rss",
+        "url": "https://ancientpages.com/feed",
+        "name": "Ancient Pages"
+      },
+      {
+        "type": "rss",
+        "url": "https://sapiens.org/feed",
+        "name": "Sapiens"
       },
       {
         "type": "guardian",
@@ -162,6 +167,11 @@
         "type": "newsapi",
         "query": "archaeology ancient discovery excavation",
         "name": "NewsAPI"
+      },
+      {
+        "type": "hackernews",
+        "query": "archaeology ancient discovery",
+        "name": "Hacker News"
       }
     ]
   },
