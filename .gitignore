@@ -1,0 +1,6 @@
+node_modules/
+dist/
+public/feed.json
+.env
+.env.local
+*.local
