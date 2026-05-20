@@ -1,10 +1,17 @@
 {
-  "generated": "2026-05-20T05:23:31.006Z",
+  "generated": "2026-05-20T08:52:48.554Z",
   "topics": [
     {
       "id": "tech",
       "label": "Tech & AI",
       "articles": [
+        {
+          "headline": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
+          "source": "TechCrunch",
+          "summary": "Google is completely revamping its search experience, and that doesn't stop at YouTube.",
+          "url": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
+          "published": "2026-05-20T05:45:00.000Z"
+        },
         {
           "headline": "Dell Coupon Codes: 20% Off for May 2026",
           "source": "Wired",
@@ -81,13 +88,6 @@
           "summary": "1 points · 0 comments on Hacker News",
           "url": "https://news.ycombinator.com/item?id=48199725",
           "published": "2026-05-19T21:13:03Z"
-        },
-        {
-          "headline": "Mach Industries just spent $50M to solve a major defense tech problem",
-          "source": "TechCrunch",
-          "summary": "Mach says the acquisition meaningfully improves unit economics across its five vehicle programs at exactly the moment the company is starting to scale.",
-          "url": "https://techcrunch.com/2026/05/19/mach-industries-just-spent-50m-to-solve-a-major-defense-tech-problem/",
-          "published": "2026-05-19T21:09:56.000Z"
         }
       ]
     },
@@ -95,6 +95,48 @@
       "id": "science",
       "label": "Science",
       "articles": [
+        {
+          "headline": "Lost for 150,000 years: Rainforest discovery upends human history",
+          "source": "Science Daily",
+          "summary": "For decades, scientists believed ancient humans avoided dense rainforests, treating them as nearly impossible environments for early survival. But a groundbreaking discovery in West Africa is rewriting that story. Researchers uncovered evidence that humans were living deep within",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260519003311.htm",
+          "published": "2026-05-20T06:22:18.000Z"
+        },
+        {
+          "headline": "Scientists use DNA from poop to save the world’s rarest marsupial",
+          "source": "Science Daily",
+          "summary": "Scientists in Australia are using cutting-edge DNA techniques to help save one of the world’s rarest marsupials — the critically endangered Gilbert’s potoroo, with fewer than 150 left in the wild. By analyzing tiny traces of DNA in the animals’ scat, researchers uncovered clues a",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260519224319.htm",
+          "published": "2026-05-20T04:45:48.000Z"
+        },
+        {
+          "headline": "T. rex’s tiny arms may have evolved for a surprisingly brutal reason",
+          "source": "Science Daily",
+          "summary": "Why did T. rex have such tiny arms? Scientists now think it’s because its giant head became the ultimate hunting tool. Across multiple dinosaur groups, stronger skulls and crushing jaws evolved alongside shrinking forelimbs, especially in predators hunting enormous prey. In other",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260519224314.htm",
+          "published": "2026-05-20T04:29:06.000Z"
+        },
+        {
+          "headline": "Scientists discover strange link between vitamin D and pain",
+          "source": "Science Daily",
+          "summary": "Low vitamin D levels could be quietly making breast cancer surgery recovery far more painful. In a new study, patients deficient in vitamin D were three times more likely to experience moderate to severe pain after mastectomy surgery and ended up using significantly more opioid m",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260519224308.htm",
+          "published": "2026-05-20T03:30:39.000Z"
+        },
+        {
+          "headline": "Humpback whale breaks migration record with 15,000 kilometer ocean journey",
+          "source": "Science Daily",
+          "summary": "Scientists have uncovered an astonishing new chapter in humpback whale migration: two whales were found to have traveled between breeding grounds in Australia and Brazil, crossing more than 14,000 kilometers of open ocean. One whale shattered records by covering at least 15,100 k",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260519224303.htm",
+          "published": "2026-05-20T03:15:18.000Z"
+        },
+        {
+          "headline": "Breakthrough drug reverses aging in skin and dramatically speeds healing",
+          "source": "Science Daily",
+          "summary": "Scientists have discovered that a topical anti-aging drug called ABT-263 can dramatically improve wound healing in older skin. The treatment works by removing damaged “senescent” cells that accumulate with age and slow the body’s repair process. In aged mice, wounds healed much f",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260519003215.htm",
+          "published": "2026-05-20T01:13:26.000Z"
+        },
         {
           "headline": "We may finally know why dinosaurs like T. rex evolved tiny arms",
           "source": "New Scientist",
@@ -117,34 +159,6 @@
           "published": "2026-05-19T16:00:37.000Z"
         },
         {
-          "headline": "Hidden earthquake faults beneath Seattle may be more dangerous than expected",
-          "source": "Science Daily",
-          "summary": "A hidden network of earthquake faults running beneath Seattle may be far more active than scientists realized. New research reveals that smaller “secondary” faults in the Seattle Fault Zone appear to rupture roughly every 350 years — much more often than the massive main fault th",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260518041442.htm",
-          "published": "2026-05-19T14:00:01.000Z"
-        },
-        {
-          "headline": "Scientists were wrong about this “rule-breaking” particle",
-          "source": "Science Daily",
-          "summary": "Scientists spent decades chasing signs of a mysterious new force hidden inside the muon, one of nature’s strangest particles. But after years of supercomputer calculations, researchers discovered the apparent anomaly was likely a calculation error — and the Standard Model still r",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260518041439.htm",
-          "published": "2026-05-19T13:27:07.000Z"
-        },
-        {
-          "headline": "Scientists boosted one protein and aging mice became stronger and healthier",
-          "source": "Science Daily",
-          "summary": "Scientists have identified a protein that appears to put the brakes on the chronic inflammation linked to aging. Older mice with boosted levels of the protein were stronger, more energetic, and had healthier bones than untreated mice. Researchers say the findings could eventually",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260518041436.htm",
-          "published": "2026-05-19T13:11:02.000Z"
-        },
-        {
-          "headline": "People who lost the most weight on Ozempic saw huge health benefits",
-          "source": "Science Daily",
-          "summary": "People who lost significant weight while taking Ozempic, Wegovy, Mounjaro, or Saxenda had sharply lower risks of major obesity-related health problems, including sleep apnea and kidney disease. Those who gained weight instead faced higher risks — especially for heart failure — ev",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260518041432.htm",
-          "published": "2026-05-19T13:05:57.000Z"
-        },
-        {
           "headline": "Wind-assisted cargo ships could more than halve shipping emissions",
           "source": "New Scientist",
           "summary": "If wind-assisted cargo ships chose routes based entirely on where the winds are better, their fuel use could be cut in half or even completely eliminated",
@@ -164,20 +178,6 @@
           "summary": "An exotic new molecule is shaped like a butterfly, complete with \"wings\" made from electrons. The discovery could provide a gateway to completely new parts of the quantum realm",
           "url": "https://www.newscientist.com/article/2526616-odd-butterfly-molecule-could-lead-to-new-parts-of-the-quantum-realm/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
           "published": "2026-05-19T10:00:39.000Z"
-        },
-        {
-          "headline": "Rare graves reveal a lost world of Bronze Age Europe hidden for 3,000 years",
-          "source": "Science Daily",
-          "summary": "Scientists have uncovered remarkable new details about Bronze Age life in Central Europe by studying rare burials untouched by cremation. The research reveals communities experimenting with new foods, burial rituals, and cultural connections while largely staying rooted in their ",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260518041445.htm",
-          "published": "2026-05-19T09:19:58.000Z"
-        },
-        {
-          "headline": "Scientists found a smarter Mediterranean diet that slashes diabetes risk by 31%",
-          "source": "Science Daily",
-          "summary": "A large European study revealed that a lower-calorie Mediterranean diet paired with exercise and coaching dramatically reduced the risk of type 2 diabetes. Participants who made these lifestyle changes were 31% less likely to develop the disease over six years. They also lost mor",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260519003103.htm",
-          "published": "2026-05-19T07:02:22.000Z"
         }
       ]
     },
@@ -185,6 +185,27 @@
       "id": "politics",
       "label": "Politics",
       "articles": [
+        {
+          "headline": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
+          "source": "BBC World",
+          "summary": "Jeff Landry's visit to the territory, a semi-autonomous part of Denmark, has touched a nerve among some Greenlanders.",
+          "url": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-20T03:49:24.000Z"
+        },
+        {
+          "headline": "Man who murdered teen TikTok star in Pakistan gets death sentence",
+          "source": "BBC World",
+          "summary": "Sana Yousaf's murder highlights a pattern of violence against women in Pakistan, activists say.",
+          "url": "https://www.bbc.com/news/articles/cvgzrgm0rgvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-20T01:52:24.000Z"
+        },
+        {
+          "headline": "Woman dies after falling into uncovered New York City manhole",
+          "source": "BBC World",
+          "summary": "It's believed the manhole cover on the city's Fifth Avenue was dislodged by a truck  minutes before incident.",
+          "url": "https://www.bbc.com/news/articles/cy02pzxejyno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-20T00:11:27.000Z"
+        },
         {
           "headline": "Father-of-eight killed in San Diego mosque shooting hailed as hero",
           "source": "BBC World",
@@ -198,20 +219,6 @@
           "summary": "Health officials reported more than 130 suspected deaths and 540 cases in the Democratic Republic of Congo and Uganda, but experts say the figures could be much higher.",
           "url": "https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html",
           "published": "2026-05-19T21:19:34.000Z"
-        },
-        {
-          "headline": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
-          "source": "BBC World",
-          "summary": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
-          "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-19T19:32:22.000Z"
-        },
-        {
-          "headline": "Estonia says Nato jet shot down drone over its territory",
-          "source": "BBC World",
-          "summary": "Estonia suspects the drone was a Ukrainian projectile knocked off course by Russian electronic jamming.",
-          "url": "https://www.bbc.com/news/articles/c302jy8z4vro?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-19T19:01:44.000Z"
         },
         {
           "headline": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
@@ -233,13 +240,6 @@
           "summary": "Bezalel Smotrich, the hard-line minister, said he was retaliating for the International Criminal Court prosecutor seeking his arrest, something the court did not confirm nor deny.",
           "url": "https://www.nytimes.com/2026/05/19/world/middleeast/smotrich-icc-west-bank.html",
           "published": "2026-05-19T17:58:47.000Z"
-        },
-        {
-          "headline": "Key people smuggler arrested after BBC uncovered identity",
-          "source": "BBC World",
-          "summary": "The 28-year-old's network is thought to have transported thousands of illegal migrants into the UK.",
-          "url": "https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-19T17:05:41.000Z"
         },
         {
           "headline": "Trump Says He Postponed a ‘Very Major Attack’ on Iran, Leaving Mideast on Edge",
@@ -275,6 +275,27 @@
       "id": "rpg",
       "label": "RPGs",
       "articles": [
+        {
+          "headline": "Magic: The Gathering is fixing Spider-Man's Arena issue with new Marvel set",
+          "source": "Polygon",
+          "summary": "After months of bizarre digital-only cards, Magic and Marvel have seemingly cracked the Arena problem. Spider-Man will also get a full rehaul.",
+          "url": "https://www.polygon.com/magic-the-gathering-mtg-arena-marvel-spider-man-fixed-cards/",
+          "published": "2026-05-20T08:19:50.000Z"
+        },
+        {
+          "headline": "The Boys season 6? Everything we know about Vought Rising and the future of the franchise",
+          "source": "Polygon",
+          "summary": "The Boys is officially over, but Amazon's superhero show will continue in 2027 with Vought Rising. And more spinoffs could follow.",
+          "url": "https://www.polygon.com/the-boys-spinoff-vought-rising-explainer/",
+          "published": "2026-05-20T08:01:18.000Z"
+        },
+        {
+          "headline": "\"Seven or eight years is not that unusual\": Diablo 4 lead says AAA games are taking longer to make, which is bad news for junior applicants",
+          "source": "Rock Paper Shotgun",
+          "summary": "The biggest videogames are taking longer to make, according to Diablo 4 lead engine engineer Marcin Undak, and one consequence is that there are fewer junior openings at industry dreadnoughts like Blizzard and CD Projekt, because companies prefer to hire juniors right at the star",
+          "url": "https://www.rockpapershotgun.com/seven-or-eight-years-is-not-that-unusual-diablo-4-lead-says-aaa-games-are-taking-longer-to-make-which-is-bad-news-for-junior-applicants",
+          "published": "2026-05-20T07:59:28.000Z"
+        },
         {
           "headline": "What time does Lego Batman: Legacy of the Dark Knight release in your time zone?",
           "source": "Polygon",
@@ -318,25 +339,11 @@
           "published": "2026-05-19T20:28:46.000Z"
         },
         {
-          "headline": "God of War Faye spinoff could answer a major mystery",
-          "source": "Polygon",
-          "summary": "The rumored God of War spinoff starring Faye could answer the \"Who blew the horn\" question if one fan theory is correct.",
-          "url": "https://www.polygon.com/god-of-war-faye-leak-state-of-play-who-blew-horn/",
-          "published": "2026-05-19T19:16:10.000Z"
-        },
-        {
           "headline": "Take a nice long look at some Paralives gameplay ahead of its early access launch next week",
           "source": "Rock Paper Shotgun",
           "summary": "Paralives, originally slated for release in 2025, is now right around the corner with an early access launch slated for May 25th next week. So what better a way to whet the appetite than with a nice lengthy look at the game in action, right from making your own Sims- sorry, Paras",
           "url": "https://www.rockpapershotgun.com/take-a-nice-long-look-at-some-paralives-gameplay-ahead-of-its-early-access-launch-next-week",
           "published": "2026-05-19T19:01:38.000Z"
-        },
-        {
-          "headline": "Rick and Morty movie officially confirmed by Dan Harmon with the best possible director",
-          "source": "Polygon",
-          "summary": "Dan Harmon confirmed that a Rick and Morty movie is officially in development, with longtime supervising director Jacob Hair attached to direct.",
-          "url": "https://www.polygon.com/rick-and-mortys-movie-confirmed/",
-          "published": "2026-05-19T18:55:53.000Z"
         },
         {
           "headline": "Subnautica 2's EULA is causing a bit of a ruckus, but Unknown Worlds say they're \"looking into\" the current terms",
@@ -351,13 +358,6 @@
           "summary": "There is no denying that plenty of RPGs, purposefully designed so or not, are some kind of power fantasy. You're the destined hero, the chosen one, you've heard it all before. Outward 2, like its predecessor, doesn't position you as such a figure. You are simply just a regular ad",
           "url": "https://www.rockpapershotgun.com/outward-2-lines-up-a-july-release-date-with-the-promise-that-even-your-dusty-old-potato-of-a-pc-can-run-it",
           "published": "2026-05-19T16:05:12.000Z"
-        },
-        {
-          "headline": "Arc Raiders turns to Denuvo Anti-Cheat in hopes of curbing foul play, Embark say they're \"working to ensure minimal impact on performance\"",
-          "source": "Rock Paper Shotgun",
-          "summary": "Arc Raiders devs Embark have announced that they're going to be rolling out Denuvo anti-cheat software as part of efforts to limit the amount of dodgy behaviour going on the shooter. The studio said they'll be working to minimise any impact this has on performance, as they also d",
-          "url": "https://www.rockpapershotgun.com/arc-raiders-turns-to-denuvo-anti-cheat-in-hopes-of-curbing-foul-play-embark-say-theyre-working-to-ensure-minimal-impact-on-performance",
-          "published": "2026-05-19T13:16:22.000Z"
         }
       ]
     },
@@ -504,53 +504,11 @@
       "label": "Space",
       "articles": [
         {
-          "headline": "Fire Chars Santa Rosa Island",
-          "source": "NASA",
-          "summary": "The blaze spread across the southern side of the second-largest island in California’s Channel Islands National Park.",
-          "url": "https://science.nasa.gov/earth/earth-observatory/fire-chars-santa-rosa-island/",
-          "published": "2026-05-20T04:00:00.000Z"
-        },
-        {
-          "headline": "NASA’s Psyche Mission Images Mars’ Huygens Crater",
-          "source": "NASA",
-          "summary": "Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color view of the large double-ring crater Huygens (upper right; about 290 miles, or 470 kilometers, in diameter) and the surrounding heavily cratered southern highlands near",
-          "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-mars-huygens-crater/",
-          "published": "2026-05-19T20:47:13.000Z"
-        },
-        {
-          "headline": "NASA’s Psyche Mission Spies Mars’ Wind-Blown Craters During Close Approach",
-          "source": "NASA",
-          "summary": "Description This view of the Martian surface, captured by NASA’s Psyche spacecraft on May 15, 2026, shows streaks that have formed due to wind blowing over impact craters in the Syrtis Major region. The image scale is nearly 1,200 feet (360 meters) per pixel. The wind streaks ext",
-          "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-spies-mars-wind-blown-craters-during-close-approach/",
-          "published": "2026-05-19T20:43:20.000Z"
-        },
-        {
-          "headline": "Psyche’s High-Resolution View of Mars’ South Pole",
-          "source": "NASA",
-          "summary": "Description This is the highest-resolution view of the water ice-rich south polar cap of Mars captured by NASA’s Psyche mission after it made its close approach with the planet for a gravity assist. The image scale is around 0.7 miles per pixel (1.14 kilometers per pixel). The ca",
-          "url": "https://science.nasa.gov/photojournal/psyches-high-resolution-view-of-mars-south-pole/",
-          "published": "2026-05-19T20:38:49.000Z"
-        },
-        {
           "headline": "SDA director Sandhoo takes on broader Space Force missile warning portfolio",
           "source": "SpaceNews",
           "summary": "The Pentagon is realigning the Space Development Agency’s satellite programs under new acquisition structure\nThe post SDA director Sandhoo takes on broader Space Force missile warning portfolio appeared first on SpaceNews.",
           "url": "https://spacenews.com/sda-director-sandhoo-takes-on-broader-space-force-missile-warning-portfolio/",
           "published": "2026-05-19T20:37:40.000Z"
-        },
-        {
-          "headline": "NASA’s Psyche Mission Sees Mars’ South Pole After Flyby",
-          "source": "NASA",
-          "summary": "Description This is Psyche’s first view of a nearly “full Mars” seen shortly after the spacecraft’s closest approach to the planet on May 15, 2026. The view extends from the south polar cap northwards to the Valles Marineris canyon system and beyond. With Mars in the rearview mir",
-          "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-sees-mars-south-pole-after-flyby/",
-          "published": "2026-05-19T20:34:02.000Z"
-        },
-        {
-          "headline": "NASA’s Psyche Mission Images the Crescent of Mars",
-          "source": "NASA",
-          "summary": "Description This view of a crescent Mars was captured on May 15, 2026, at about 5:03 a.m. PDT by NASA’s Psyche mission as it approached the planet for a gravity assist. Captured by the spacecraft’s multispectral imager instrument, this was the last view of the whole planet before",
-          "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-the-crescent-of-mars/",
-          "published": "2026-05-19T20:28:51.000Z"
         },
         {
           "headline": "Startup challenging satellite industry’s multi-orbit playbook",
@@ -684,6 +642,13 @@
       "label": "Hacking & Security",
       "articles": [
         {
+          "headline": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
+          "source": "The Hacker News",
+          "summary": "Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised.\n\nIt said the scope of the incident is limited to the Grafana Labs GitHub environment, which includes public and private so",
+          "url": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
+          "published": "2026-05-20T05:12:06.000Z"
+        },
+        {
           "headline": "GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories",
           "source": "The Hacker News",
           "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum.\n\n\"While we currently have no evidence of impac",
@@ -724,13 +689,6 @@
           "summary": "Drupal has issued an alert stating that it intends to release a \"core security release\" for all supported branches on May 20, 2026, from 5-9 p.m. UTC.\n\n\"The Drupal Security Team urges you to reserve time for core updates at that time because exploits might be developed within hou",
           "url": "https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html",
           "published": "2026-05-19T10:44:45.000Z"
-        },
-        {
-          "headline": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
-          "source": "The Hacker News",
-          "summary": "Critical security vulnerabilities have been disclosed in SEPPMail Secure E-Mail Gateway, an enterprise-grade email security solution, that could be exploited to achieve remote code execution and enable an attacker to read arbitrary mails from the virtual appliance.\n\"These vulnera",
-          "url": "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html",
-          "published": "2026-05-19T09:23:15.000Z"
         },
         {
           "headline": "CISA Admin Leaked AWS GovCloud Keys on Github",
