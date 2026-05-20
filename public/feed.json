@@ -1,10 +1,17 @@
 {
-  "generated": "2026-05-20T08:52:48.554Z",
+  "generated": "2026-05-20T09:10:01.405Z",
   "topics": [
     {
       "id": "tech",
       "label": "Tech & AI",
       "articles": [
+        {
+          "headline": "Data Brokers’ and AI Firms’ Opt-Out Forms Are Built to Fail, Report Finds",
+          "source": "Wired",
+          "summary": "A new study finds AI companies, defense firms, and dating apps are among 38 data collectors allegedly using manipulative design to confuse users while collecting their data.",
+          "url": "https://www.wired.com/story/data-brokers-and-ai-firms-opt-out-forms-are-built-to-fail-report-finds/",
+          "published": "2026-05-20T09:00:00.000Z"
+        },
         {
           "headline": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
           "source": "TechCrunch",
@@ -45,13 +52,6 @@
           "source": "Wired",
           "summary": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
           "url": "https://www.wired.com/story/sony-promo-code/",
-          "published": "2026-05-20T05:00:00.000Z"
-        },
-        {
-          "headline": "Stearns and Foster Promo Codes: $300 Off in May",
-          "source": "Wired",
-          "summary": "Discover the best Stearns and Foster promo codes, discounts, and deals to elevate your sleep experience with premium comfort and quality.",
-          "url": "https://www.wired.com/story/stearns-and-foster-promo-code/",
           "published": "2026-05-20T05:00:00.000Z"
         },
         {
@@ -276,6 +276,13 @@
       "label": "RPGs",
       "articles": [
         {
+          "headline": "Hasbro cancel Dungeons and Dragons action game helmed by Star Wars Jedi: Fallen Order director, leaving studio hunting for new publishing deal",
+          "source": "Rock Paper Shotgun",
+          "summary": "Hasbro have opted to pull the publishing plug on the Dungeons and Dragons action game they and developers Giant Skull announced last June. Said plug was reportedly pulled at some point earlier this year, leaving the studio headed by former Star Wars Jedi series director Stig Asmu",
+          "url": "https://www.rockpapershotgun.com/hasbro-cancel-dungeons-and-dragons-action-game-helmed-by-star-wars-jedi-fallen-order-director-leaving-studio-hunting-for-new-publishing-deal",
+          "published": "2026-05-20T09:08:44.000Z"
+        },
+        {
           "headline": "Magic: The Gathering is fixing Spider-Man's Arena issue with new Marvel set",
           "source": "Polygon",
           "summary": "After months of bizarre digital-only cards, Magic and Marvel have seemingly cracked the Arena problem. Spider-Man will also get a full rehaul.",
@@ -351,13 +358,6 @@
           "summary": "It wouldn't be Subnautica 2 if there wasn't a little bit more controversy to be found, would it? This time it comes in the form of the game's EULA which, as roughly collated by a post over on the Stop Killing Games subreddit, includes some stipulations that certainly sound a bit ",
           "url": "https://www.rockpapershotgun.com/subnautica-2s-eula-is-causing-a-bit-of-a-ruckus-but-unknown-worlds-say-theyre-looking-into-the-current-terms",
           "published": "2026-05-19T17:06:01.000Z"
-        },
-        {
-          "headline": "Outward 2 lines up a July release date with the promise that even your dusty old potato of a PC can run it",
-          "source": "Rock Paper Shotgun",
-          "summary": "There is no denying that plenty of RPGs, purposefully designed so or not, are some kind of power fantasy. You're the destined hero, the chosen one, you've heard it all before. Outward 2, like its predecessor, doesn't position you as such a figure. You are simply just a regular ad",
-          "url": "https://www.rockpapershotgun.com/outward-2-lines-up-a-july-release-date-with-the-promise-that-even-your-dusty-old-potato-of-a-pc-can-run-it",
-          "published": "2026-05-19T16:05:12.000Z"
         }
       ]
     },
@@ -504,11 +504,53 @@
       "label": "Space",
       "articles": [
         {
+          "headline": "Fire Chars Santa Rosa Island",
+          "source": "NASA",
+          "summary": "The blaze spread across the southern side of the second-largest island in California’s Channel Islands National Park.",
+          "url": "https://science.nasa.gov/earth/earth-observatory/fire-chars-santa-rosa-island/",
+          "published": "2026-05-20T04:00:00.000Z"
+        },
+        {
+          "headline": "NASA’s Psyche Mission Images Mars’ Huygens Crater",
+          "source": "NASA",
+          "summary": "Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color view of the large double-ring crater Huygens (upper right; about 290 miles, or 470 kilometers, in diameter) and the surrounding heavily cratered southern highlands near",
+          "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-mars-huygens-crater/",
+          "published": "2026-05-19T20:47:13.000Z"
+        },
+        {
+          "headline": "NASA’s Psyche Mission Spies Mars’ Wind-Blown Craters During Close Approach",
+          "source": "NASA",
+          "summary": "Description This view of the Martian surface, captured by NASA’s Psyche spacecraft on May 15, 2026, shows streaks that have formed due to wind blowing over impact craters in the Syrtis Major region. The image scale is nearly 1,200 feet (360 meters) per pixel. The wind streaks ext",
+          "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-spies-mars-wind-blown-craters-during-close-approach/",
+          "published": "2026-05-19T20:43:20.000Z"
+        },
+        {
+          "headline": "Psyche’s High-Resolution View of Mars’ South Pole",
+          "source": "NASA",
+          "summary": "Description This is the highest-resolution view of the water ice-rich south polar cap of Mars captured by NASA’s Psyche mission after it made its close approach with the planet for a gravity assist. The image scale is around 0.7 miles per pixel (1.14 kilometers per pixel). The ca",
+          "url": "https://science.nasa.gov/photojournal/psyches-high-resolution-view-of-mars-south-pole/",
+          "published": "2026-05-19T20:38:49.000Z"
+        },
+        {
           "headline": "SDA director Sandhoo takes on broader Space Force missile warning portfolio",
           "source": "SpaceNews",
           "summary": "The Pentagon is realigning the Space Development Agency’s satellite programs under new acquisition structure\nThe post SDA director Sandhoo takes on broader Space Force missile warning portfolio appeared first on SpaceNews.",
           "url": "https://spacenews.com/sda-director-sandhoo-takes-on-broader-space-force-missile-warning-portfolio/",
           "published": "2026-05-19T20:37:40.000Z"
+        },
+        {
+          "headline": "NASA’s Psyche Mission Sees Mars’ South Pole After Flyby",
+          "source": "NASA",
+          "summary": "Description This is Psyche’s first view of a nearly “full Mars” seen shortly after the spacecraft’s closest approach to the planet on May 15, 2026. The view extends from the south polar cap northwards to the Valles Marineris canyon system and beyond. With Mars in the rearview mir",
+          "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-sees-mars-south-pole-after-flyby/",
+          "published": "2026-05-19T20:34:02.000Z"
+        },
+        {
+          "headline": "NASA’s Psyche Mission Images the Crescent of Mars",
+          "source": "NASA",
+          "summary": "Description This view of a crescent Mars was captured on May 15, 2026, at about 5:03 a.m. PDT by NASA’s Psyche mission as it approached the planet for a gravity assist. Captured by the spacecraft’s multispectral imager instrument, this was the last view of the whole planet before",
+          "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-the-crescent-of-mars/",
+          "published": "2026-05-19T20:28:51.000Z"
         },
         {
           "headline": "Startup challenging satellite industry’s multi-orbit playbook",
@@ -551,6 +593,13 @@
       "id": "climate",
       "label": "Climate",
       "articles": [
+        {
+          "headline": "Prescribed Burns and Forest Thinning Averted Millions of Tons of Emissions and Billions in Damages",
+          "source": "Inside Climate News",
+          "summary": "Work to reduce excess flammable vegetation in forests warded off the release of 2.7 million tons of carbon dioxide, averted nearly 60 premature deaths and avoided $2.8 billion in damages in the Western U.S., according to a new study from the University of California, Davis.  The ",
+          "url": "https://insideclimatenews.org/news/20052026/wildfire-management-prevents-carbon-emissions-and-billions-in-damages/",
+          "published": "2026-05-20T09:00:00.000Z"
+        },
         {
           "headline": "Wildfire Crews Race to Keep Fierce California Blaze From Former Nuclear Reactor Site",
           "source": "Inside Climate News",
@@ -606,13 +655,6 @@
           "summary": "New Zealand’s government has announced that it plans to amend the country’s signature climate law to prohibit liability arising from climate change damages, a controversial move that critics say would shield polluters from climate lawsuits and undermine the rule of law. It comes ",
           "url": "https://insideclimatenews.org/news/19052026/new-zealand-amends-climate-law-protects-polluters/",
           "published": "2026-05-19T08:55:00.000Z"
-        },
-        {
-          "headline": "A Utility Mega-Merger Is All About Data Centers",
-          "source": "Inside Climate News",
-          "summary": "A proposed merger of the largest utility in the country by market value, NextEra Energy, with the sixth-largest, Dominion, would create a megacompany at a time when data centers and rapid increases in electricity demand are reshaping the industry. The proposal, announced Monday m",
-          "url": "https://insideclimatenews.org/news/18052026/nextera-dominion-utility-mega-merger/",
-          "published": "2026-05-18T23:07:40.000Z"
         },
         {
           "headline": "Trump cuts to weather data could make forecasts less reliable, warn experts",
