@@ -71,6 +71,11 @@
         "name": "NY Times World"
       },
       {
+        "type": "rss",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "name": "Al Jazeera"
+      },
+      {
         "type": "guardian",
         "query": "politics world news",
         "name": "Guardian"
